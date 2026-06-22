@@ -1,0 +1,152 @@
+{
+  "session_id": "1782069797882",
+  "created_at": 1782069797.8822312,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "completed",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {
+    "script_generation": {
+      "project_id": "proj_1782069797882",
+      "session_id": "1782069797882",
+      "version": 1,
+      "created_at": "2026-06-21T19:24:42.990859+00:00",
+      "meta": {
+        "generation_model": "agnes-2.0-flash",
+        "generation_prompt": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+        "original_text": "第1集\n**第1集-第1场 日 内 联合指挥中心**\n人物:林锐, 王教授, 技术员\n<action>警报声大作,屏幕红光闪烁</action>\n林锐(怒吼):能量读数突破阈值!\n技术员(颤抖):紧急冷却程序启动失败!\n王教授(绝望):是哥斯拉,它醒了!\n林锐(冷静):切断主电源,封锁出口!\n<action>地面剧烈震动,灯光熄灭</action>\n王教授(惊慌):通讯全断了,信号屏蔽!\n林锐(坚定):准备撤离,带上核心硬盘!\n技术员(哭泣):长官,门被撞开了!\n<action>大门变形,哥斯拉头部探入</action>\n林锐(举枪):掩护教授,往地下撤!\n王教授(拉扯):快走!这里要塌了!\n<action>哥斯拉张嘴,蓝光凝聚</action>\n林锐(推人):跳下去!别回头!\n<action>原子吐息轰击天花板</action>\n王教授(跌落):林锐!\n林锐(被气浪掀翻):抓住管道!\n<action>混凝土块坠落,阻断视线</action>\n林锐(喘息):还没结束...\n<action>黑暗吞噬一切</action>\n第2集\n**第2集-第2场 日 外 废墟街道**\n人物:林锐, 幸存者A, 幸存者B\n<action>林锐从瓦砾中爬出,满脸血污</action>\n幸存者A(哭喊):救救我,腿断了!\n林锐(查看手表):没时间了,跟我走!\n<action>远处传来沉重的脚步声</action>\n幸存者B(惊恐):是金刚!它在搜索!\n林锐(压低声音):别出声,趴下!\n<action>金刚巨大的手掌拍碎墙壁</action>\n幸存者A(颤抖):它会发现我们的!\n林锐(观察地形):那边有掩体,快!\n<action>金刚转头,目光扫过废墟</action>\n林锐(拉动引信):听我口令,跑!\n<action>烟雾弹爆炸,白烟弥漫</action>\n幸存者B(咳嗽):这是什么?\n林锐(拉起两人):掩护视线,冲!\n<action>金刚挥拳,打散烟雾</action>\n林锐(喘息):甩掉它了,继续走!\n<action>三人消失在拐角处</action>\n第3集\n**第3集-第3场 日 内 地下避难所**\n人物:林锐, 王教授, 神秘人\n<action>林锐破门而入,枪口对准前方</action>\n王教授(被绑):林锐!是我!\n<action>神秘人坐在阴影中,把玩芯片</action>\n林锐(警惕):你是谁?为什么抓他?\n神秘人(微笑):为了让你活下去。\n<action>林锐看向王教授,眼神复杂</action>\n王教授(解释):他...能帮我们对抗巨兽!\n林锐(皱眉):凭什么相信你?\n神秘人(起身):看看这个,基因序列。\n<action>芯片闪烁着诡异的蓝光</action>\n林锐(接过):能控制它们?\n神秘人(摇头):不能控制,只能激发潜能。\n<action>林锐将芯片插入枪身接口</action>\n王教授(惊呼):这太危险了!\n神秘人(后退):祝你好运,猎人。\n<action>神秘人消失在暗道中</action>\n林锐(握紧枪):王教授,这次信你一次。\n第4集\n**第4集-第4场 日 外 港口码头**\n人物:林锐, 金刚, 哥斯拉\n<action>林锐站在码头中央,寒风凛冽</action>\n哥斯拉(咆哮):嘶——!\n金刚(怒吼):吼!!!\n<action>两头巨兽同时冲向林锐</action>\n林锐(冷静):就是现在!\n<action>等离子步枪充能,发出嗡鸣声</action>\n林锐(射击):光束直击哥斯拉胸口!\n<action>哥斯拉踉跄后退,痛苦嘶吼</action>\n金刚(挥锤):砸向林锐!\n<action>林锐翻滚躲避,战锤粉碎地面</action>\n林锐(起身):还没完呢!\n<action>再次射击,光束击中金刚膝盖</action>\n金刚(失衡):跪倒在地!\n<action>哥斯拉发射原子吐息</action>\n林锐(狂奔):跳进水里!\n<action>林锐跃入海中,避开高温</action>\n<action>水面沸腾,蒸汽弥漫</action>\n林锐(潜入深处):游戏才刚开始。"
+      },
+      "title": "巨兽围城:猎手觉醒",
+      "logline": "在哥斯拉与金刚苏醒引发城市毁灭后,幸存的特种兵林锐携带关键基因芯片,在废墟与地下避难所中周旋,最终在港口直面两头巨兽,开启反击之路。",
+      "genre": [
+        "动作",
+        "科幻",
+        "灾难"
+      ],
+      "mood": "紧张压抑,充满危机感与爆发力",
+      "characters": [
+        {
+          "name": "林锐",
+          "description": "男性,约三十岁,黑色短发,身穿深灰色战术作战服,佩戴战术背心,体型健壮结实,面部轮廓硬朗。",
+          "species": "人类",
+          "character_id": "char_bc2029"
+        },
+        {
+          "name": "王教授",
+          "description": "男性,约六十岁,灰白色短发,佩戴金属框眼镜,身穿米色长袖衬衫搭配深色西装马甲,体型微胖,面容和蔼。",
+          "species": "人类",
+          "character_id": "char_327019"
+        },
+        {
+          "name": "技术员",
+          "description": "男性,约二十五岁,棕色短发,身穿浅蓝色连体工作服,佩戴胸牌,体型瘦削,五官清秀。",
+          "species": "人类",
+          "character_id": "char_54a3de"
+        },
+        {
+          "name": "神秘人",
+          "description": "性别不明,黑色长发束成低马尾,身穿黑色高领紧身衣搭配皮质长风衣,体型修长匀称,五官深邃。",
+          "species": "人类",
+          "character_id": "char_db1980"
+        },
+        {
+          "name": "幸存者A",
+          "description": "女性,约二十岁,金色长发披肩,身穿红色针织毛衣搭配牛仔裤,体型纤细,五官精致。",
+          "species": "人类",
+          "character_id": "char_67a39c"
+        },
+        {
+          "name": "幸存者B",
+          "description": "男性,约四十岁,黑色寸头,身穿灰色夹克搭配卡其色工装裤,体型中等偏壮,面容普通。",
+          "species": "人类",
+          "character_id": "char_aacf7a"
+        }
+      ],
+      "settings": [
+        {
+          "name": "联合指挥中心",
+          "description": "室内空间,明亮的人工冷白光照明,核心陈设为大型弧形监控屏幕阵列、控制台及红色警示灯设备,墙面为金属材质。",
+          "description_simplified": "室内空间,明亮的人工冷白光照明,核心陈设为大型弧形监控屏幕阵列、控制台及红色警示灯设备,墙面为金属材质。",
+          "setting_id": "set_29ebbd"
+        },
+        {
+          "name": "废墟街道",
+          "description": "室外空间,充足的自然日光照射,核心陈设为断裂的混凝土墙体、散落的钢筋结构及倒塌的建筑残骸,地面平整无杂物堆积。",
+          "description_simplified": "室外空间,充足的自然日光照射,核心陈设为断裂的混凝土墙体、散落的钢筋结构及倒塌的建筑残骸,地面平整无杂物堆积。",
+          "setting_id": "set_657e12"
+        },
+        {
+          "name": "地下避难所",
+          "description": "室内空间,温暖的暖黄色灯光照明,核心陈设为坚固的金属防爆门、石质墙壁及简易休息区家具,环境整洁有序。",
+          "description_simplified": "室内空间,温暖的暖黄色灯光照明,核心陈设为坚固的金属防爆门、石质墙壁及简易休息区家具,环境整洁有序。",
+          "setting_id": "set_4bf2be"
+        },
+        {
+          "name": "港口码头",
+          "description": "室外空间,明亮的自然日光照射,核心陈设为宽阔的水泥平台、系船柱及远处停泊的货轮,视野开阔,设施完好。",
+          "description_simplified": "室外空间,明亮的自然日光照射,核心陈设为宽阔的水泥平台、系船柱及远处停泊的货轮,视野开阔,设施完好。",
+          "setting_id": "set_1f05ed"
+        }
+      ],
+      "episodes": [
+        {
+          "episode_number": 1,
+          "act_title": "指挥中心崩塌",
+          "content": "**第1集-第1场 日 内 联合指挥中心**\n人物:林锐, 王教授, 技术员\n<action>警报声大作,屏幕红光闪烁</action>\n林锐(怒吼):能量读数突破阈值!\n技术员(颤抖):紧急冷却程序启动失败!\n王教授(绝望):是哥斯拉,它醒了!\n林锐(冷静):切断主电源,封锁出口!\n<action>地面剧烈震动,灯光熄灭</action>\n王教授(惊慌):通讯全断了,信号屏蔽!\n林锐(坚定):准备撤离,带上核心硬盘!\n技术员(哭泣):长官,门被撞开了!\n<action>大门变形,哥斯拉头部探入</action>\n林锐(举枪):掩护教授,往地下撤!\n王教授(拉扯):快走!这里要塌了!\n<action>哥斯拉张嘴,蓝光凝聚</action>\n林锐(推人):跳下去!别回头!\n<action>原子吐息轰击天花板</action>\n王教授(跌落):林锐!\n林锐(被气浪掀翻):抓住管道!\n<action>混凝土块坠落,阻断视线</action>\n林锐(喘息):还没结束...\n<action>黑暗吞噬一切</action>"
+        },
+        {
+          "episode_number": 2,
+          "act_title": "废墟遭遇金刚",
+          "content": "**第2集-第2场 日 外 废墟街道**\n人物:林锐, 幸存者A, 幸存者B\n<action>林锐从瓦砾中爬出,满脸血污</action>\n幸存者A(哭喊):救救我,腿断了!\n林锐(查看手表):没时间了,跟我走!\n<action>远处传来沉重的脚步声</action>\n幸存者B(惊恐):是金刚!它在搜索!\n林锐(压低声音):别出声,趴下!\n<action>金刚巨大的手掌拍碎墙壁</action>\n幸存者A(颤抖):它会发现我们的!\n林锐(观察地形):那边有掩体,快!\n<action>金刚转头,目光扫过废墟</action>\n林锐(拉动引信):听我口令,跑!\n<action>烟雾弹爆炸,白烟弥漫</action>\n幸存者B(咳嗽):这是什么?\n林锐(拉起两人):掩护视线,冲!\n<action>金刚挥拳,打散烟雾</action>\n林锐(喘息):甩掉它了,继续走!\n<action>三人消失在拐角处</action>"
+        },
+        {
+          "episode_number": 3,
+          "act_title": "神秘人与芯片",
+          "content": "**第3集-第3场 日 内 地下避难所**\n人物:林锐, 王教授, 神秘人\n<action>林锐破门而入,枪口对准前方</action>\n王教授(被绑):林锐!是我!\n<action>神秘人坐在阴影中,把玩芯片</action>\n林锐(警惕):你是谁?为什么抓他?\n神秘人(微笑):为了让你活下去。\n<action>林锐看向王教授,眼神复杂</action>\n王教授(解释):他...能帮我们对抗巨兽!\n林锐(皱眉):凭什么相信你?\n神秘人(起身):看看这个,基因序列。\n<action>芯片闪烁着诡异的蓝光</action>\n林锐(接过):能控制它们?\n神秘人(摇头):不能控制,只能激发潜能。\n<action>林锐将芯片插入枪身接口</action>\n王教授(惊呼):这太危险了!\n神秘人(后退):祝你好运,猎人。\n<action>神秘人消失在暗道中</action>\n林锐(握紧枪):王教授,这次信你一次。"
+        },
+        {
+          "episode_number": 4,
+          "act_title": "双兽围剿码头",
+          "content": "**第4集-第4场 日 外 港口码头**\n人物:林锐, 金刚, 哥斯拉\n<action>林锐站在码头中央,寒风凛冽</action>\n哥斯拉(咆哮):嘶——!\n金刚(怒吼):吼!!!\n<action>两头巨兽同时冲向林锐</action>\n林锐(冷静):就是现在!\n<action>等离子步枪充能,发出嗡鸣声</action>\n林锐(射击):光束直击哥斯拉胸口!\n<action>哥斯拉踉跄后退,痛苦嘶吼</action>\n金刚(挥锤):砸向林锐!\n<action>林锐翻滚躲避,战锤粉碎地面</action>\n林锐(起身):还没完呢!\n<action>再次射击,光束击中金刚膝盖</action>\n金刚(失衡):跪倒在地!\n<action>哥斯拉发射原子吐息</action>\n林锐(狂奔):跳进水里!\n<action>林锐跃入海中,避开高温</action>\n<action>水面沸腾,蒸汽弥漫</action>\n林锐(潜入深处):游戏才刚开始。"
+        }
+      ]
+    }
+  },
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1782069882.9942055
+    }
+  },
+  "error": null,
+  "updated_at": 1782069882.994201,
+  "meta": {
+    "idea": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+    "user_textbox_input": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
