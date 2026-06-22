@@ -1,0 +1,46 @@
+{
+  "session_id": "1781898240340",
+  "created_at": 1781898240.341238,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "error",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {},
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "执行失败",
+      "message": "执行失败",
+      "percent": 10,
+      "updated_at": 1781905033.7930415
+    }
+  },
+  "error": "Max attempts reached, failed to get a response from Qwen.",
+  "updated_at": 1781905033.793035,
+  "meta": {
+    "idea": "太空漫步",
+    "user_textbox_input": "太空漫步",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "qwen3.5-plus",
+    "vlm_model": "qwen3.5-plus",
+    "image_t2i_model": "doubao-seedream-5-0-260128",
+    "image_it2i_model": "doubao-seedream-5-0-260128",
+    "video_first_frame_model": "wan2.7-i2v",
+    "video_start_end_model": "wan2.7-i2v",
+    "video_reference_model": "wan2.7-r2v",
+    "video_generation_mode": "first_frame",
+    "video_model": "wan2.7-i2v",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
