@@ -1,0 +1,46 @@
+{
+  "session_id": "1781933967517",
+  "created_at": 1781933967.518137,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "stopped",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {},
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "已停止",
+      "message": "已停止",
+      "percent": 0,
+      "updated_at": 1781934711.7956738
+    }
+  },
+  "error": null,
+  "updated_at": 1781934711.795669,
+  "meta": {
+    "idea": "制作一个温馨治愈的日常风格短片，主角是一只橘猫",
+    "user_textbox_input": "制作一个温馨治愈的日常风格短片，主角是一只橘猫",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
