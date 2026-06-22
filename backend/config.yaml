@@ -1,0 +1,51 @@
+project_name: Video-Claw
+server:
+  host: 127.0.0.1
+  port: 8000
+  log_level: INFO
+  access_log: false
+api_providers:
+  common:
+    print_model_input: false
+    proxy: ''
+  openai:
+    api_key: sk-NCs2IvaHFUuSTfGLfanSh89wPDkx0WMe5jlYAAaFMKLMQekC
+    base_url: https://apihub.agnes-ai.com/v1
+    enable_proxy: false
+  gemini:
+    api_key: ''
+    base_url: https://generativelanguage.googleapis.com/v1beta
+    enable_proxy: false
+  deepseek:
+    api_key: ''
+    base_url: https://api.deepseek.com/v1
+    enable_proxy: false
+  dashscope:
+    api_key: ''
+    base_url: https://dashscope.aliyuncs.com/api/v1
+    enable_proxy: false
+  ark:
+    api_key: ''
+    base_url: https://ark.cn-beijing.volces.com/api/v3
+    enable_proxy: false
+  kling:
+    base_url: https://api-beijing.klingai.com
+    access_key: ''
+    secret_key: ''
+    enable_proxy: false
+models:
+  llm: agnes-2.0-flash
+  llm_default_model: agnes-2.0-flash
+  vlm: agnes-2.0-flash
+  image_it2i: agnes-image-2.0-flash
+  image_t2i: agnes-image-2.0-flash
+  video: agnes-video-v2.0
+  video_first_frame: agnes-video-v2.0
+  video_start_end: agnes-video-v2.0
+  video_reference: agnes-video-v2.0
+generation:
+  style: realistic
+  video_ratio: '16:9'
+  video_resolution: 720P
+  video_generation_mode: first_frame
+  enable_vlm_evaluation: false  # 禁用 VLM 图片评估（Agnes AI 不支持多模态）
