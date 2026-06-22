@@ -1,0 +1,100 @@
+{
+  "session_id": "1781987743470",
+  "created_at": 1781987743.4709945,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "completed",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {
+    "script_generation": {
+      "project_id": "proj_1781987743470",
+      "session_id": "1781987743470",
+      "version": 1,
+      "created_at": "2026-06-20T20:37:34.204296+00:00",
+      "meta": {
+        "generation_model": "agnes-2.0-flash",
+        "generation_prompt": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+        "original_text": "第1集\n第1场 日 内 联合防御指挥中心\n人物:指挥官赵刚,技术员小李,科学家陈博士\n<action>警报声低沉嗡鸣,红灯急促闪烁</action>\n赵刚(暴怒):报告!深海怪物的位置在哪里?\n陈博士(焦急):不是丢失,是能量干扰!东京湾水位骤降三十米!\n赵刚(阴沉):那是它的背鳍露出水面了吗?\n陈博士(绝望):那是金刚!它刚从地心出来!\n赵刚(轻蔑):一只大猩猩而已,核弹头可不是摆设。\n小李(插嘴):可是哥斯拉来了!它在海沟咆哮!\n赵刚(果断):启动所有防空导弹,锁定哥斯拉!\n陈博士(阻拦):不行!它们在互相吸引!\n<action>赵刚猛地按下红色发射按钮</action>\n小李(尖叫):导弹已发射!目标锁定背部!\n<action>远处传来沉闷爆炸声,毫无效果</action>\n陈博士(捂脸):完了,我们激怒了它们。\n小李(震惊):长官...导弹被挡住了!\n陈博士(绝望):不,是金刚用尾巴扫开了!\n<action>地面剧烈震动,天花板灰尘簌簌落下</action>\n小李(看向屏幕):天哪...金刚跳出来了!\n<action>巨大的阴影笼罩了整个指挥中心</action>\n赵刚(强装镇定):那就用重型机甲迎击!\n<action>机甲启动的轰鸣声盖过了警报声</action>\n赵刚(不耐烦):别废话!开火!给我狠狠地打!\n<action>机甲炮火齐发,光束照亮了整个大厅</action>\n陈博士(突然抬头):不好!哥斯拉没有躲!\n<action>哥斯拉张开巨口,蓝光瞬间吞噬视野</action>\n赵刚(惊恐):撤退!快让机甲撤退!\n陈博士(摇头):来不及了,金刚也冲过来了!\n<action>巨大的脚掌踩碎了指挥中心的玻璃幕墙</action>\n赵刚(后退):你们两个...到底想干什么?!\n陈博士(崩溃大喊):是我们逼它们的!\n<action>金刚发出震耳欲聋的咆哮,直视赵刚</action>\n陈博士(冷冷地):不,它在宣告主权。\n<action>哥斯拉的尾鞭横扫过来,击碎了主控台</action>\n赵刚(最后一句):我们要死了..."
+      },
+      "title": "巨兽围城",
+      "logline": "联合防御指挥中心试图拦截哥斯拉与金刚,却因误判局势引发两只巨兽的共同愤怒,导致基地毁灭。",
+      "genre": [
+        "灾难",
+        "动作",
+        "科幻"
+      ],
+      "mood": "紧张压抑",
+      "characters": [
+        {
+          "name": "赵刚",
+          "description": "中年男性,短发,身穿深蓝色军装制服,体型健壮,面容严肃,无佩戴首饰。",
+          "species": "人类",
+          "character_id": "char_4bccf5"
+        },
+        {
+          "name": "小李",
+          "description": "青年男性,黑色短发,身穿浅灰色技术操作员制服,体型中等,面容清秀,无佩戴首饰。",
+          "species": "人类",
+          "character_id": "char_b0d963"
+        },
+        {
+          "name": "陈博士",
+          "description": "老年男性,花白短发,佩戴金属边框眼镜,身穿白色实验大褂,体型偏瘦,面容清癯。",
+          "species": "人类",
+          "character_id": "char_ea48af"
+        }
+      ],
+      "settings": [
+        {
+          "name": "联合防御指挥中心",
+          "description": "室内军事指挥所,明亮人工照明,设有大型监控屏幕阵列、红色警报灯、主控台及金属座椅,墙面为灰色金属材质。",
+          "setting_id": "set_10f9b2"
+        }
+      ],
+      "episodes": [
+        {
+          "episode_number": 1,
+          "act_title": "巨兽降临,指挥崩溃",
+          "content": "第1场 日 内 联合防御指挥中心\n人物:指挥官赵刚,技术员小李,科学家陈博士\n<action>警报声低沉嗡鸣,红灯急促闪烁</action>\n赵刚(暴怒):报告!深海怪物的位置在哪里?\n陈博士(焦急):不是丢失,是能量干扰!东京湾水位骤降三十米!\n赵刚(阴沉):那是它的背鳍露出水面了吗?\n陈博士(绝望):那是金刚!它刚从地心出来!\n赵刚(轻蔑):一只大猩猩而已,核弹头可不是摆设。\n小李(插嘴):可是哥斯拉来了!它在海沟咆哮!\n赵刚(果断):启动所有防空导弹,锁定哥斯拉!\n陈博士(阻拦):不行!它们在互相吸引!\n<action>赵刚猛地按下红色发射按钮</action>\n小李(尖叫):导弹已发射!目标锁定背部!\n<action>远处传来沉闷爆炸声,毫无效果</action>\n陈博士(捂脸):完了,我们激怒了它们。\n小李(震惊):长官...导弹被挡住了!\n陈博士(绝望):不,是金刚用尾巴扫开了!\n<action>地面剧烈震动,天花板灰尘簌簌落下</action>\n小李(看向屏幕):天哪...金刚跳出来了!\n<action>巨大的阴影笼罩了整个指挥中心</action>\n赵刚(强装镇定):那就用重型机甲迎击!\n<action>机甲启动的轰鸣声盖过了警报声</action>\n赵刚(不耐烦):别废话!开火!给我狠狠地打!\n<action>机甲炮火齐发,光束照亮了整个大厅</action>\n陈博士(突然抬头):不好!哥斯拉没有躲!\n<action>哥斯拉张开巨口,蓝光瞬间吞噬视野</action>\n赵刚(惊恐):撤退!快让机甲撤退!\n陈博士(摇头):来不及了,金刚也冲过来了!\n<action>巨大的脚掌踩碎了指挥中心的玻璃幕墙</action>\n赵刚(后退):你们两个...到底想干什么?!\n陈博士(崩溃大喊):是我们逼它们的!\n<action>金刚发出震耳欲聋的咆哮,直视赵刚</action>\n陈博士(冷冷地):不,它在宣告主权。\n<action>哥斯拉的尾鞭横扫过来,击碎了主控台</action>\n赵刚(最后一句):我们要死了..."
+        }
+      ]
+    }
+  },
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1781987854.2097538
+    }
+  },
+  "error": null,
+  "updated_at": 1781987854.20975,
+  "meta": {
+    "idea": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+    "user_textbox_input": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 1
+  }
+}
