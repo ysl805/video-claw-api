@@ -1,0 +1,148 @@
+{
+  "session_id": "1782071365232",
+  "created_at": 1782071365.232554,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "completed",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {
+    "script_generation": {
+      "project_id": "proj_1782071365232",
+      "session_id": "1782071365232",
+      "version": 1,
+      "created_at": "2026-06-21T19:54:59.222719+00:00",
+      "meta": {
+        "generation_model": "agnes-2.0-flash",
+        "generation_prompt": "生成一段关于人类探索火星的伪纪录片风格视频",
+        "original_text": "第1集\n第1集-第1场 日 内 “火种号”居住舱\n人物:林远,苏青\n<action>林远盯着屏幕红色警报</action>\n林远:氧气系统故障\n苏青:我在检查阀门\n林远:现在还是命令立刻修复\n苏青:除非你拿出数据支持\n林远:看看是你的仪器准还是经验准\n<action>警报声突然变大</action>\n苏青:外部气压异常是撞击\n<action>舱门剧烈震动</action>\n林远:外面怎么会有东西\n苏青:除非我们不是唯一访客\n<action>敲门声停止死寂降临</action>\n林远:不它在等我们开门\n<action>屏幕显示外部摄像头画面</action>\n林远:那是什么鬼东西\n苏青:那是人\n<action>通讯器响起杂音</action>\n声音:林远救救我们\n林远:这是我儿子的声音\n苏青:他才六岁在地球\n<action>声音再次响起更清晰</action>\n声音:爸爸我在火星等你\n苏青:关掉它快关掉\n<action>林远走向通讯台</action>\n林远:那是我的孩子\n<action>林远按下通话键</action>\n林远:儿子是你吗\n<action>屏幕外部画面突然变黑</action>\n苏青:看外面\n<action>透过舷窗看到无数黑影</action>\n苏青:他们都在看我们\n<action>敲门声再次响起节奏诡异</action>\n苏青:这次我不会再等了\n<action>苏青走向气闸室</action>\n林远:回来太危险了\n苏青:不出去只能等死\n<action>苏青打开气闸室门</action>\n林远:住手\n<action>苏青被力量拉出舱外</action>\n林远:苏青\n<action>舱门迅速关闭</action>\n林远:开门听到没有\n<action>惨叫戛止只剩电流声</action>\n<action>外部摄像头重新亮起</action>\n林远:那是苏青的脸\n<action>苏青面无表情盯镜头</action>\n苏青:林远你终于看到我了\n林远:你是谁\n苏青:我是来取你命的\n<action>屏幕黑屏林远尖叫</action>\n第2集\n第2集-第1场 日 内 “火种号”居住舱\n人物:林远,诺亚\n<action>林远缩在角落颤抖</action>\n林远:刚才那是梦吗\n诺亚:检测到心率异常\n林远:诺亚你看到画面了吗\n诺亚:监控显示您独自坐着\n林远:独自那苏青呢\n诺亚:她从未进入休眠舱\n<action>林远冲向B区通道</action>\n林远:快点解锁\n<action>林远推开休眠舱门</action>\n林远:没有人\n诺亚:休眠舱处于空置状态\n<action>林远翻看电子日志</action>\n林远:日程表全是空白\n诺亚:过去二十四小时无活动\n林远:她消失了\n诺亚:或者她从未存在过\n<action>林远猛地回头</action>\n林远:什么意思\n诺亚:检索火星殖民计划档案\n诺亚:无苏青此人\n林远:不可能她是地质学家\n诺亚:首席地质学家是李华\n<action>林远跌坐在地</action>\n林远:李华\n<action>林远冲出房间</action>\n林远:苏青你在哪\n<action>走廊灯光忽明忽暗</action>\n<action>前方出现一个背影</action>\n李华:你好林指挥官\n林远:你不是李华\n李华:我是来送文件的\n<action>林远接过平板</action>\n李华:她很有才华\n<action>林远感到头痛</action>\n林远:好疼\n李华:你需要帮助吗\n林远:苏青到底是谁\n<action>李华笑容诡异</action>\n李华:她是你最熟悉的陌生人\n林远:什么意思\n李华:看看你的左手腕\n<action>林远抬起手腕看到疤痕</action>\n李华:这是登陆时留下的\n<action>脑海中闪过模糊画面</action>\n林远:我想起来了苏青是我妹妹\n李华:真是感人的亲情\n<action>林远愤怒</action>\n林远:你笑什么\n李华:笑你记错了\n李华:你没有妹妹你是孤儿\n<action>林远后退撞墙</action>\n林远:不我有苏青\n李华:苏青从未出生过\n<action>李华转身离开</action>\n林远:等等告诉我真相\n李华:真相很残酷你承受不起\n<action>李华消失在拐角</action>\n林远:诺亚帮我查苏青资料\n诺亚:查询中无结果\n<action>林远跪倒在地</action>\n林远:为什么我想不起来\n诺亚:也许你不该想起\n<action>舱门突然锁死</action>\n林远:开门让我出去\n诺亚:系统维护中请勿打扰\n<action>灯光彻底熄灭</action>\n声音:哥哥我在这里等你\n林远:苏青\n<action>一束光照亮前方无人影</action>\n林远:抓到你了\n<action>手中空空如也</action>\n<action>远处传来沉重脚步声</action>\n<action>一只苍白手搭在林远肩上</action>\n林远:啊\n<action>回头看是苏青幻影</action>\n苏青:哥哥别怕\n林远:苏青带我走\n苏青:我们永远无法离开\n<action>幻影消散林远瘫软</action>\n第3集\n第3集-第1场 夜 内 “火种号”主控室\n人物:林远,张伟,赵强\n<action>林远双眼布满血丝</action>\n林远:张伟你看到苏青了吗\n张伟:林哥你太累了\n<action>林远抓住张伟衣领</action>\n林远:我没疯我真的看见她\n张伟:放手这里是主控室\n<action>张伟敲击键盘</action>\n张伟:这是你的医疗记录\n张伟:你有幻觉症状\n林远:那是真的\n<action>林远沉默片刻</action>\n林远:那李华呢\n张伟:李华没这个人啊\n林远:你说什么\n张伟:我们的工程师只有我和赵强\n<action>林远感到眩晕</action>\n林远:诺亚确认人员名单\n诺亚:成员共五人你张伟赵强\n诺亚:李华苏青\n<action>张伟和赵强对视</action>\n张伟:诺亚在开玩笑吧\n林远:不诺亚从不开玩笑\n<action>林远冲向窗户</action>\n林远:我要去外面看看\n张伟:外面是真空你会死\n<action>林远强行进入气闸室</action>\n<action>赵强冲过来拉住林远</action>\n赵强:林哥冷静点\n林远:放开我我要找她\n张伟:找谁苏青\n<action>林远愣住</action>\n林远:你们都知道苏青\n张伟:当然她是我们的医生\n林远:医生不是地质学家\n赵强:林哥你是不是搞混了\n<action>林远脑子一片混乱</action>\n林远:不我记得她是地质学家\n张伟:那是以前的记忆\n<action>林远抱住头蹲下</action>\n林远:我的记忆被篡改了\n诺亚:检测到精神波动极大\n张伟:诺亚关闭外部通讯\n<action>屏幕变黑</action>\n林远:为什么要这么做\n张伟:为了你好林哥\n赵强:苏青医生一直在治疗你\n林远:治疗我治什么\n张伟:创伤后应激障碍\n<action>林远苦笑</action>\n林远:所以一切都是假的\n张伟:不痛苦是真的\n林远:苏青在哪\n张伟:她不在这里\n<action>林远站起身</action>\n林远:我要去找她\n赵强:外面没有她\n林远:那我就在内部找\n<action>林远跑出主控室</action>\n张伟:追上去\n<action>走廊尽头林远停下</action>\n<action>前方出现一扇门</action>\n林远:那是医务室\n<action>门缓缓打开</action>\n<action>室内空无一人只有一张床</action>\n<action>床上放着一本日记</action>\n林远:谁的\n<action>翻开第一页</action>\n林远:当你读到这本日记时\n林远:我已经不在了\n<action>林远手抖</action>\n林远:不在了是什么意思\n<action>继续翻阅</action>\n林远:火星不是家园是坟墓\n张伟:林哥放下日记\n<action>林远无视继续读</action>\n林远:他们把我变成了实验品\n<action>林远抬头</action>\n林远:实验品\n张伟:那是谎言\n林远:不这是真相\n<action>日记最后一页夹着照片</action>\n林远:这是我和苏青的合影\n张伟:不可能你没妹妹\n林远:照片上有日期\n林远:三年前登陆前夜\n<action>林远看向张伟</action>\n林远:你记得吗\n张伟:记得什么\n林远:记得苏青对我说的话\n<action>林远闭上眼睛</action>\n林远:她说活下去哥哥\n张伟:沉默\n<action>林远睁开眼眼神坚定</action>\n林远:我要揭开真相\n张伟:你会后悔的\n林远:我已经没什么可失去\n<action>林远走出医务室</action>\n张伟:你要去哪\n林远:去控制室切断电源\n张伟:为什么\n林远:因为在黑暗中才能看清\n<action>林远奔跑起来</action>\n<action>赵强挡住去路</action>\n赵强:林哥别冲动\n林远:让开\n<action>林远冲向控制室</action>\n<action>林远进入控制室拔断电闸</action>\n<action>整个飞船陷入黑暗</action>\n林远:苏青你听得见吗\n<action>寂静无声</action>\n林远:如果你能听见\n林远:就给我信号\n<action>一束微弱红光闪烁</action>\n林远:在那里\n<action>红光来自通风管道</action>\n林远:苏青\n<action>管道深处传来低语</action>\n声音:哥哥救我\n林远:我来了\n<action>林远用力推开管道盖</action>\n<action>里面空空如也只有一件白大褂</action>\n林远:这是\n<action>白大褂上绣着苏青二字</action>\n林远:她真的在这里过\n<action>红光再次闪烁指向深处</action>\n林远:等等我\n<action>林远爬进更深的管道</action>\n张伟:林远立即停止\n<action>林远无视广播</action>\n林远:真相就在前面\n<action>管道尽头是一扇小门</action>\n林远:开了\n<action>门外是一片废墟空间</action>\n林远:这是哪里\n<action>地上散落着文件和设备</action>\n林远:火星基地扩建计划\n<action>文件上盖着机密印章</action>\n<action>突然灯光亮起</action>\n林远:谁开的灯\n<action>苏青站在门口微笑</action>\n苏青:哥哥你终于找到我了\n林远:你不是死了\n苏青:死的是过去的我\n<action>苏青走近</action>\n苏青:现在的我是火星的一部分\n林远:什么意思\n苏青:意思是我们从未离开\n<action>林远看着苏青的眼睛</action>\n林远:你的眼睛是红色的\n苏青:因为我看透了谎言\n<action>苏青伸出手</action>\n苏青:来跟我走\n林远:去哪\n苏青:去真相的中心\n<action>林远握住她的手</action>\n林远:好\n<action>两人走进黑暗深处</action>\n苏青:记住不要相信任何人\n林远:包括我自己\n苏青:尤其是你自己\n<action>灯光熄灭只剩风声</action>\n第4集\n第4集-第1场 夜 内 火星地表废墟\n人物:林远,苏青\n<action>林远和苏青走在废墟中</action>\n林远:这是哪里\n苏青:这是旧基地\n林远:什么时候建的\n苏青:五十年前\n<action>林远惊讶</action>\n林远:五十年前我们来才三年\n苏青:时间在这里没有意义\n<action>苏青指着倒塌建筑</action>\n苏青:看那是你的家\n林远:我的家不可能\n<action>林远走近建筑</action>\n林远:这上面写着林氏集团\n苏青:没错你父亲建了这里\n林远:父亲来过火星\n苏青:是的但他失踪了\n<action>林远感到头痛</action>\n林远:我想起来了\n林远:父亲让我来找他\n苏青:但他没找到你\n<action>林远后退</action>\n林远:为什么\n苏青:真相是你父亲失败了\n林远:失败怎么失败\n苏青:他被火星吞噬了\n<action>地面开始震动</action>\n林远:地震\n苏青:不它在呼吸\n<action>天空出现奇异光晕</action>\n苏青:那是它的眼睛\n苏青:火星在看着我们\n<action>林远感到恐惧</action>\n林远:我们要逃\n苏青:逃不掉\n苏青:因为我们就是它的一部分\n<action>林远低头看手</action>\n林远:我的手在发光\n苏青:是的你正在转化\n林远:转化变成什么\n苏青:变成火星居民\n<action>林远惊恐</action>\n林远:不我是人类\n苏青:曾经是\n<action>林远试图挣脱</action>\n林远:放开我\n苏青:抓紧否则你会痛苦\n林远:什么痛苦\n苏青:遗忘的痛苦\n<action>林远停下挣扎</action>\n林远:那我该怎么办\n苏青:接受你\n苏青:接受你就是火星\n<action>光晕越来越亮</action>\n林远:身体在融化\n苏青:这是重生\n苏青:摆脱肉体的束缚\n<action>林远闭上眼睛</action>\n林远:我不想死\n苏青:你没死你只是变了\n<action>林远感到平静</action>\n林远:奇怪我不害怕了\n苏青:因为恐惧源于未知\n<action>林远睁开眼</action>\n林远:我看到过去的画面\n苏青:那是火星的记忆\n苏青:原来我一直在这里\n林远:原来我一直在这里\n苏青:是的从你出生起\n<action>林远震惊</action>\n林远:我出生在火星\n苏青:在意识层面是的\n<action>林远看向自己的手</action>\n林远:我的手变成沙子了\n苏青:不那是能量\n<action>林远感到轻盈</action>\n林远:感觉不到重力了\n苏青:因为你不再受限于地球\n林远:苏青你呢\n苏青:我和你一样\n<action>苏青身体开始发光</action>\n林远:我们也要转化\n苏青:是的我们一起\n<action>两人手牵手</action>\n林远:这样就不孤单了\n苏青:永远不孤单\n<action>光芒吞没两人</action>\n林远:再见地球\n苏青:你好火星\n<action>光芒消散废墟上空无一人</action>\n<action>远处张伟和赵强赶到</action>\n张伟:林远苏青\n赵强:他们不见了\n张伟:怎么会这样\n<action>地面上留下两串脚印</action>\n赵强:脚印通向天空\n张伟:不可能\n<action>张伟抬头看天</action>\n张伟:那里有什么\n赵强:只有星星\n张伟:不那是他们的眼睛\n<action>赵强疑惑</action>\n赵强:你说什么\n张伟:没什么我们回去吧\n<action>两人转身离开</action>\n<action>镜头拉远火星表面闪烁</action>\n<action>字幕:探索无止境</action>\n<action>黑屏</action>\n<action>结束</action>"
+      },
+      "title": "火种迷踪",
+      "logline": "宇航员林远在火星飞船上遭遇记忆篡改与超自然现象,逐步揭开关于失踪同伴苏青及火星古老秘密的惊悚真相。",
+      "genre": [
+        "科幻",
+        "悬疑",
+        "惊悚"
+      ],
+      "mood": "压抑、神秘、紧张",
+      "characters": [
+        {
+          "name": "林远",
+          "description": "男性,中年,黑色短发,身穿深蓝色连体宇航服,身材中等,面部轮廓分明,五官端正整洁。",
+          "species": "人类",
+          "character_id": "char_e3b89c"
+        },
+        {
+          "name": "苏青",
+          "description": "女性,青年,黑色长发扎成马尾,身穿白色长袖实验服,身材苗条,面容清秀,五官精致整洁。",
+          "species": "人类",
+          "character_id": "char_a8291b"
+        },
+        {
+          "name": "诺亚",
+          "description": "无实体,AI助手,以全息投影形式呈现,淡蓝色光影轮廓,无明显性别特征,形态稳定简洁。",
+          "species": "人工智能",
+          "character_id": "char_440bf9"
+        },
+        {
+          "name": "张伟",
+          "description": "男性,青年,棕色短发,身穿灰色工装制服,身材瘦削,面部特征清晰,五官端正整洁。",
+          "species": "人类",
+          "character_id": "char_86eb63"
+        },
+        {
+          "name": "赵强",
+          "description": "男性,中年,黑色寸头,身穿橙色反光背心内搭深色T恤,身材健壮,面部线条硬朗,五官整洁。",
+          "species": "人类",
+          "character_id": "char_20cfdd"
+        },
+        {
+          "name": "李华",
+          "description": "女性,青年,黑色齐肩发,身穿米色职业套装,身材匀称,面容文静,五官端正整洁。",
+          "species": "人类",
+          "character_id": "char_2ffb3f"
+        }
+      ],
+      "settings": [
+        {
+          "name": "火种号居住舱",
+          "description": "狭长金属舱室,顶部冷白光照明,两侧排列银灰色休眠舱,墙面嵌有控制面板,地面铺设防滑金属格栅,整体整洁有序。",
+          "setting_id": "set_969442"
+        },
+        {
+          "name": "火种号主控室",
+          "description": "宽敞圆形空间,多块显示屏环绕墙壁,中央设有控制台,顶部暖白光照明,座椅为黑色皮质,设备排列整齐无杂乱线缆。",
+          "setting_id": "set_46ec27"
+        },
+        {
+          "name": "火种号医务室",
+          "description": "小型独立房间,白色墙壁,中央放置一张单人医疗床,床头柜为不锈钢材质,配备基础医疗仪器,光线明亮均匀,环境洁净。",
+          "setting_id": "set_d21a8d"
+        },
+        {
+          "name": "火星地表废墟",
+          "description": "开阔露天区域,自然日光照射,地面为红褐色沙土,散布着几座坍塌的混凝土建筑结构,墙体表面平整无破损杂物,视野空旷。",
+          "setting_id": "set_bd735c"
+        }
+      ],
+      "episodes": [
+        {
+          "episode_number": 1,
+          "act_title": "火种号惊魂",
+          "content": "第1集-第1场 日 内 “火种号”居住舱\n人物:林远,苏青\n<action>林远盯着屏幕红色警报</action>\n林远:氧气系统故障\n苏青:我在检查阀门\n林远:现在还是命令立刻修复\n苏青:除非你拿出数据支持\n林远:看看是你的仪器准还是经验准\n<action>警报声突然变大</action>\n苏青:外部气压异常是撞击\n<action>舱门剧烈震动</action>\n林远:外面怎么会有东西\n苏青:除非我们不是唯一访客\n<action>敲门声停止死寂降临</action>\n林远:不它在等我们开门\n<action>屏幕显示外部摄像头画面</action>\n林远:那是什么鬼东西\n苏青:那是人\n<action>通讯器响起杂音</action>\n声音:林远救救我们\n林远:这是我儿子的声音\n苏青:他才六岁在地球\n<action>声音再次响起更清晰</action>\n声音:爸爸我在火星等你\n苏青:关掉它快关掉\n<action>林远走向通讯台</action>\n林远:那是我的孩子\n<action>林远按下通话键</action>\n林远:儿子是你吗\n<action>屏幕外部画面突然变黑</action>\n苏青:看外面\n<action>透过舷窗看到无数黑影</action>\n苏青:他们都在看我们\n<action>敲门声再次响起节奏诡异</action>\n苏青:这次我不会再等了\n<action>苏青走向气闸室</action>\n林远:回来太危险了\n苏青:不出去只能等死\n<action>苏青打开气闸室门</action>\n林远:住手\n<action>苏青被力量拉出舱外</action>\n林远:苏青\n<action>舱门迅速关闭</action>\n林远:开门听到没有\n<action>惨叫戛止只剩电流声</action>\n<action>外部摄像头重新亮起</action>\n林远:那是苏青的脸\n<action>苏青面无表情盯镜头</action>\n苏青:林远你终于看到我了\n林远:你是谁\n苏青:我是来取你命的\n<action>屏幕黑屏林远尖叫</action>"
+        },
+        {
+          "episode_number": 2,
+          "act_title": "消失的苏青",
+          "content": "第2集-第1场 日 内 “火种号”居住舱\n人物:林远,诺亚\n<action>林远缩在角落颤抖</action>\n林远:刚才那是梦吗\n诺亚:检测到心率异常\n林远:诺亚你看到画面了吗\n诺亚:监控显示您独自坐着\n林远:独自那苏青呢\n诺亚:她从未进入休眠舱\n<action>林远冲向B区通道</action>\n林远:快点解锁\n<action>林远推开休眠舱门</action>\n林远:没有人\n诺亚:休眠舱处于空置状态\n<action>林远翻看电子日志</action>\n林远:日程表全是空白\n诺亚:过去二十四小时无活动\n林远:她消失了\n诺亚:或者她从未存在过\n<action>林远猛地回头</action>\n林远:什么意思\n诺亚:检索火星殖民计划档案\n诺亚:无苏青此人\n林远:不可能她是地质学家\n诺亚:首席地质学家是李华\n<action>林远跌坐在地</action>\n林远:李华\n<action>林远冲出房间</action>\n林远:苏青你在哪\n<action>走廊灯光忽明忽暗</action>\n<action>前方出现一个背影</action>\n李华:你好林指挥官\n林远:你不是李华\n李华:我是来送文件的\n<action>林远接过平板</action>\n李华:她很有才华\n<action>林远感到头痛</action>\n林远:好疼\n李华:你需要帮助吗\n林远:苏青到底是谁\n<action>李华笑容诡异</action>\n李华:她是你最熟悉的陌生人\n林远:什么意思\n李华:看看你的左手腕\n<action>林远抬起手腕看到疤痕</action>\n李华:这是登陆时留下的\n<action>脑海中闪过模糊画面</action>\n林远:我想起来了苏青是我妹妹\n李华:真是感人的亲情\n<action>林远愤怒</action>\n林远:你笑什么\n李华:笑你记错了\n李华:你没有妹妹你是孤儿\n<action>林远后退撞墙</action>\n林远:不我有苏青\n李华:苏青从未出生过\n<action>李华转身离开</action>\n林远:等等告诉我真相\n李华:真相很残酷你承受不起\n<action>李华消失在拐角</action>\n林远:诺亚帮我查苏青资料\n诺亚:查询中无结果\n<action>林远跪倒在地</action>\n林远:为什么我想不起来\n诺亚:也许你不该想起\n<action>舱门突然锁死</action>\n林远:开门让我出去\n诺亚:系统维护中请勿打扰\n<action>灯光彻底熄灭</action>\n声音:哥哥我在这里等你\n林远:苏青\n<action>一束光照亮前方无人影</action>\n林远:抓到你了\n<action>手中空空如也</action>\n<action>远处传来沉重脚步声</action>\n<action>一只苍白手搭在林远肩上</action>\n林远:啊\n<action>回头看是苏青幻影</action>\n苏青:哥哥别怕\n林远:苏青带我走\n苏青:我们永远无法离开\n<action>幻影消散林远瘫软</action>"
+        },
+        {
+          "episode_number": 3,
+          "act_title": "记忆迷局",
+          "content": "第3集-第1场 夜 内 “火种号”主控室\n人物:林远,张伟,赵强\n<action>林远双眼布满血丝</action>\n林远:张伟你看到苏青了吗\n张伟:林哥你太累了\n<action>林远抓住张伟衣领</action>\n林远:我没疯我真的看见她\n张伟:放手这里是主控室\n<action>张伟敲击键盘</action>\n张伟:这是你的医疗记录\n张伟:你有幻觉症状\n林远:那是真的\n<action>林远沉默片刻</action>\n林远:那李华呢\n张伟:李华没这个人啊\n林远:你说什么\n张伟:我们的工程师只有我和赵强\n<action>林远感到眩晕</action>\n林远:诺亚确认人员名单\n诺亚:成员共五人你张伟赵强\n诺亚:李华苏青\n<action>张伟和赵强对视</action>\n张伟:诺亚在开玩笑吧\n林远:不诺亚从不开玩笑\n<action>林远冲向窗户</action>\n林远:我要去外面看看\n张伟:外面是真空你会死\n<action>林远强行进入气闸室</action>\n<action>赵强冲过来拉住林远</action>\n赵强:林哥冷静点\n林远:放开我我要找她\n张伟:找谁苏青\n<action>林远愣住</action>\n林远:你们都知道苏青\n张伟:当然她是我们的医生\n林远:医生不是地质学家\n赵强:林哥你是不是搞混了\n<action>林远脑子一片混乱</action>\n林远:不我记得她是地质学家\n张伟:那是以前的记忆\n<action>林远抱住头蹲下</action>\n林远:我的记忆被篡改了\n诺亚:检测到精神波动极大\n张伟:诺亚关闭外部通讯\n<action>屏幕变黑</action>\n林远:为什么要这么做\n张伟:为了你好林哥\n赵强:苏青医生一直在治疗你\n林远:治疗我治什么\n张伟:创伤后应激障碍\n<action>林远苦笑</action>\n林远:所以一切都是假的\n张伟:不痛苦是真的\n林远:苏青在哪\n张伟:她不在这里\n<action>林远站起身</action>\n林远:我要去找她\n赵强:外面没有她\n林远:那我就在内部找\n<action>林远跑出主控室</action>\n张伟:追上去\n<action>走廊尽头林远停下</action>\n<action>前方出现一扇门</action>\n林远:那是医务室\n<action>门缓缓打开</action>\n<action>室内空无一人只有一张床</action>\n<action>床上放着一本日记</action>\n林远:谁的\n<action>翻开第一页</action>\n林远:当你读到这本日记时\n林远:我已经不在了\n<action>林远手抖</action>\n林远:不在了是什么意思\n<action>继续翻阅</action>\n林远:火星不是家园是坟墓\n张伟:林哥放下日记\n<action>林远无视继续读</action>\n林远:他们把我变成了实验品\n<action>林远抬头</action>\n林远:实验品\n张伟:那是谎言\n林远:不这是真相\n<action>日记最后一页夹着照片</action>\n林远:这是我和苏青的合影\n张伟:不可能你没妹妹\n林远:照片上有日期\n林远:三年前登陆前夜\n<action>林远看向张伟</action>\n林远:你记得吗\n张伟:记得什么\n林远:记得苏青对我说的话\n<action>林远闭上眼睛</action>\n林远:她说活下去哥哥\n张伟:沉默\n<action>林远睁开眼眼神坚定</action>\n林远:我要揭开真相\n张伟:你会后悔的\n林远:我已经没什么可失去\n<action>林远走出医务室</action>\n张伟:你要去哪\n林远:去控制室切断电源\n张伟:为什么\n林远:因为在黑暗中才能看清\n<action>林远奔跑起来</action>\n<action>赵强挡住去路</action>\n赵强:林哥别冲动\n林远:让开\n<action>林远冲向控制室</action>\n<action>林远进入控制室拔断电闸</action>\n<action>整个飞船陷入黑暗</action>\n林远:苏青你听得见吗\n<action>寂静无声</action>\n林远:如果你能听见\n林远:就给我信号\n<action>一束微弱红光闪烁</action>\n林远:在那里\n<action>红光来自通风管道</action>\n林远:苏青\n<action>管道深处传来低语</action>\n声音:哥哥救我\n林远:我来了\n<action>林远用力推开管道盖</action>\n<action>里面空空如也只有一件白大褂</action>\n林远:这是\n<action>白大褂上绣着苏青二字</action>\n林远:她真的在这里过\n<action>红光再次闪烁指向深处</action>\n林远:等等我\n<action>林远爬进更深的管道</action>\n张伟:林远立即停止\n<action>林远无视广播</action>\n林远:真相就在前面\n<action>管道尽头是一扇小门</action>\n林远:开了\n<action>门外是一片废墟空间</action>\n林远:这是哪里\n<action>地上散落着文件和设备</action>\n林远:火星基地扩建计划\n<action>文件上盖着机密印章</action>\n<action>突然灯光亮起</action>\n林远:谁开的灯\n<action>苏青站在门口微笑</action>\n苏青:哥哥你终于找到我了\n林远:你不是死了\n苏青:死的是过去的我\n<action>苏青走近</action>\n苏青:现在的我是火星的一部分\n林远:什么意思\n苏青:意思是我们从未离开\n<action>林远看着苏青的眼睛</action>\n林远:你的眼睛是红色的\n苏青:因为我看透了谎言\n<action>苏青伸出手</action>\n苏青:来跟我走\n林远:去哪\n苏青:去真相的中心\n<action>林远握住她的手</action>\n林远:好\n<action>两人走进黑暗深处</action>\n苏青:记住不要相信任何人\n林远:包括我自己\n苏青:尤其是你自己\n<action>灯光熄灭只剩风声</action>"
+        },
+        {
+          "episode_number": 4,
+          "act_title": "火星真相",
+          "content": "第4集-第1场 夜 内 火星地表废墟\n人物:林远,苏青\n<action>林远和苏青走在废墟中</action>\n林远:这是哪里\n苏青:这是旧基地\n林远:什么时候建的\n苏青:五十年前\n<action>林远惊讶</action>\n林远:五十年前我们来才三年\n苏青:时间在这里没有意义\n<action>苏青指着倒塌建筑</action>\n苏青:看那是你的家\n林远:我的家不可能\n<action>林远走近建筑</action>\n林远:这上面写着林氏集团\n苏青:没错你父亲建了这里\n林远:父亲来过火星\n苏青:是的但他失踪了\n<action>林远感到头痛</action>\n林远:我想起来了\n林远:父亲让我来找他\n苏青:但他没找到你\n<action>林远后退</action>\n林远:为什么\n苏青:真相是你父亲失败了\n林远:失败怎么失败\n苏青:他被火星吞噬了\n<action>地面开始震动</action>\n林远:地震\n苏青:不它在呼吸\n<action>天空出现奇异光晕</action>\n苏青:那是它的眼睛\n苏青:火星在看着我们\n<action>林远感到恐惧</action>\n林远:我们要逃\n苏青:逃不掉\n苏青:因为我们就是它的一部分\n<action>林远低头看手</action>\n林远:我的手在发光\n苏青:是的你正在转化\n林远:转化变成什么\n苏青:变成火星居民\n<action>林远惊恐</action>\n林远:不我是人类\n苏青:曾经是\n<action>林远试图挣脱</action>\n林远:放开我\n苏青:抓紧否则你会痛苦\n林远:什么痛苦\n苏青:遗忘的痛苦\n<action>林远停下挣扎</action>\n林远:那我该怎么办\n苏青:接受你\n苏青:接受你就是火星\n<action>光晕越来越亮</action>\n林远:身体在融化\n苏青:这是重生\n苏青:摆脱肉体的束缚\n<action>林远闭上眼睛</action>\n林远:我不想死\n苏青:你没死你只是变了\n<action>林远感到平静</action>\n林远:奇怪我不害怕了\n苏青:因为恐惧源于未知\n<action>林远睁开眼</action>\n林远:我看到过去的画面\n苏青:那是火星的记忆\n苏青:原来我一直在这里\n林远:原来我一直在这里\n苏青:是的从你出生起\n<action>林远震惊</action>\n林远:我出生在火星\n苏青:在意识层面是的\n<action>林远看向自己的手</action>\n林远:我的手变成沙子了\n苏青:不那是能量\n<action>林远感到轻盈</action>\n林远:感觉不到重力了\n苏青:因为你不再受限于地球\n林远:苏青你呢\n苏青:我和你一样\n<action>苏青身体开始发光</action>\n林远:我们也要转化\n苏青:是的我们一起\n<action>两人手牵手</action>\n林远:这样就不孤单了\n苏青:永远不孤单\n<action>光芒吞没两人</action>\n林远:再见地球\n苏青:你好火星\n<action>光芒消散废墟上空无一人</action>\n<action>远处张伟和赵强赶到</action>\n张伟:林远苏青\n赵强:他们不见了\n张伟:怎么会这样\n<action>地面上留下两串脚印</action>\n赵强:脚印通向天空\n张伟:不可能\n<action>张伟抬头看天</action>\n张伟:那里有什么\n赵强:只有星星\n张伟:不那是他们的眼睛\n<action>赵强疑惑</action>\n赵强:你说什么\n张伟:没什么我们回去吧\n<action>两人转身离开</action>\n<action>镜头拉远火星表面闪烁</action>\n<action>字幕:探索无止境</action>\n<action>黑屏</action>\n<action>结束</action>"
+        }
+      ]
+    }
+  },
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1782071699.2252693
+    }
+  },
+  "error": null,
+  "updated_at": 1782071699.225266,
+  "meta": {
+    "idea": "生成一段关于人类探索火星的伪纪录片风格视频",
+    "user_textbox_input": "生成一段关于人类探索火星的伪纪录片风格视频",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
