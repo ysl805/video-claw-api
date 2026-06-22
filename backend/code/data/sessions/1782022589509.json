@@ -1,0 +1,46 @@
+{
+  "session_id": "1782022589509",
+  "created_at": 1782022589.5092773,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "error",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {},
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "执行失败",
+      "message": "执行失败",
+      "percent": 10,
+      "updated_at": 1782022589.5339828
+    }
+  },
+  "error": "name 'episodes' is not defined",
+  "updated_at": 1782022589.53398,
+  "meta": {
+    "idea": "请帮我制作一个水墨中国风的动画",
+    "user_textbox_input": "请帮我制作一个水墨中国风的动画",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
