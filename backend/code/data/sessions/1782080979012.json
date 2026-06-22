@@ -1,0 +1,4542 @@
+{
+  "session_id": "1782080979012",
+  "created_at": 1782080979.0126565,
+  "current_stage": "reference_generation",
+  "status": {
+    "script_generation": "completed",
+    "character_design": "completed",
+    "storyboard": "completed",
+    "reference_generation": "running",
+    "video_generation": "waiting",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {
+    "script_generation": {
+      "project_id": "proj_1782080979012",
+      "session_id": "1782080979012",
+      "version": 1,
+      "created_at": "2026-06-21T22:34:39.919542+00:00",
+      "meta": {
+        "generation_model": "agnes-2.0-flash",
+        "generation_prompt": "制作一段节奏紧凑的古风武侠打斗场面",
+        "original_text": "## 第1集\n**第1集-第1场 夜 内 破庙大殿**\n人物: 沈清秋, 赵天霸, 刀客甲, 刀客乙\n<action>沈清秋背靠残佛,剑尖滴血。</action>\n<action>赵天霸踏入,两名刀客包围。</action>\n赵天霸:“沈大侠,断魂阵是你自创?”\n沈清秋:“赵帮主好大的口气。”\n<action>赵天霸挥手示意刀客进攻。</action>\n<action>刀客甲挥刀劈向沈清秋面门。</action>\n<action>沈清秋侧身,剑光一闪。</action>\n沈清秋:“第一剑,断臂。”\n<action>刀客甲惨叫倒地,右臂流血。</action>\n<action>刀客乙颤抖着举起双刀。</action>\n<action>沈清秋踏步上前,剑锋划过。</action>\n<action>刀客乙双刀落地,手指被削。</action>\n赵天霸:“你……你是鬼吗?”\n<action>赵天霸拔出长鞭,狠狠甩出。</action>\n<action>长鞭缠向沈清秋的脖颈。</action>\n<action>沈清秋挥剑斩断长鞭。</action>\n沈清秋:“赵天霸,你的命,我要定了。”\n<action>赵天霸掏出匕首掷出。</action>\n<action>沈清秋侧头,匕首钉在柱子上。</action>\n赵天霸:“江湖险恶,识时务者俊杰。”\n<action>赵天霸拔出长剑,剑身泛寒光。</action>\n<action>两人冲向前,剑刃相撞火花溅。</action>\n赵天霸:“沈大侠,你的剑法老了。”\n沈清秋:“老?那是沉稳。”\n<action>沈清秋变招,剑走偏锋刺咽喉。</action>\n<action>赵天霸格挡,剑尖划破衣领。</action>\n沈清秋:“赵帮主,破绽太多。”\n<action>赵天霸疯狂挥剑,招式凌乱。</action>\n<action>沈清秋身形如燕,穿梭自如。</action>\n赵天霸:“因为我还有最后一招。”\n<action>赵天霸滑出一枚黑色药丸吞下。</action>\n沈清秋:“你吃了什么?”\n赵天霸:“血煞丹,沈大侠,怕了吗?”\n<action>赵天霸气息暴涨,双眼赤红。</action>\n<action>赵天霸发起冲锋,速度极快。</action>\n<action>冲击震碎脚下石板。</action>\n<action>赵天霸硬抗一剑,直扑要害。</action>\n<action>沈清秋回剑护胸,衣袖撕裂。</action>\n赵天霸:“我的命,现在归你!”\n<action>赵天霸抓住沈清秋手腕,用力捏。</action>\n沈清秋:“放手!”\n<action>沈清秋肘击赵天霸腹部。</action>\n<action>赵天霸松手后退,再次扑上。</action>\n<action>两人扭打,拳脚相加无章法。</action>\n<action>沈清秋抽出短刃,抵在赵天霸喉。</action>\n沈清秋:“结束了。”\n<action>赵天霸眼中红光闪烁,身体颤抖。</action>\n赵天霸:“不可能……”\n沈清秋:“血煞丹的反噬,感觉到了吗?”\n<action>赵天霸跪倒在地,双手抱头痛呼。</action>\n赵天霸:“沈清秋,你赢了。”\n<action>赵天霸发出诡异笑声。</action>\n赵天霸:“你真以为,只有我会用药?”\n<action>沈清秋体内气血翻涌。</action>\n沈清秋:“你对我做了什么?”\n赵天霸:“刚才那一撞,传了你散功散。”\n<action>沈清秋内力流失,双腿发软。</action>\n沈清秋:“你……同归于尽?”\n<action>赵天霸猛扑向沈清秋。</action>\n<action>沈清秋推开赵天霸,踉跄后退。</action>\n沈清秋:“休想!”\n<action>赵天霸摔倒在地,爬不起来。</action>\n<action>沈清秋走到赵天霸面前俯视。</action>\n沈清秋:“因为我还有一件事没做。”\n<action>沈清秋掏出纸条,扔在赵天霸脸。</action>\n沈清秋:“你的秘密,我已告诉官府。”\n<action>赵天霸脸色惨白,眼中失去高光。</action>\n赵天霸:“你……你说什么?”\n沈清秋:“江湖路远,赵帮主好自为之。”\n<action>沈清秋背影消失在夜色中。</action>\n赵天霸:“不——!!!”\n## 第2集\n**第2集-第1场 夜 内 破庙大殿外**\n人物: 沈清秋\n<action>沈清秋走出破庙,脚步虚浮。</action>\n<action>他靠在树干上,大口喘息。</action>\n<action>内力流失,浑身冰冷颤抖。</action>\n<action>远处传来马蹄声,由远及近。</action>\n<action>一队官兵骑马来到树下。</action>\n<action>领头军官翻身下马,行礼。</action>\n军官:“沈大侠,奉知县大人之命。”\n<action>沈清秋皱眉,未松开剑柄。</action>\n军官:“赵天霸涉嫌谋反,证据确凿。”\n<action>沈清秋闻言,紧绷身体放松。</action>\n军官:“请您随我们回衙门作证。”\n<action>沈清秋点头,艰难站起身。</action>\n<action>他借军官搀扶,走向马匹。</action>\n<action>回头望向破庙,目光深邃。</action>\n<action>赵天霸的惨叫声隐约传来。</action>\n<action>沈清秋跨上马背,与众人离去。</\n**第2集-第2场 日 内 知县衙门大堂**\n人物: 沈清秋, 王知县, 师爷, 赵天霸\n<action>沈清秋被带入大堂,面色苍白。</action>\n<action>王知县高坐堂上,神色凝重。</action>\n王知县:“沈大侠,辛苦了。”\n<action>沈清秋拱手,强撑精神。</action>\n沈清秋:“为民除害,分内之事。”\n<action>师爷呈上一叠书信作为证物。</action>\n师爷:“这是从赵天霸密室搜出的。”\n<action>赵天霸被押上堂,蓬头垢面。</action>\n赵天霸:“王大人,我是冤枉的!”\n王知县:“人赃并获,还敢狡辩?”\n<action>赵天霸抬头,死死盯着沈清秋。</action>\n赵天霸:“沈清秋,你陷害我!”\n<action>沈清秋冷冷回望,毫无惧色。</action>\n沈清秋:“赵帮主,证据确凿。”\n<action>王知县拍惊堂木,大声呵斥。</action>\n王知县:“赵天霸,你可知罪?”\n<action>赵天霸瘫软在地,绝望大哭。</action>\n<action>沈清秋转身欲走,身形一晃。</action>\n<action>王知县察觉异样,眉头紧锁。</action>\n王知县:“沈大侠,且慢。”\n<action>沈清秋停下脚步,背对众人。</action>\n沈清秋:“大人还有何吩咐?”\n王知县:“看你气色不佳,可是受伤了?”\n<action>沈清秋心中一惊,掩饰过去。</action>\n沈清秋:“多谢大人关心,并无大碍。”\n<action>王知县若有所思,挥挥手。</action>\n王知县:“那便好,下去休息吧。”\n<action>沈清秋走出衙门,冷汗直流。</action>\n<action>散功散的毒性正在侵蚀经脉。</action>\n<action>若不尽快解毒,必死无疑。</action>\n<action>他望向远方,眼神坚定而决绝。</action>\n<action>为了活下去,他必须找到解药。</action>\n<action>而解药的线索,就在赵天霸口中。</action>\n<action>但他不能直接问,风险太大。</action>\n<action>他需要一个新的计划。</action>\n<action>沈清秋深吸一口气,融入人流。</action>\n<action>江湖路远,唯有步步为营。</action>\n<action>他的身影逐渐消失在街角。</action>\n<action>一场新的博弈,悄然拉开序幕。</action>\n## 第3集\n**第3集-第1场 日 外 城郊树林**\n人物: 沈清秋, 神秘黑衣人\n<action>沈清秋在林间小径疾行。</action>\n<action>每走一步,都感到经脉刺痛。</action>\n<action>他不得不停下来,调息运气。</action>\n<action>突然,一阵冷风掠过树梢。</action>\n<action>沈清秋警觉抬头,手握剑柄。</action>\n<action>树丛后,一道黑影缓缓走出。</action>\n<action>黑衣人戴着面具,看不清面容。</action>\n黑衣人:“沈大侠,别来无恙。”\n<action>沈清秋眯起眼睛,戒备森严。</action>\n沈清秋:“阁下是谁?为何跟踪我?”\n<action>黑衣人轻笑一声,声音沙哑。</action>\n黑衣人:“我只是来看看,沈大侠如何。”\n<action>沈清秋冷哼一声,不退反进。</action>\n沈清秋:“有话直说,别玩花样。”\n<action>黑衣人停下脚步,摊开双手。</action>\n黑衣人:“我可以帮你解毒。”\n<action>沈清秋瞳孔微缩,心中震惊。</action>\n沈清秋:“你凭什么认为我会信你?”\n<action>黑衣人从怀中掏出一个瓷瓶。</action>\n<action>瓷瓶中散发着淡淡的药香。</action>\n<action>沈清秋闻到药香,神色缓和。</action>\n沈清秋:“这是……散功散的解药?”\n<action>黑衣人点头,嘴角勾起冷笑。</action>\n黑衣人:“不错,但这只是三分之一。”\n<action>沈清秋皱眉,心中升起疑云。</action>\n沈清秋:“剩下的三分之二在哪里?”\n<action>黑衣人指了指身后的树林深处。</action>\n黑衣人:“在那棵百年老松之下。”\n<action>沈清秋犹豫片刻,决定冒险。</action>\n沈清秋:“若你敢耍花样,我必杀你。”\n<action>黑衣人耸耸肩,转身引路。</action>\n黑衣人:“沈大侠请。”\n<action>两人一前一后,深入树林。</action>\n<action>阳光透过树叶,斑驳陆离。</action>\n<action>空气中弥漫着潮湿泥土的气息。</action>\n<action>沈清秋暗中观察黑衣人的举动。</action>\n<action>他发现对方步伐轻盈,武功极高。</action>\n<action>这绝非普通江湖人士所为。</action>\n<action>沈清秋心中警惕,不敢大意。</action>\n<action>终于,他们来到一棵大树前。</action>\n<action>黑衣人停在树下,示意他挖掘。</action>\n<action>沈清秋拔出短刃,插入土中。</action>\n<action>他小心翼翼地挖掘着泥土。</action>\n<action>随着土层剥离,一个木盒出现。</action>\n<action>沈清秋拿起木盒,打开一看。</action>\n<action>里面果然放着两枚玉瓶。</action>\n<action>他拿起其中一枚,闻了闻。</action>\n<action>药香浓郁,正是解药无疑。</action>\n<action>沈清秋抬头看向黑衣人。</action>\n沈清秋:“解药在此,你可以走了。”\n<action>黑衣人却摇了摇头,笑容诡异。</action>\n黑衣人:“沈大侠,事情没那么简单。”\n<action>沈清秋心中不妙,握紧剑柄。</action>\n沈清秋:“你想怎样?”\n<action>黑衣人缓缓摘下面具。</action>\n<action>露出一张沈清秋熟悉的面孔。</action>\n<action>那是赵天霸的亲信,铁面杀手。</action>\n铁面杀手:“赵帮主临死前的托付。”\n<action>沈清秋怒极反笑,拔剑相向。</action>\n沈清秋:“好一个赵天霸,好一个铁面。”\n<action>铁面杀手拔刀,刀光霍霍。</action>\n铁面杀手:“沈大侠,得罪了。”\n<action>两人瞬间交手,刀光剑影。</action>\n<action>沈清秋内力不足,渐渐吃力。</action>\n<action>铁面杀手招式狠辣,步步紧逼。</action>\n<action>沈清秋被迫节节败退。</action>\n<action>他心中暗骂,赵天霸竟如此阴毒。</action>\n<action>他必须尽快服下解药,恢复实力。</action>\n<action>但铁面杀手显然看穿了他的意图。</action>\n<action>他死死缠住沈清秋,不容其脱身。</action>\n<action>沈清秋咬紧牙关,拼死抵抗。</action>\n<action>他知道,这一战,生死攸关。</action>\n<action>他必须在短时间内找到突破口。</action>\n<action>否则,他将命丧于此。</action>\n## 第4集\n**第4集-第1场 日 外 城郊树林**\n人物: 沈清秋, 铁面杀手\n<action>沈清秋左支右绌,险象环生。</action>\n<action>铁面杀手一刀劈向沈清秋肩膀。</action>\n<action>沈清秋侧身躲避,衣袖被割裂。</action>\n<action>他趁机后退,拉开距离。</action>\n沈清秋:“铁面,你逃不掉的。”\n<action>铁面杀手冷笑,重新逼近。</action>\n铁面杀手:“是吗?那就试试看。”\n<action>沈清秋眼中闪过一丝决绝。</action>\n<action>他猛地吞下手中的解药。</action>\n<action>药力瞬间爆发,涌入四肢百骸。</action>\n<action>沈清秋感到内力迅速恢复。</action>\n<action>他深吸一口气,调整呼吸。</action>\n<action>铁面杀手见状,脸色大变。</action>\n铁面杀手:“你……你服了解药?”\n<action>沈清秋嘴角上扬,剑指对方。</action>\n沈清秋:“不错,现在轮到我了。”\n<action>铁面杀手不敢大意,全力进攻。</action>\n<action>刀风呼啸,带着凌厉杀气。</action>\n<action>沈清秋不再退缩,迎刃而上。</action>\n<action>剑光如虹,直刺铁面杀手胸口。</action>\n<action>铁面杀手横刀格挡,火星四溅。</action>\n<action>两人再次陷入僵持。</action>\n<action>沈清秋内力恢复,攻势更猛。</action>\n<action>他剑走偏锋,专攻要害。</action>\n<action>铁面杀手渐渐招架不住。</action>\n<action>他的刀势开始凌乱,破绽频出。</action>\n<action>沈清秋抓住机会,一剑刺出。</action>\n<action>剑尖划破铁面杀手的脸颊。</action>\n<action>铁面杀手惊呼一声,后退几步。</action>\n铁面杀手:“你……你竟然这么强。”\n<action>沈清秋步步紧逼,不给喘息。</action>\n沈清秋:“赵天霸让你来的?”\n<action>铁面杀手咬牙,沉默不语。</action>\n<action>沈清秋剑锋指向他的喉咙。</action>\n沈清秋:“不说,我就杀了你。”\n<action>铁面杀手眼中闪过一丝恐惧。</action>\n铁面杀手:“是……是他让我监视你。”\n<action>沈清秋冷笑,剑锋再进一寸。</action>\n沈清秋:“还有呢?”\n<action>铁面杀手颤抖着说道:</action>\n铁面杀手:“他还留了一手……”\n<action>沈清秋皱眉,心中疑惑更甚。</action>\n沈清秋:“什么意思?”\n<action>铁面杀手苦笑,指向远处。</action>\n铁面杀手:“你看那边。”\n<action>沈清秋顺着手指方向望去。</action>\n<action>只见一群黑衣人正包围过来。</action>\n<action>为首之人,正是赵天霸本人。</action>\n<action>他虽然被押解,但并未入狱。</action>\n<action>原来这一切都是赵天霸的阴谋。</action>\n<action>沈清秋心中一震,难以置信。</action>\n沈清秋:“赵天霸,你还没死?”\n<action>赵天霸哈哈大笑,声音阴森。</action>\n赵天霸:“沈大侠,欢迎回来。”\n<action>沈清秋握紧剑柄,警惕四周。</action>\n<action>他意识到自己陷入了更大的陷阱。</action>\n<action>赵天霸不仅没死,还早有准备。</action>\n<action>他利用沈清秋解毒的机会,布下天罗地网。</action>\n<action>沈清秋深吸一口气,冷静分析。</action>\n<action>对方人数众多,硬拼必输。</action>\n<action>他必须寻找突围的机会。</action>\n<action>他看向铁面杀手,眼神冰冷。</action>\n沈清秋:“你,想活命吗?”\n<action>铁面杀手点头,眼中满是求生欲。</action>\n铁面杀手:“想……求你放过我。”\n<action>沈清秋剑锋一转,指向铁面杀手。</action>\n<action>铁面杀手大惊,连忙后退。</action>\n<action>沈清秋快速说道:</action>\n沈清秋:“带路,否则死。”\n<action>铁面杀手别无选择,只能听从。</action>\n<action>他指着树林深处的密道。</action>\n铁面杀手:“那边……有条密道。”\n<action>沈清秋点头,拉着铁面杀手就跑。</action>\n<action>赵天霸见状,大怒。</action>\n赵天霸:“追!绝不能让他们跑了!”\n<action>黑衣人纷纷出动,追赶而去。</action>\n<action>沈清秋带着铁面杀手,冲进密道。</action>\n<action>密道阴暗潮湿,伸手不见五指。</action>\n<action>他凭着记忆,摸索着前进。</action>\n<action>身后传来追兵的脚步声。</action>\n<action>沈清秋心中焦急,加快脚步。</action>\n<action>终于,前方出现了光亮。</action>\n<action>那是密道的出口。</action>\n<action>沈清秋拉着铁面杀手,冲出密道。</action>\n<action>外面是一条湍急的河流。</action>\n<action>沈清秋毫不犹豫,跳入河中。</action>\n<action>水流湍急,将他冲得东倒西歪。</action>\n<action>他紧紧抱住铁面杀手,随波逐流。</action>\n<action>两岸的追兵只能望河兴叹。</action>\n<action>沈清秋知道,暂时安全了。</action>\n<action>但赵天霸的威胁并未解除。</action>\n<action>这场江湖恩怨,才刚刚开始。</action>\n<action>他望着远方,眼神坚毅。</action>\n<action>无论前路多么艰险,他都不会放弃。</action>\n<action>他要揭开赵天霸的真面目。</action>\n<action>他要为江湖讨回公道。</action>\n<action>沈清秋的身影消失在激流之中。</action>\n<action>新的旅程,即将展开。</action>"
+      },
+      "title": "断魂剑影",
+      "logline": "侠客沈清秋智斗帮派首领赵天霸,虽中毒失却内力,却凭借智慧揭露阴谋并绝地反击,开启新的江湖博弈。",
+      "genre": [
+        "武侠",
+        "动作",
+        "悬疑"
+      ],
+      "mood": "紧张压抑,充满江湖险恶与智斗张力",
+      "characters": [
+        {
+          "name": "沈清秋",
+          "description": "青年男性,黑色短发,身形修长挺拔,身着深青色长衫,腰佩长剑,面容清秀整洁,无明显胡须。",
+          "species": "人类",
+          "character_id": "char_0fd45d"
+        },
+        {
+          "name": "赵天霸",
+          "description": "中年男性,短发略显凌乱,体型魁梧壮硕,身穿黑色劲装,外罩深色披风,面容刚毅,神情严肃。",
+          "species": "人类",
+          "character_id": "char_3bd20c"
+        },
+        {
+          "name": "铁面杀手",
+          "description": "青年男性,黑色短发,身材高大结实,身着黑色紧身衣,佩戴银色金属面具,手持长刀,气质冷峻。",
+          "species": "人类",
+          "character_id": "char_068a14"
+        },
+        {
+          "name": "王知县",
+          "description": "中年男性,头发梳得整齐,身穿红色官袍,头戴官帽,体型中等偏胖,面容威严,神情庄重。",
+          "species": "人类",
+          "character_id": "char_66e9df"
+        },
+        {
+          "name": "军官",
+          "description": "青年男性,短发利落,身穿灰色制服,佩戴军帽,腰系皮带,手持佩枪,体型健壮,目光锐利。",
+          "species": "人类",
+          "character_id": "char_658ed6"
+        }
+      ],
+      "settings": [
+        {
+          "name": "破庙大殿",
+          "description": "室内空间,自然光透过破损窗棂射入,中央供奉残损佛像,地面铺设青石板,四周摆放腐朽木柱,环境古朴肃穆。",
+          "setting_id": "set_975455"
+        },
+        {
+          "name": "知县衙门大堂",
+          "description": "室内空间,明亮灯光照射,正中悬挂明镜高悬匾额,摆放木质公案与太师椅,两侧陈列刑具模型,地面整洁光亮。",
+          "setting_id": "set_1a99b4"
+        },
+        {
+          "name": "城郊树林",
+          "description": "室外空间,白天阳光透过树叶洒下斑驳光影,地面覆盖绿草与落叶,生长着粗壮树木,空气清新自然。",
+          "setting_id": "set_69a011"
+        }
+      ],
+      "episodes": [
+        {
+          "episode_number": 1,
+          "act_title": "破庙决战血煞丹",
+          "content": "**第1集-第1场 夜 内 破庙大殿**\n人物: 沈清秋, 赵天霸, 刀客甲, 刀客乙\n<action>沈清秋背靠残佛,剑尖滴血。</action>\n<action>赵天霸踏入,两名刀客包围。</action>\n赵天霸:“沈大侠,断魂阵是你自创?”\n沈清秋:“赵帮主好大的口气。”\n<action>赵天霸挥手示意刀客进攻。</action>\n<action>刀客甲挥刀劈向沈清秋面门。</action>\n<action>沈清秋侧身,剑光一闪。</action>\n沈清秋:“第一剑,断臂。”\n<action>刀客甲惨叫倒地,右臂流血。</action>\n<action>刀客乙颤抖着举起双刀。</action>\n<action>沈清秋踏步上前,剑锋划过。</action>\n<action>刀客乙双刀落地,手指被削。</action>\n赵天霸:“你……你是鬼吗?”\n<action>赵天霸拔出长鞭,狠狠甩出。</action>\n<action>长鞭缠向沈清秋的脖颈。</action>\n<action>沈清秋挥剑斩断长鞭。</action>\n沈清秋:“赵天霸,你的命,我要定了。”\n<action>赵天霸掏出匕首掷出。</action>\n<action>沈清秋侧头,匕首钉在柱子上。</action>\n赵天霸:“江湖险恶,识时务者俊杰。”\n<action>赵天霸拔出长剑,剑身泛寒光。</action>\n<action>两人冲向前,剑刃相撞火花溅。</action>\n赵天霸:“沈大侠,你的剑法老了。”\n沈清秋:“老?那是沉稳。”\n<action>沈清秋变招,剑走偏锋刺咽喉。</action>\n<action>赵天霸格挡,剑尖划破衣领。</action>\n沈清秋:“赵帮主,破绽太多。”\n<action>赵天霸疯狂挥剑,招式凌乱。</action>\n<action>沈清秋身形如燕,穿梭自如。</action>\n赵天霸:“因为我还有最后一招。”\n<action>赵天霸滑出一枚黑色药丸吞下。</action>\n沈清秋:“你吃了什么?”\n赵天霸:“血煞丹,沈大侠,怕了吗?”\n<action>赵天霸气息暴涨,双眼赤红。</action>\n<action>赵天霸发起冲锋,速度极快。</action>\n<action>冲击震碎脚下石板。</action>\n<action>赵天霸硬抗一剑,直扑要害。</action>\n<action>沈清秋回剑护胸,衣袖撕裂。</action>\n赵天霸:“我的命,现在归你!”\n<action>赵天霸抓住沈清秋手腕,用力捏。</action>\n沈清秋:“放手!”\n<action>沈清秋肘击赵天霸腹部。</action>\n<action>赵天霸松手后退,再次扑上。</action>\n<action>两人扭打,拳脚相加无章法。</action>\n<action>沈清秋抽出短刃,抵在赵天霸喉。</action>\n沈清秋:“结束了。”\n<action>赵天霸眼中红光闪烁,身体颤抖。</action>\n赵天霸:“不可能……”\n沈清秋:“血煞丹的反噬,感觉到了吗?”\n<action>赵天霸跪倒在地,双手抱头痛呼。</action>\n赵天霸:“沈清秋,你赢了。”\n<action>赵天霸发出诡异笑声。</action>\n赵天霸:“你真以为,只有我会用药?”\n<action>沈清秋体内气血翻涌。</action>\n沈清秋:“你对我做了什么?”\n赵天霸:“刚才那一撞,传了你散功散。”\n<action>沈清秋内力流失,双腿发软。</action>\n沈清秋:“你……同归于尽?”\n<action>赵天霸猛扑向沈清秋。</action>\n<action>沈清秋推开赵天霸,踉跄后退。</action>\n沈清秋:“休想!”\n<action>赵天霸摔倒在地,爬不起来。</action>\n<action>沈清秋走到赵天霸面前俯视。</action>\n沈清秋:“因为我还有一件事没做。”\n<action>沈清秋掏出纸条,扔在赵天霸脸。</action>\n沈清秋:“你的秘密,我已告诉官府。”\n<action>赵天霸脸色惨白,眼中失去高光。</action>\n赵天霸:“你……你说什么?”\n沈清秋:“江湖路远,赵帮主好自为之。”\n<action>沈清秋背影消失在夜色中。</action>\n赵天霸:“不——!!!”"
+        },
+        {
+          "episode_number": 2,
+          "act_title": "公堂对峙散功毒",
+          "content": "**第2集-第1场 夜 内 破庙大殿外**\n人物: 沈清秋\n<action>沈清秋走出破庙,脚步虚浮。</action>\n<action>他靠在树干上,大口喘息。</action>\n<action>内力流失,浑身冰冷颤抖。</action>\n<action>远处传来马蹄声,由远及近。</action>\n<action>一队官兵骑马来到树下。</action>\n<action>领头军官翻身下马,行礼。</action>\n军官:“沈大侠,奉知县大人之命。”\n<action>沈清秋皱眉,未松开剑柄。</action>\n军官:“赵天霸涉嫌谋反,证据确凿。”\n<action>沈清秋闻言,紧绷身体放松。</action>\n军官:“请您随我们回衙门作证。”\n<action>沈清秋点头,艰难站起身。</action>\n<action>他借军官搀扶,走向马匹。</action>\n<action>回头望向破庙,目光深邃。</action>\n<action>赵天霸的惨叫声隐约传来。</action>\n<action>沈清秋跨上马背,与众人离去。\n**第2集-第2场 日 内 知县衙门大堂**\n人物: 沈清秋, 王知县, 师爷, 赵天霸\n<action>沈清秋被带入大堂,面色苍白。</action>\n<action>王知县高坐堂上,神色凝重。</action>\n王知县:“沈大侠,辛苦了。”\n<action>沈清秋拱手,强撑精神。</action>\n沈清秋:“为民除害,分内之事。”\n<action>师爷呈上一叠书信作为证物。</action>\n师爷:“这是从赵天霸密室搜出的。”\n<action>赵天霸被押上堂,蓬头垢面。</action>\n赵天霸:“王大人,我是冤枉的!”\n王知县:“人赃并获,还敢狡辩?”\n<action>赵天霸抬头,死死盯着沈清秋。</action>\n赵天霸:“沈清秋,你陷害我!”\n<action>沈清秋冷冷回望,毫无惧色。</action>\n沈清秋:“赵帮主,证据确凿。”\n<action>王知县拍惊堂木,大声呵斥。</action>\n王知县:“赵天霸,你可知罪?”\n<action>赵天霸瘫软在地,绝望大哭。</action>\n<action>沈清秋转身欲走,身形一晃。</action>\n<action>王知县察觉异样,眉头紧锁。</action>\n王知县:“沈大侠,且慢。”\n<action>沈清秋停下脚步,背对众人。</action>\n沈清秋:“大人还有何吩咐?”\n王知县:“看你气色不佳,可是受伤了?”\n<action>沈清秋心中一惊,掩饰过去。</action>\n沈清秋:“多谢大人关心,并无大碍。”\n<action>王知县若有所思,挥挥手。</action>\n王知县:“那便好,下去休息吧。”\n<action>沈清秋走出衙门,冷汗直流。</action>\n<action>散功散的毒性正在侵蚀经脉。</action>\n<action>若不尽快解毒,必死无疑。</action>\n<action>他望向远方,眼神坚定而决绝。</action>\n<action>为了活下去,他必须找到解药。</action>\n<action>而解药的线索,就在赵天霸口中。</action>\n<action>但他不能直接问,风险太大。</action>\n<action>他需要一个新的计划。</action>\n<action>沈清秋深吸一口气,融入人流。</action>\n<action>江湖路远,唯有步步为营。</action>\n<action>他的身影逐渐消失在街角。</action>\n<action>一场新的博弈,悄然拉开序幕。</action>"
+        },
+        {
+          "episode_number": 3,
+          "act_title": "林间遇袭藏杀机",
+          "content": "**第3集-第1场 日 外 城郊树林**\n人物: 沈清秋, 神秘黑衣人\n<action>沈清秋在林间小径疾行。</action>\n<action>每走一步,都感到经脉刺痛。</action>\n<action>他不得不停下来,调息运气。</action>\n<action>突然,一阵冷风掠过树梢。</action>\n<action>沈清秋警觉抬头,手握剑柄。</action>\n<action>树丛后,一道黑影缓缓走出。</action>\n<action>黑衣人戴着面具,看不清面容。</action>\n黑衣人:“沈大侠,别来无恙。”\n<action>沈清秋眯起眼睛,戒备森严。</action>\n沈清秋:“阁下是谁?为何跟踪我?”\n<action>黑衣人轻笑一声,声音沙哑。</action>\n黑衣人:“我只是来看看,沈大侠如何。”\n<action>沈清秋冷哼一声,不退反进。</action>\n沈清秋:“有话直说,别玩花样。”\n<action>黑衣人停下脚步,摊开双手。</action>\n黑衣人:“我可以帮你解毒。”\n<action>沈清秋瞳孔微缩,心中震惊。</action>\n沈清秋:“你凭什么认为我会信你?”\n<action>黑衣人从怀中掏出一个瓷瓶。</action>\n<action>瓷瓶中散发着淡淡的药香。</action>\n<action>沈清秋闻到药香,神色缓和。</action>\n沈清秋:“这是……散功散的解药?”\n<action>黑衣人点头,嘴角勾起冷笑。</action>\n黑衣人:“不错,但这只是三分之一。”\n<action>沈清秋皱眉,心中升起疑云。</action>\n沈清秋:“剩下的三分之二在哪里?”\n<action>黑衣人指了指身后的树林深处。</action>\n黑衣人:“在那棵百年老松之下。”\n<action>沈清秋犹豫片刻,决定冒险。</action>\n沈清秋:“若你敢耍花样,我必杀你。”\n<action>黑衣人耸耸肩,转身引路。</action>\n黑衣人:“沈大侠请。”\n<action>两人一前一后,深入树林。</action>\n<action>阳光透过树叶,斑驳陆离。</action>\n<action>空气中弥漫着潮湿泥土的气息。</action>\n<action>沈清秋暗中观察黑衣人的举动。</action>\n<action>他发现对方步伐轻盈,武功极高。</action>\n<action>这绝非普通江湖人士所为。</action>\n<action>沈清秋心中警惕,不敢大意。</action>\n<action>终于,他们来到一棵大树前。</action>\n<action>黑衣人停在树下,示意他挖掘。</action>\n<action>沈清秋拔出短刃,插入土中。</action>\n<action>他小心翼翼地挖掘着泥土。</action>\n<action>随着土层剥离,一个木盒出现。</action>\n<action>沈清秋拿起木盒,打开一看。</action>\n<action>里面果然放着两枚玉瓶。</action>\n<action>他拿起其中一枚,闻了闻。</action>\n<action>药香浓郁,正是解药无疑。</action>\n<action>沈清秋抬头看向黑衣人。</action>\n沈清秋:“解药在此,你可以走了。”\n<action>黑衣人却摇了摇头,笑容诡异。</action>\n黑衣人:“沈大侠,事情没那么简单。”\n<action>沈清秋心中不妙,握紧剑柄。</action>\n沈清秋:“你想怎样?”\n<action>黑衣人缓缓摘下面具。</action>\n<action>露出一张沈清秋熟悉的面孔。</action>\n<action>那是赵天霸的亲信,铁面杀手。</action>\n铁面杀手:“赵帮主临死前的托付。”\n<action>沈清秋怒极反笑,拔剑相向。</action>\n沈清秋:“好一个赵天霸,好一个铁面。”\n<action>铁面杀手拔刀,刀光霍霍。</action>\n铁面杀手:“沈大侠,得罪了。”\n<action>两人瞬间交手,刀光剑影。</action>\n<action>沈清秋内力不足,渐渐吃力。</action>\n<action>铁面杀手招式狠辣,步步紧逼。</action>\n<action>沈清秋被迫节节败退。</action>\n<action>他心中暗骂,赵天霸竟如此阴毒。</action>\n<action>他必须尽快服下解药,恢复实力。</action>\n<action>但铁面杀手显然看穿了他的意图。</action>\n<action>他死死缠住沈清秋,不容其脱身。</action>\n<action>沈清秋咬紧牙关,拼死抵抗。</action>\n<action>他知道,这一战,生死攸关。</action>\n<action>他必须在短时间内找到突破口。</action>\n<action>否则,他将命丧于此。</action>"
+        },
+        {
+          "episode_number": 4,
+          "act_title": "服毒突围陷重围",
+          "content": "**第4集-第1场 日 外 城郊树林**\n人物: 沈清秋, 铁面杀手\n<action>沈清秋左支右绌,险象环生。</action>\n<action>铁面杀手一刀劈向沈清秋肩膀。</action>\n<action>沈清秋侧身躲避,衣袖被割裂。</action>\n<action>他趁机后退,拉开距离。</action>\n沈清秋:“铁面,你逃不掉的。”\n<action>铁面杀手冷笑,重新逼近。</action>\n铁面杀手:“是吗?那就试试看。”\n<action>沈清秋眼中闪过一丝决绝。</action>\n<action>他猛地吞下手中的解药。</action>\n<action>药力瞬间爆发,涌入四肢百骸。</action>\n<action>沈清秋感到内力迅速恢复。</action>\n<action>他深吸一口气,调整呼吸。</action>\n<action>铁面杀手见状,脸色大变。</action>\n铁面杀手:“你……你服了解药?”\n<action>沈清秋嘴角上扬,剑指对方。</action>\n沈清秋:“不错,现在轮到我了。”\n<action>铁面杀手不敢大意,全力进攻。</action>\n<action>刀风呼啸,带着凌厉杀气。</action>\n<action>沈清秋不再退缩,迎刃而上。</action>\n<action>剑光如虹,直刺铁面杀手胸口。</action>\n<action>铁面杀手横刀格挡,火星四溅。</action>\n<action>两人再次陷入僵持。</action>\n<action>沈清秋内力恢复,攻势更猛。</action>\n<action>他剑走偏锋,专攻要害。</action>\n<action>铁面杀手渐渐招架不住。</action>\n<action>他的刀势开始凌乱,破绽频出。</action>\n<action>沈清秋抓住机会,一剑刺出。</action>\n<action>剑尖划破铁面杀手的脸颊。</action>\n<action>铁面杀手惊呼一声,后退几步。</action>\n铁面杀手:“你……你竟然这么强。”\n<action>沈清秋步步紧逼,不给喘息。</action>\n沈清秋:“赵天霸让你来的?”\n<action>铁面杀手咬牙,沉默不语。</action>\n<action>沈清秋剑锋指向他的喉咙。</action>\n沈清秋:“不说,我就杀了你。”\n<action>铁面杀手眼中闪过一丝恐惧。</action>\n铁面杀手:“是……是他让我监视你。”\n<action>沈清秋冷笑,剑锋再进一寸。</action>\n沈清秋:“还有呢?”\n<action>铁面杀手颤抖着说道:</action>\n铁面杀手:“他还留了一手……”\n<action>沈清秋皱眉,心中疑惑更甚。</action>\n沈清秋:“什么意思?”\n<action>铁面杀手苦笑,指向远处。</action>\n铁面杀手:“你看那边。”\n<action>沈清秋顺着手指方向望去。</action>\n<action>只见一群黑衣人正包围过来。</action>\n<action>为首之人,正是赵天霸本人。</action>\n<action>他虽然被押解,但并未入狱。</action>\n<action>原来这一切都是赵天霸的阴谋。</action>\n<action>沈清秋心中一震,难以置信。</action>\n沈清秋:“赵天霸,你还没死?”\n<action>赵天霸哈哈大笑,声音阴森。</action>\n赵天霸:“沈大侠,欢迎回来。”\n<action>沈清秋握紧剑柄,警惕四周。</action>\n<action>他意识到自己陷入了更大的陷阱。</action>\n<action>赵天霸不仅没死,还早有准备。</action>\n<action>他利用沈清秋解毒的机会,布下天罗地网。</action>\n<action>沈清秋深吸一口气,冷静分析。</action>\n<action>对方人数众多,硬拼必输。</action>\n<action>他必须寻找突围的机会。</action>\n<action>他看向铁面杀手,眼神冰冷。</action>\n沈清秋:“你,想活命吗?”\n<action>铁面杀手点头,眼中满是求生欲。</action>\n铁面杀手:“想……求你放过我。”\n<action>沈清秋剑锋一转,指向铁面杀手。</action>\n<action>铁面杀手大惊,连忙后退。</action>\n<action>沈清秋快速说道:</action>\n沈清秋:“带路,否则死。”\n<action>铁面杀手别无选择,只能听从。</action>\n<action>他指着树林深处的密道。</action>\n铁面杀手:“那边……有条密道。”\n<action>沈清秋点头,拉着铁面杀手就跑。</action>\n<action>赵天霸见状,大怒。</action>\n赵天霸:“追!绝不能让他们跑了!”\n<action>黑衣人纷纷出动,追赶而去。</action>\n<action>沈清秋带着铁面杀手,冲进密道。</action>\n<action>密道阴暗潮湿,伸手不见五指。</action>\n<action>他凭着记忆,摸索着前进。</action>\n<action>身后传来追兵的脚步声。</action>\n<action>沈清秋心中焦急,加快脚步。</action>\n<action>终于,前方出现了光亮。</action>\n<action>那是密道的出口。</action>\n<action>沈清秋拉着铁面杀手,冲出密道。</action>\n<action>外面是一条湍急的河流。</action>\n<action>沈清秋毫不犹豫,跳入河中。</action>\n<action>水流湍急,将他冲得东倒西歪。</action>\n<action>他紧紧抱住铁面杀手,随波逐流。</action>\n<action>两岸的追兵只能望河兴叹。</action>\n<action>沈清秋知道,暂时安全了。</action>\n<action>但赵天霸的威胁并未解除。</action>\n<action>这场江湖恩怨,才刚刚开始。</action>\n<action>他望着远方,眼神坚毅。</action>\n<action>无论前路多么艰险,他都不会放弃。</action>\n<action>他要揭开赵天霸的真面目。</action>\n<action>他要为江湖讨回公道。</action>\n<action>沈清秋的身影消失在激流之中。</action>\n<action>新的旅程,即将展开。</action>"
+        }
+      ]
+    },
+    "character_design": {
+      "session_id": "1782080979012",
+      "characters": [
+        {
+          "id": "char_0fd45d",
+          "name": "沈清秋",
+          "description": "青年男性,黑色短发,身形修长挺拔,身着深青色长衫,腰佩长剑,面容清秀整洁,无明显胡须。",
+          "selected": "code/result/image\\1782080979012\\Assets\\characters\\char_0fd45d.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\characters\\char_0fd45d.png"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "char_3bd20c",
+          "name": "赵天霸",
+          "description": "中年男性,短发略显凌乱,体型魁梧壮硕,身穿黑色劲装,外罩深色披风,面容刚毅,神情严肃。",
+          "selected": "code/result/image\\1782080979012\\Assets\\characters\\char_3bd20c.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\characters\\char_3bd20c.png"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "char_068a14",
+          "name": "铁面杀手",
+          "description": "青年男性,黑色短发,身材高大结实,身着黑色紧身衣,佩戴银色金属面具,手持长刀,气质冷峻。",
+          "selected": "code/result/image\\1782080979012\\Assets\\characters\\char_068a14.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\characters\\char_068a14.png"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "char_66e9df",
+          "name": "王知县",
+          "description": "中年男性,头发梳得整齐,身穿红色官袍,头戴官帽,体型中等偏胖,面容威严,神情庄重。",
+          "selected": "code/result/image\\1782080979012\\Assets\\characters\\char_66e9df.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\characters\\char_66e9df.png"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "char_658ed6",
+          "name": "军官",
+          "description": "青年男性,短发利落,身穿灰色制服,佩戴军帽,腰系皮带,手持佩枪,体型健壮,目光锐利。",
+          "selected": "code/result/image\\1782080979012\\Assets\\characters\\char_658ed6.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\characters\\char_658ed6.png"
+          ],
+          "status": "done"
+        }
+      ],
+      "settings": [
+        {
+          "id": "set_975455",
+          "name": "破庙大殿",
+          "description": "室内空间,自然光透过破损窗棂射入,中央供奉残损佛像,地面铺设青石板,四周摆放腐朽木柱,环境古朴肃穆。",
+          "selected": "code/result/image\\1782080979012\\Assets\\settings\\set_975455.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\settings\\set_975455.png"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "set_1a99b4",
+          "name": "知县衙门大堂",
+          "description": "室内空间,明亮灯光照射,正中悬挂明镜高悬匾额,摆放木质公案与太师椅,两侧陈列刑具模型,地面整洁光亮。",
+          "selected": "code/result/image\\1782080979012\\Assets\\settings\\set_1a99b4.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\settings\\set_1a99b4.png"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "set_69a011",
+          "name": "城郊树林",
+          "description": "室外空间,白天阳光透过树叶洒下斑驳光影,地面覆盖绿草与落叶,生长着粗壮树木,空气清新自然。",
+          "selected": "code/result/image\\1782080979012\\Assets\\settings\\set_69a011.png",
+          "versions": [
+            "code/result/image\\1782080979012\\Assets\\settings\\set_69a011.png"
+          ],
+          "status": "done"
+        }
+      ]
+    },
+    "storyboard": {
+      "session_id": "1782080979012",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "episode_title": "破庙决战血煞丹",
+          "segments": [
+            {
+              "segment_id": "seg_01_01",
+              "segment_number": 1,
+              "total_duration": 12,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋背靠残佛站立，剑尖滴血。画面右侧远处，赵天霸带领两名刀客步入大殿。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，赵天霸大步踏入大殿中央，两名刀客分立其左右，形成包围之势。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，赵天霸:“沈大侠,断魂阵是你自创?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，沈清秋:“赵帮主好大的口气。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，赵天霸挥手示意刀客进攻。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_02",
+              "segment_number": 2,
+              "total_duration": 10,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧对峙。左侧刀客甲挥刀劈向沈清秋面门。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。沈清秋侧身,剑光一闪。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。沈清秋:“第一剑,断臂。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。刀客甲惨叫倒地,右臂流血。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。刀客乙颤抖着举起双刀。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_03",
+              "segment_number": 3,
+              "total_duration": 10,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，破庙大殿内。赵天霸位于画面左侧，沈清秋位于画面右侧，两人对峙。沈清秋踏步上前，剑锋划过。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，拍摄地面及人物下半身。刀客乙双刀落地,手指被削。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦赵天霸面部。赵天霸满脸惊恐，颤抖说道：赵天霸:“你……你是鬼吗?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，破庙大殿内。赵天霸拔出长鞭,狠狠甩出。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，破庙大殿内。长鞭缠向沈清秋的脖颈。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_04",
+              "segment_number": 4,
+              "total_duration": 12,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋位于画面左侧，面向右侧的赵天霸，挥剑斩断袭来的长鞭。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，沈清秋位于画面左侧，赵天霸位于画面右侧，两人对峙，沈清秋说：“赵天霸,你的命,我要定了。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，赵天霸位于画面中央偏右，身体微侧，掏出匕首掷出。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋位于画面左侧，侧头躲避，匕首钉在身后的柱子上。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，赵天霸位于画面右侧，面带冷笑看着沈清秋，说道：“江湖险恶,识时务者俊杰。”"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_05",
+              "segment_number": 5,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，赵天霸与沈清秋分立大殿两侧，相距数步。赵天霸从腰间拔出长剑,剑身泛寒光。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，赵天霸与沈清秋位于画面中央，两人从对峙状态迅速冲向前,剑刃相撞火花溅。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，赵天霸面部特写，眼神轻蔑，说道：赵天霸:“沈大侠,你的剑法老了。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋面部特写，神色淡然，回应道：沈清秋:“老?那是沉稳。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋身体微侧，手腕抖动，沈清秋变招,剑走偏锋刺咽喉。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_06",
+              "segment_number": 6,
+              "total_duration": 12,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，破庙大殿内，赵天霸位于画面左侧，沈清秋位于画面右侧，两人相距约两米对峙。赵天霸迅速挥剑格挡，剑尖划破沈清秋衣领。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，聚焦沈清秋。沈清秋面容冷静，面对赵天霸说道：“赵帮主,破绽太多。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，破庙大殿内，赵天霸位于画面中央，沈清秋退至背景处。赵天霸疯狂挥剑,招式凌乱。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，破庙大殿内，赵天霸在左，沈清秋在右。沈清秋身形如燕,穿梭自如。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，聚焦赵天霸。赵天霸眼神凶狠，对着沈清秋喊道：“因为我还有最后一招。”"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_07",
+              "segment_number": 7,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面左侧赵天霸侧身站立，面向右侧沈清秋，右手捏着一枚黑色药丸送入口中吞下。沈清秋站在画面右侧，身体微前倾，目光紧盯着赵天霸的动作。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，画面聚焦于沈清秋面部，他眉头紧锁，眼神中充满惊疑，嘴巴张开说道：“你吃了什么?”，背景中赵天霸的身影略微虚化。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，画面聚焦于赵天方面部，他嘴角勾起一抹狰狞冷笑，直视前方说道：“血煞丹,沈大侠,怕了吗?”，眼神中透着狂热。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，平视机位，画面极度靠近赵天霸面部，捕捉到他气息暴涨时肌肉的剧烈颤动，双眼瞬间变为赤红色，瞳孔收缩，神情变得扭曲而凶狠。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，画面展现破庙大殿全貌，赵天霸从画面左侧如离弦之箭般向右侧发起极速冲锋，带起一阵尘土，身影因高速移动而产生动态模糊，沈清秋在画面右侧迅速做出防御姿态。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_08",
+              "segment_number": 8,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，赵天霸与沈清秋相对而立，赵天霸猛然发力冲击，震碎脚下石板。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，赵天霸面向右侧，硬抗一剑,直扑要害。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，沈清秋面向左侧，回剑护胸,衣袖撕裂。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，正视机位，赵天霸面向镜头，面目狰狞，赵天霸:“你以为赢了吗?!"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，赵天霸与沈清秋近距离对峙，赵天霸抓住沈清秋手腕,用力捏。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_09",
+              "segment_number": 9,
+              "total_duration": 10,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内破庙大殿。沈清秋位于画面左侧，面向右侧的赵天霸，眼神凌厉，喝道：“放手!”赵天霸位于画面右侧，正面对沈清秋，双手紧抓沈清秋手腕。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内破庙大殿。沈清秋迅速发力，肘部向后猛击赵天霸腹部。赵天霸身体前倾，面部因疼痛扭曲。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内破庙大殿。赵天霸松开手，踉跄后退两步，随即再次怒吼着扑向沈清秋。沈清秋稳住身形，准备应对。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内破庙大殿。两人扭打在一起，拳脚相加无章法，尘土飞扬，动作激烈混乱。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内破庙大殿。沈清秋抽出一把短刃，精准地抵在赵天霸的喉咙处。赵天霸僵住，沈清秋眼神冷峻。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_10",
+              "segment_number": 10,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内。沈清秋正面站立于画面左侧，神情冷峻，面向右侧的赵天霸。赵天霸位于画面右侧，身形佝偻，两人保持对峙站位。沈清秋说：“结束了。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室内。镜头聚焦于赵天霸面部特写，他双眼闪烁着诡异的红光，面部肌肉因痛苦而扭曲，身体剧烈颤抖。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室内。镜头保持对准赵天霸，他满脸惊骇与不甘，嘴唇哆嗦着说道：“不可能……”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，室内。画面恢复至两人相对位置，沈清秋居高临下地看着赵天霸，语气平静而充满压迫感，说道：“血煞丹的反噬,感觉到了吗?”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，室内。展示破庙大殿全貌，赵天霸双腿一软，重重跪倒在满是灰尘的地面上，双手死死抱住头部，发出痛苦的哀嚎声。沈清秋依旧站在原地，静静注视着这一切。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_11",
+              "segment_number": 11,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，赵天霸突然从地面爬起，站在左侧，面向右侧的沈清秋，沈清秋站在右侧，面对赵天霸。赵天霸:“沈清秋,你赢了。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦赵天霸，他身体微微前倾，面部表情扭曲，发出诡异笑声。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，聚焦赵天霸，他嘴角上扬，眼神阴鸷。赵天霸:“你真以为,只有我会用药?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦沈清秋，他面色苍白，眉头紧锁，双手按住胸口，身体因气血翻涌而轻微颤抖。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦沈清秋，他抬起头，眼神中带着震惊与愤怒。沈清秋:“你对我做了什么?”"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_12",
+              "segment_number": 12,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，画面左侧赵天霸站立，右侧沈清秋踉跄后退。赵天霸面对沈清秋说道：“刚才那一撞,传了你散功散。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，聚焦沈清秋。沈清秋面色苍白，双腿发软，身体微微晃动，表现出内力流失的状态。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，对准沈清秋。沈清秋抬头看向赵天霸方向，颤抖着问道：“你……同归于尽?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面左侧赵天霸，右侧沈清秋。赵天霸突然发力，猛扑向沈清秋，动作迅猛。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面左侧赵天霸被推开后退，右侧沈清秋用力抵住。沈清秋推开赵天霸，自己因惯性踉跄后退。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_13",
+              "segment_number": 13,
+              "total_duration": 11,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋站立于画面左侧，面向右侧倒地的赵天霸，沈清秋神情决绝，说道：“休想!”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，微俯视角，赵天霸瘫软在破庙大殿地面，四肢抽搐试图挣扎但无法起身，面部表情痛苦且惊恐。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，低角度仰拍，沈清秋从画面右侧走向前景倒地的赵天霸，最终停在赵天霸身旁，居高临下俯视，赵天霸位于画面下方仰视沈清秋。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，沈清秋面部特写，眼神冷冽，对着下方的赵天霸说道：“因为我还有一件事没做。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，侧视机位，沈清秋站在赵天霸身侧，手中掏出纸条并用力扔向赵天霸脸部，纸条飘落覆盖在赵天霸脸上，两人保持原有站位。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_14",
+              "segment_number": 14,
+              "total_duration": 12,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，破庙大殿内，沈清秋站在赵天霸身前，面向右侧（镜头方向），神情冷峻，沈清秋:“你的秘密,我已告诉官府。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，破庙大殿内，赵天霸面部特写，脸色惨白，眼中失去高光，显得震惊和绝望。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，破庙大殿内，赵天霸嘴唇颤抖，声音虚浮，赵天霸:“你……你说什么?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，破庙大殿内，沈清秋转身背对赵天霸，迈步准备离开，语气平淡，沈清秋:“江湖路远,赵帮主好自为之。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，破庙大殿内，沈清秋背影逐渐走向庙门外的黑暗深处，最终消失在夜色中。"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            },
+            {
+              "segment_id": "seg_01_15",
+              "segment_number": 15,
+              "total_duration": 5,
+              "location": "破庙大殿",
+              "characters": [
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 5,
+                  "content": "中景，平视机位，画面中赵天霸位于中央，身体微微前倾，面部表情扭曲，张大嘴巴发出惨叫。赵天霸:“不——!!!”"
+                }
+              ],
+              "episode_number": 1,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第1集-第1场 夜 内 破庙大殿"
+            }
+          ]
+        },
+        {
+          "episode_number": 2,
+          "episode_title": "公堂对峙散功毒",
+          "segments": [
+            {
+              "segment_id": "seg_02_01",
+              "segment_number": 1,
+              "total_duration": 8,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋从破庙内部走向门口，身体略微前倾，脚步虚浮地跨出庙门进入殿外区域。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋侧身靠在庙外的树干上，双手撑住树干支撑身体，面部表情痛苦，大口喘息。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋背对树干站立，双臂环抱自己，浑身因内力流失而剧烈颤抖，面色苍白冰冷。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，沈清秋位于画面前景右侧靠树处，背景为幽暗的破庙大殿外环境，远处隐约可见马蹄声传来的方向，营造紧张氛围。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第2集-第1场 夜 内 破庙大殿外"
+            },
+            {
+              "segment_id": "seg_02_02",
+              "segment_number": 2,
+              "total_duration": 9,
+              "location": "破庙大殿",
+              "characters": [
+                "沈清秋",
+                "军官"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，从破庙大殿内部向外拍摄，画面前景可见殿内昏暗的立柱或佛像轮廓，背景透过大门看到夜色下的庭院。一队官兵骑马来到殿外树下，马蹄声隐约可闻，马匹在树旁停下。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，镜头聚焦于殿门处。领头军官翻身下马，动作利落，随即整理衣冠向殿内方向行礼，姿态恭敬但眼神警惕。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，对准军官面部及上半身。军官神色严肃，开口说道：沈大侠,奉知县大人之命。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，转向殿内阴影处的沈清秋。沈清秋眉头紧锁，眼神冷冽，右手紧紧握住剑柄，并未松开，身体保持戒备姿态，未对军官的话做出回应。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第2集-第1场 夜 内 破庙大殿外"
+            },
+            {
+              "segment_id": "seg_02_03",
+              "segment_number": 3,
+              "total_duration": 10,
+              "location": "破庙大殿",
+              "characters": [
+                "军官",
+                "赵天霸",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，破庙大殿内部，军官站在中央，面向左侧的赵天霸和右侧的沈清秋，三人呈三角站位。军官:“赵天霸涉嫌谋反,证据确凿。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，拍摄位于画面右侧的沈清秋，他背对镜头微微侧身，听到话语后紧绷的身体放松下来。沈清秋闻言,紧绷身体放松。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，破庙大殿内，军官转身面向沈清秋，赵天霸站在背景处。军官:“请您随我们回衙门作证。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，拍摄沈清秋，他面对军官，点头示意后身体微微晃动，勉强站稳。沈清秋点头,稳住身形。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第2集-第1场 夜 内 破庙大殿外"
+            },
+            {
+              "segment_id": "seg_02_04",
+              "segment_number": 4,
+              "total_duration": 8,
+              "location": "破庙大殿",
+              "characters": [
+                "军官",
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，破庙大殿门口，军官搀扶着沈清秋，两人并肩走出庙门来到殿外夜色中，走向一旁的马匹，沈清秋面色苍白但神情坚毅，军官神情紧张警惕。他借军官搀扶,走出庙门走向马匹。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧拍机位，沈清秋停下脚步，回头望向破庙方向，眼神深邃冷静，背景是昏暗的破庙轮廓。回头望向破庙,目光深邃。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，镜头对准沈清秋和军官，远处破庙深处隐约可见赵天霸被捆绑的身影，气氛压抑。赵天霸的惨叫声隐约传来。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，低角度仰拍，沈清秋在军官协助下跨上马背，随后策马转身，与军官及其他随从一同离开破庙大殿区域，马蹄声渐远。沈清秋跨上马背,与众人离去。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "夜",
+              "scene_space": "内",
+              "scene_context": "第2集-第1场 夜 内 破庙大殿外"
+            },
+            {
+              "segment_id": "seg_02_05",
+              "segment_number": 5,
+              "total_duration": 8,
+              "location": "知县衙门大堂",
+              "characters": [
+                "沈清秋",
+                "王知县"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内知县衙门大堂，王知县高坐堂上位于画面右侧高位，沈清秋被带入大堂站在画面左侧低位，面色苍白，两人同框展示对峙站位。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室内知县衙门大堂，镜头聚焦于右侧高座上的王知县，他神色凝重，身体微微前倾，目光投向左下方的沈清秋。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室内知县衙门大堂，镜头聚焦于右侧高座上的王知县，他开口说话，面部表情严肃，王知县:“沈大侠,辛苦了。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室内知县衙门大堂，镜头切换至左侧低位的沈清秋，他双手抱拳做出拱手姿态，强撑精神抬头望向堂上，动作/台词必须保留：沈清秋拱手,强撑精神。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_06",
+              "segment_number": 6,
+              "total_duration": 10,
+              "location": "知县衙门大堂",
+              "characters": [
+                "沈清秋",
+                "赵天霸",
+                "王知县"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位。画面中沈清秋立于左侧，赵天霸被押在右侧，王知县高坐堂上居中。沈清秋拱手说道：“为民除害,分内之事。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位。镜头聚焦于堂下案几，师爷的手入画，将一叠书信呈上作为证物放在桌上。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位。镜头切至赵天霸面部特写，他蓬头垢面，神情颓丧。师爷画外音说道：“这是从赵天霸密室搜出的。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位。展现大堂全貌，赵天霸被衙役押解着跪在堂下右侧，蓬头垢面，双手被缚，沈清秋站立于堂下左侧，王知县高坐堂上居中，三人呈对峙之势。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_07",
+              "segment_number": 7,
+              "total_duration": 11,
+              "location": "知县衙门大堂",
+              "characters": [
+                "赵天霸",
+                "王知县",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "全景",
+                  "duration": 3,
+                  "content": "全景，平视机位，室内。知县衙门大堂内，王知县高坐明镜高悬匾额之下，赵天霸跪于堂下右侧，沈清秋站立于堂下左侧。赵天霸抬头大喊：王大人,我是冤枉的!"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，室内。王知县面露怒色，身体前倾俯视堂下，严厉斥责：人赃并获,还敢狡辩?"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室内。赵天霸猛地抬头，目光越过王知县，死死盯着站在一旁的沈清秋，眼神充满怨恨与指控。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，室内。赵天霸指着沈清秋方向，情绪激动地指控：沈清秋,你陷害我!"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_08",
+              "segment_number": 8,
+              "total_duration": 10,
+              "location": "知县衙门大堂",
+              "characters": [
+                "沈清秋",
+                "王知县",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋位于画面左侧，面向右侧的王知县与赵天霸，神情冷静，冷冷回望，毫无惧色。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，沈清秋位于画面中央偏左，身体微侧向右，目光锐利地盯着对面，说道：“赵帮主,证据确凿。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，王知县位于画面中央，身穿官服，坐在公案后，猛地拍下惊堂木，大声呵斥。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，王知县位于画面中央高座，赵天霸位于画面右侧下方，王知县手指赵天霸，大声问道：“赵天霸,你可知罪?”"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_09",
+              "segment_number": 9,
+              "total_duration": 8,
+              "location": "知县衙门大堂",
+              "characters": [
+                "赵天霸",
+                "沈清秋",
+                "王知县"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面左侧赵天霸瘫软在地绝望大哭，面朝右前方；右侧沈清秋背对镜头转身欲走，身体微侧向左；后方正中王知县端坐于太师椅上，面向前方。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面右侧沈清秋身形一晃似要跌倒，面朝左前方；左侧赵天霸瘫软在地，抬头望向沈清秋方向；后方王知县保持坐姿，目光投向沈清秋。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面后方王知县眉头紧锁，面露惊疑，视线投向右侧；左侧赵天霸依旧瘫软在地；右侧沈清秋稳住身形，侧身回望。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面后方王知县身体前倾，手指向沈清秋方向，说道：“沈大侠,且慢。”左侧赵天霸瘫软在地，右侧沈清秋驻足回头看向王知县。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_10",
+              "segment_number": 10,
+              "total_duration": 9,
+              "location": "知县衙门大堂",
+              "characters": [
+                "沈清秋",
+                "王知县"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，画面中沈清秋背对镜头站立，面向前方王知县方向，王知县位于画面后方正中。沈清秋停下脚步,背对众人。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，相机从沈清秋侧后方拍摄，可见其背影及头部微转的轮廓。沈清秋:“大人还有何吩咐?”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，相机正对王知县，王知县坐在公案后，身体微微前倾，目光注视沈清秋。王知县:“看你气色不佳,可是受伤了?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，平视机位，相机聚焦于沈清秋面部侧面，捕捉其眼神细微变化。沈清秋心中一惊,掩饰过去。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_11",
+              "segment_number": 11,
+              "total_duration": 10,
+              "location": "知县衙门大堂",
+              "characters": [
+                "沈清秋",
+                "王知县"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，沈清秋站在大堂左侧，面向右侧的王知县。沈清秋拱手行礼，说道：“多谢大人关心,并无大碍。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，王知县坐在太师椅上，身体微前倾，若有所思地打量沈清秋，随后挥挥手示意。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，王知县放下手，语气平淡地说道：“那便好,下去休息吧。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，沈清秋转身背对王知县，快步走出大堂门口。画面显示沈清秋额头冷汗直流，神情紧张。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_12",
+              "segment_number": 12,
+              "total_duration": 8,
+              "location": "知县衙门大堂",
+              "characters": [
+                "赵天霸",
+                "王知县",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，知县衙门大堂内，赵天霸站在左侧，王知县居中坐在太师椅上，沈清秋跪在右侧地上。三人均面向前方，赵天霸神情凶狠，王知县面色阴沉，沈清秋痛苦捂胸。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦沈清秋面部。沈清秋额头渗汗，眉头紧锁，眼神中流露出对死亡的恐惧与挣扎，身体微微颤抖。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，平视机位，聚焦沈清秋双眼。沈清秋缓缓抬起头，目光越过王知县投向大堂外的远方，眼神逐渐从痛苦转为坚定与决绝。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，知县衙门大堂内，赵天霸站在左侧，王知县居中坐在太师椅上，沈清秋跪在右侧地上。沈清秋深吸一口气，挺直腰板，内心独白：为了活下去,他必须找到解药。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_13",
+              "segment_number": 13,
+              "total_duration": 8,
+              "location": "知县衙门大堂",
+              "characters": [
+                "赵天霸",
+                "王知县",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，知县衙门大堂内。王知县端坐于上方公案后，赵天霸跪于堂下左侧，沈清秋站立于右侧旁听席。画面展现三人相对站位，沈清秋内心独白：“而解药的线索,就在赵天霸口中。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，聚焦于沈清秋与赵天霸的互动区域。沈清秋目光微垂，似乎在权衡利弊，赵天霸低头不语。画面呈现沈清秋的心理活动：“但他不能直接问,风险太大。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，特写沈清秋面部表情。沈清秋眼神变得坚定，嘴角微微抿起，显露出决断之色。画面伴随内心独白：“他需要一个新的计划。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，跟随沈清秋的动作。沈清秋深吸一口气，转身退至大堂后方人群边缘，背影逐渐模糊。画面描述动作：“沈清秋深吸一口气,退至后方。”"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            },
+            {
+              "segment_id": "seg_02_14",
+              "segment_number": 14,
+              "total_duration": 6,
+              "location": "知县衙门大堂",
+              "characters": [
+                "赵天霸",
+                "王知县",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，知县衙门大堂内，王知县端坐于太师椅上，赵天霸立于左侧，沈清秋立于右侧后方，三人呈三角对峙站位。江湖路远,唯有步步为营。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦沈清秋，他转身背对镜头向大堂门口走去，背影逐渐远去。他的身影逐渐消失在街角。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，知县衙门大堂内，王知县与赵天霸留在原地，目光跟随沈清秋离开的方向，气氛凝重。一场新的博弈,悄然拉开序幕。"
+                }
+              ],
+              "episode_number": 2,
+              "scene_time": "日",
+              "scene_space": "内",
+              "scene_context": "第2集-第2场 日 内 知县衙门大堂"
+            }
+          ]
+        },
+        {
+          "episode_number": 3,
+          "episode_title": "林间遇袭藏杀机",
+          "segments": [
+            {
+              "segment_id": "seg_03_01",
+              "segment_number": 1,
+              "total_duration": 6,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋在林间小径疾行。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋眉头紧锁，每走一步,都感到经脉刺痛。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，他不得不停下来,调息运气。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_02",
+              "segment_number": 2,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，拍摄城郊树林外景环境。镜头中无人物，突出自然氛围。突然,一阵冷风掠过树梢。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋位于画面中央，身体朝向左侧，手握剑柄，神情警觉。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "远景，平视机位，拍摄城郊树林外景。树丛后方空间开阔，展示黑影移动轨迹。树丛后,一道黑影缓缓走出。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，黑衣人位于画面中心，面部细节清晰可见面具特征。黑衣人戴着面具,看不清面容。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_03",
+              "segment_number": 3,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，外景，城郊树林中，沈清秋独自站立，身体微侧，面朝画面左侧，神情警惕。黑衣人（画外）声音响起：黑衣人:“沈大侠,别来无恙。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景，聚焦于沈清秋面部，他眯起眼睛，目光锐利地扫视前方，全身戒备森严，肌肉紧绷。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，外景，沈清秋直视前方，眼神冰冷，开口问道：沈清秋:“阁下是谁?为何跟踪我?”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_04",
+              "segment_number": 4,
+              "total_duration": 10,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，林间光线斑驳，画面聚焦于沈清秋，他侧身站立，面部表情冷峻，背景是模糊的树干，黑衣人轻笑一声,声音沙哑。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，镜头推进至沈清秋面部特写，捕捉其细微神情变化，背景虚化，黑衣人:“我只是来看看,沈大侠如何。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋身体前倾，眼神锐利，动作果断，展现出不退反进的态势，沈清秋冷哼一声,不退反进。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 3,
+                  "content": "全景，平视机位，展示沈清秋在树林中的完整身形及周围环境，沈清秋面对镜头方向，姿态强硬，沈清秋:“有话直说,别玩花样。”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_05",
+              "segment_number": 5,
+              "total_duration": 9,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，户外城郊树林中，沈清秋位于画面中央偏左，身体正对镜头，神情警惕。黑衣人停下脚步,摊开双手。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林中，镜头聚焦沈清秋面部，人物正视前方，神情警惕。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林中，镜头特写沈清秋面部，人物正视前方。沈清秋瞳孔微缩,心中震惊。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，户外城郊树林中，沈清秋位于画面中央，身体微侧向左，眼神锐利。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_06",
+              "segment_number": 6,
+              "total_duration": 9,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋站在城郊树林中，黑衣人（画外）从怀中掏出一个瓷瓶，镜头聚焦于手部动作。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，特写瓷瓶口部，淡淡烟雾状药香散发，背景为模糊的树林光影。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋侧脸入画，鼻子微动，原本紧绷的神色逐渐缓和，目光投向前方。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，沈清秋正对镜头方向，眼神带着疑惑与期待，开口问道：“这是……散功散的解药?”，背景为开阔的城郊树林。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_07",
+              "segment_number": 7,
+              "total_duration": 10,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室外城郊树林环境。黑衣人与沈清秋相对而立，黑衣人位于画面左侧面向右侧，沈清秋位于画面右侧面向左侧。黑衣人点头,嘴角勾起冷笑。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，室外城郊树林背景虚化。镜头聚焦于黑衣人，他面向画面左侧的沈清秋方向。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室外城郊树林背景虚化。镜头聚焦于沈清秋，他面向画面右侧的黑衣人方向，眉头紧锁。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，侧视机位，室外城郊树林背景虚化。镜头聚焦于沈清秋，他神情警惕地看向黑衣人。沈清秋:“剩下的三分之二在哪里?”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_08",
+              "segment_number": 8,
+              "total_duration": 10,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室外环境。黑衣人站在左侧，手指向身后深处的树林，沈清秋站在右侧面对黑衣人。黑衣人指了指身后的树林深处。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，侧拍机位，室外环境。镜头聚焦黑衣人面部，神情阴冷。黑衣人:“在那棵百年老松之下。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，正面机位，室外环境。镜头聚焦沈清秋面部，眼神闪烁不定，表现出内心的挣扎。沈清秋犹豫片刻,决定冒险。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，室外环境。沈清秋身体前倾，目光锐利地盯着黑衣人，气势逼人。沈清秋:“若你敢耍花样,我必杀你。”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_09",
+              "segment_number": 9,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，黑衣人与沈清秋位于画面中，黑衣人耸耸肩，转身引路。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，黑衣人面向沈清秋方向，说道：“沈大侠请。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，两人一前一后，深入树林。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，阳光透过树叶，斑驳陆离。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_10",
+              "segment_number": 10,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，镜头从树林侧面拍摄，展示潮湿的泥土和弥漫的空气，画面中无人物，仅表现环境氛围，空气中弥漫着潮湿泥土的气息。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，沈清秋位于画面左侧，身体微侧向右，眼神警惕地注视着画外右侧方向，暗中观察黑衣人的举动。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，镜头拉远展示树林全貌，沈清秋隐蔽在树干后，远处隐约可见黑衣人脚步轻盈地移动。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦沈清秋凝重的面部特写，眉头紧锁，眼神中透露出分析判断，这绝非普通江湖人士所为。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_11",
+              "segment_number": 11,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋站立于城郊树林中，身体微侧，神情警惕，不敢大意。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋向前行走，最终停在一棵大树前，面向树干。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋站在树下，面对大树，做出挖掘示意动作。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋手持短刃，将刀刃插入树根旁的泥土中，身体前倾用力。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_12",
+              "segment_number": 12,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋背对镜头侧身站立于树林中，他小心翼翼地挖掘着泥土。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，俯视机位，沈清秋双手捧起泥土向两侧拨开，随着土层剥离,一个木盒出现。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋面向镜头，双手拿起木盒,打开一看。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，俯视机位，镜头聚焦在打开的木盒内部，里面果然放着两枚玉瓶。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_13",
+              "segment_number": 13,
+              "total_duration": 9,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋位于画面中央偏左，侧身站立，右手拿起一枚丹药凑近鼻端闻了闻，神情专注。他拿起其中一枚,闻了闻。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，聚焦沈清秋面部特写，他微微皱眉后舒展，确认药性，眼神笃定。药香浓郁,正是解药无疑。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋站在原地，身体正对前方，头部抬起，目光锐利地望向画外黑衣人的方向。沈清秋抬头看向黑衣人。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，沈清秋手持解药，身体微侧向画外，语气冷静而坚定地看着对方。沈清秋:“解药在此,你可以走了。”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_14",
+              "segment_number": 14,
+              "total_duration": 9,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，户外城郊树林环境。沈清秋站立于画面左侧，面向右侧，神情警惕。黑衣人（未列出但在场）站在对面，摇了摇头，笑容诡异。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，户外城郊树林背景虚化。黑衣人面对镜头，说道：“沈大侠,事情没那么简单。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林。沈清秋侧身站立，心中不妙，握紧剑柄。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，平视机位，户外城郊树林。沈清秋正视前方，问道：“你想怎样?”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_15",
+              "segment_number": 15,
+              "total_duration": 9,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "铁面杀手",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景城郊树林中，铁面杀手位于画面中央，沈清秋与赵天霸分立两侧。铁面杀手缓缓摘下面具，动作清晰可见。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景城郊树林中，铁面杀手面向镜头，沈清秋在画面前景右侧侧身观看，面部表情凝重。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景城郊树林中，铁面杀手居中，赵天霸在其左侧，沈清秋在右侧。铁面杀手面具摘下后露出真容，三人保持站立姿态。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，外景城郊树林中，铁面杀手正对镜头，面部表情冷峻。铁面杀手：“赵帮主临死前的托付。”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_16",
+              "segment_number": 16,
+              "total_duration": 9,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "赵天霸",
+                "铁面杀手"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室外城郊树林。沈清秋位于画面左侧，面向右侧的赵天霸和铁面杀手，怒极反笑，手按剑柄。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，室外城郊树林。沈清秋位于画面左侧，赵天霸位于画面右侧，两人对峙。沈清秋说：“好一个赵天霸,好一个铁面。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室外城郊树林。铁面杀手侧身站立，拔出长刀，刀光霍霍。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，室外城郊树林。沈清秋、赵天霸、铁面杀手三人呈三角站位对峙。铁面杀手抱拳说道：“沈大侠,得罪了。”"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_17",
+              "segment_number": 17,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "铁面杀手"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，两人在画面中央激烈交锋，铁面杀手位于左侧持刀攻向右侧的沈清秋，两人身体交错，刀光闪烁，动作迅猛。两人瞬间交手,刀光剑影。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，镜头聚焦于沈清秋，他面露疲态，眉头紧锁，呼吸急促，右手握刀微微颤抖，身体重心后仰，显示出内力不支的状态。沈清秋内力不足,渐渐吃力。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，镜头切换至铁面杀手，他面具下的眼神冷酷无情，步伐稳健有力，挥刀动作大开大合，带着强烈的压迫感向前逼近。铁面杀手招式狠辣,步步紧逼。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，画面展现两人拉开距离，沈清秋在右侧不断后退，脚步凌乱，铁面杀手在左侧步步紧逼，周围树木枝叶被剑气震落，营造出紧张的对峙氛围。沈清秋被迫节节败退。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_18",
+              "segment_number": 18,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "赵天霸",
+                "沈清秋",
+                "铁面杀手"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。画面中赵天霸位于右侧，沈清秋位于左侧，铁面杀手位于中间，三人呈三角对峙站位。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。镜头聚焦于沈清秋，他神色凝重，眼神警惕地扫视四周，试图寻找机会突围。他必须尽快服下解药,恢复实力。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。镜头切换至铁面杀手，他面具下的双眼冷冽如冰，紧紧锁定沈清秋的每一个细微动作。但铁面杀手显然看穿了他的意图。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。铁面杀手突然向前逼近一步，伸手死死缠住沈清秋，赵天霸在右侧伺机而动。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_03_19",
+              "segment_number": 19,
+              "total_duration": 8,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，户外城郊树林环境。沈清秋位于画面中央偏左，身体微侧向右，面部表情痛苦且坚毅，正在拼死抵抗。沈清秋咬紧牙关,拼死抵抗。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林环境。镜头聚焦沈清秋面部特写，他眼神凝重，目光直视前方，内心独白浮现。他知道,这一战,生死攸关。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林环境。沈清秋环顾四周，身体紧绷，似乎在快速搜索周围地形寻找机会。他必须在短时间内找到突破口。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林环境。沈清秋深吸一口气，握紧拳头，眼神中透出决绝。否则,他将命丧于此。"
+                }
+              ],
+              "episode_number": 3,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第3集-第1场 日 外 城郊树林"
+            }
+          ]
+        },
+        {
+          "episode_number": 4,
+          "episode_title": "服毒突围陷重围",
+          "segments": [
+            {
+              "segment_id": "seg_04_01",
+              "segment_number": 1,
+              "total_duration": 13,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "铁面杀手"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧，身体微侧向右，双手抬起做出防御姿态，神情紧张。铁面杀手位于画面右侧，面向沈清秋，手持兵器蓄势待发。沈清秋左支右绌,险象环生。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。铁面杀手位于画面中心偏右，面部表情冷酷，挥刀向左劈砍。沈清秋位于画面左侧边缘，身体后仰躲避。铁面杀手一刀劈向沈清秋肩膀。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，平视机位，外景。聚焦沈清秋上半身侧面。沈清秋迅速侧身闪避，衣袖被利刃划开，布料撕裂飘动。沈清秋侧身躲避,衣袖被割裂。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面中央偏左，脚步凌乱地向后倒退，双手护在胸前。铁面杀手位于画面右侧背景处，保持攻击姿态。他趁机后退,拉开距离。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，外景。沈清秋位于画面中心，头发略显凌乱，眼神坚定且愤怒，直视前方。沈清秋:“铁面,你逃不掉的。”"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，外景。沈清秋站在画面左侧远处，铁面杀手位于画面右侧前景，嘴角上扬露出轻蔑冷笑，随后迈步向前逼近，缩小两人之间的距离。铁面杀手冷笑,重新逼近。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_02",
+              "segment_number": 2,
+              "total_duration": 15,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，沈清秋位于画面左侧，铁面杀手位于画面右侧，两人相距数步对峙。铁面杀手冷冷说道：“是吗?那就试试看。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，微俯视机位，镜头聚焦沈清秋面部。沈清秋侧身对着镜头，眼中闪过一丝决绝。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，镜头特写沈清秋手部动作。沈清秋猛地吞下手中的毒药。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，展现城郊树林全貌，沈清秋在画面中央，铁面杀手在背景处。药力瞬间爆发,涌入四肢百骸。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，镜头对准沈清秋背部及侧面。沈清秋感到内力迅速恢复。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋正面朝向镜头。他深吸一口气,调整呼吸。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，镜头转向铁面杀手。铁面杀手见状,脸色大变。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_03",
+              "segment_number": 3,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，铁面杀手与沈清秋在城郊树林中对峙，铁面杀手位于画面左侧，沈清秋位于画面右侧，铁面杀手神情惊愕，说道：“你……你服了毒?”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋位于画面中央偏右，嘴角上扬，眼神冷冽，右手持剑直指对面的铁面杀手，动作果断。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，沈清秋位于画面中央，面带冷笑，剑尖微颤，说道：“不错,现在轮到我了。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，铁面杀手与沈清秋在城郊树林中，铁面杀手位于画面左侧，神色凝重不敢大意，随即全力挥刀进攻，动作迅猛。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，城郊树林背景，铁面杀手的刀刃划破空气，带起凌厉的刀风和杀气，画面展现动态张力。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，铁面杀手与沈清秋在城郊树林中近距离交锋，沈清秋位于画面右侧，不再退缩，迎着刀锋而上，剑刀相交。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_04",
+              "segment_number": 4,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。剑光如虹,直刺铁面杀手胸口。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。铁面杀手横刀格挡,火星四溅。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。两人再次陷入僵持。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。沈清秋内力恢复,攻势更猛。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。他剑走偏锋,专攻要害。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。铁面杀手渐渐招架不住。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。他的刀势开始凌乱,破绽频出。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_05",
+              "segment_number": 5,
+              "total_duration": 15,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "铁面杀手",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋位于画面左侧，面向右侧的铁面杀手，沈清秋抓住机会,一剑刺出。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，铁面杀手面部特写，侧脸朝向左侧，剑尖划破铁面杀手的脸颊。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，铁面杀手身体后仰，背对沈清秋后退几步，铁面杀手惊呼一声,后退几步。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，铁面杀手面部表情震惊，正视前方，铁面杀手:“你……你竟然这么强。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋向前逼近，铁面杀手向后退去，沈清秋步步紧逼,不给喘息。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋正视铁面杀手，神情冷峻，沈清秋:“赵天霸让你来的?”"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，铁面杀手低头沉默，身体紧绷，铁面杀手咬牙,沉默不语。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_06",
+              "segment_number": 6,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "铁面杀手"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧，面向右侧的铁面杀手，剑锋指向他的喉咙。沈清秋剑锋指向他的喉咙。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，外景。镜头聚焦沈清秋，他面部表情冷峻，眼神凌厉地盯着画面外的铁面杀手。沈清秋:“不说,我就杀了你。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。镜头聚焦铁面杀手，他面色苍白，眼神惊恐地看向沈清秋。铁面杀手眼中闪过一丝恐惧。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，外景。镜头聚焦铁面杀手，他颤抖着嘴唇，声音带着哭腔。铁面杀手:“是……是他让我监视你。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "特写，平视机位，外景。镜头聚焦沈清秋的脸部，嘴角勾起一抹轻蔑的冷笑。沈清秋冷笑,剑锋再进一寸。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋位于画面左侧，面向右侧的铁面杀手，剑尖抵住对方皮肤。沈清秋:“还有呢?”"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_07",
+              "segment_number": 7,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，铁面杀手位于画面左侧，身体微侧向右，沈清秋位于画面右侧，面向左侧。铁面杀手颤抖着说道:"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，铁面杀手面部特写，神情痛苦且紧张，眼神游离。铁面杀手:“他还留了一手……”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋面部特写，眉头紧锁，眼神中充满疑惑，目光投向铁面杀手。沈清秋皱眉,心中疑惑更甚。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋面部特写，嘴唇微动，语气急促且带有质问意味。沈清秋:“什么意思?”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，铁面杀手位于画面左侧，身体转向右侧远方，抬起右手指向远处，沈清秋位于画面右侧，身体随铁面杀手视线转向。铁面杀手苦笑,指向远处。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，铁面杀手侧脸特写，手指方向明确，表情无奈。铁面杀手:“你看那边。”"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，铁面杀手与沈清秋均位于画面中，沈清秋站在铁面杀手身旁，身体和头部完全转向铁面杀手所指的方向望去，背景为延伸的树林。沈清秋顺着手指方向望去。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_08",
+              "segment_number": 8,
+              "total_duration": 15,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，外景，林间空地。铁面杀手位于画面左侧持械戒备，沈清秋位于画面中央神情警惕，赵天霸站在画面右侧远处，周围环绕着一群黑衣人正向他们包围过来。只见一群黑衣人正包围过来。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。镜头聚焦于赵天霸，他站在黑衣人前方，为首之人,正是赵天霸本人。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。展示赵天霸的状态，他站在黑衣人前方，神态从容自信，并未受伤。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。赵天霸面带阴狠笑容，原来这一切都是赵天霸的阴谋。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。沈清秋面部特写，眼神中充满震惊，沈清秋心中一震,难以置信。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，外景。沈清秋面对赵天霸，手指指向对方，沈清秋:“赵天霸,你还没死?”"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。赵天霸仰头大笑，赵天霸哈哈大笑,声音阴森。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_09",
+              "segment_number": 9,
+              "total_duration": 15,
+              "location": "城郊树林",
+              "characters": [
+                "赵天霸",
+                "沈清秋",
+                "铁面杀手"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，赵天霸站在画面右侧，面带冷笑看向左侧，沈清秋站在画面左侧，手持解药瓶，铁面杀手隐于赵天霸身后阴影中。赵天霸:“沈大侠,欢迎回来。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋侧身面对镜头，右手紧紧握住剑柄，眼神警惕地扫视周围树林。沈清秋握紧剑柄,警惕四周。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋面部特写，眉头紧锁，眼神中流露出意识到局势不妙的凝重神情。他意识到自己陷入了更大的陷阱。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，赵天霸站在画面中央，整理衣袖，神态轻松自信，身后铁面杀手持刀而立。赵天霸不仅没死,还早有准备。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，树林四周埋伏着多名杀手，形成包围圈，沈清秋被围在中心，孤立无援。他利用沈清秋解毒的机会,布下天罗地网。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋闭上眼睛深吸一口气，随后睁开眼，目光变得锐利冷静。沈清秋深吸一口气,冷静分析。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋环顾四周密集的敌人，身体微微下沉，做出防御姿态，眼神坚定。对方人数众多,硬拼必输。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_10",
+              "segment_number": 10,
+              "total_duration": 15,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室外城郊树林环境。沈清秋与铁面杀手相对而立，沈清秋位于画面左侧，铁面杀手位于画面右侧，两人保持数步距离，神情凝重，展现突围前的紧张氛围。他必须寻找突围的机会。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室外城郊树林。镜头聚焦于沈清秋面部，他侧头看向画面右侧的铁面杀手，眼神冰冷锐利，面部肌肉紧绷，毫无怜悯之色。他看向铁面杀手,眼神冰冷。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室外城郊树林。镜头切换至沈清秋正面特写，他嘴唇微动，语气低沉而充满试探，目光紧锁对方反应。沈清秋:“你,想活命吗?”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，室外城郊树林。镜头对准铁面杀手面部，他听到问话后立刻点头，额头渗出冷汗，眼中流露出强烈的恐惧与求生欲望，身体微微前倾以示顺从。铁面杀手点头,眼中满是求生欲。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，室外城郊树林。铁面杀手声音颤抖，带着哭腔乞求，双手不自觉地做出卑微姿态，眼神中满是绝望后的希冀。铁面杀手:“想……求你放过我。”"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，室外城郊树林。沈清秋突然挥动手腕，剑锋划出一道寒光直指铁面杀手胸口，动作迅猛果断，打破刚才的对峙平衡，气氛瞬间凝固。沈清秋剑锋一转,指向铁面杀手。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，室外城郊树林。铁面杀手看到剑尖指向自己，脸色骤变，瞳孔放大，惊慌失措地连连向后退去，脚下踩断枯枝，试图拉开安全距离。铁面杀手大惊,连忙后退。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_11",
+              "segment_number": 11,
+              "total_duration": 15,
+              "location": "城郊树林",
+              "characters": [
+                "沈清秋",
+                "铁面杀手",
+                "赵天霸"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，户外城郊树林。沈清秋位于画面左侧，面对右侧的铁面杀手和稍远处的赵天霸。沈清秋快速说道:"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，户外城郊树林。沈清秋占据画面主体，表情冷峻，面向镜头方向。沈清秋:“带路,否则死。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林。铁面杀手面部特写，神情无奈且警惕。铁面杀手别无选择,只能听从。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，户外城郊树林。铁面杀手侧身，伸出右手手指指向画面深处的树林背景。他指着树林深处的密道。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 3,
+                  "content": "近景，平视机位，户外城郊树林。铁面杀手面部特写，眼神看向指的方向，口型配合台词。铁面杀手:“那边……有条密道。”"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，户外城郊树林。沈清秋抓住铁面杀手的手臂，两人身体前倾准备移动。沈清秋点头,拉着铁面杀手就跑。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，户外城郊树林。赵天霸站在画面后方，面部怒容，拳头紧握。赵天霸见状,大怒。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_12",
+              "segment_number": 12,
+              "total_duration": 5,
+              "location": "城郊树林",
+              "characters": [
+                "赵天霸",
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 3,
+                  "content": "中景，平视机位，外景城郊树林。赵天霸位于画面左侧，身体前倾，手指前方，神情凶狠，朝右侧的沈清秋和铁面杀手方向大喊：赵天霸:“追!绝不能让他们跑了!”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，外景城郊树林。赵天霸转身带领手下黑衣人向画面深处奔跑，背景中可见多名黑衣人在树林间穿梭追赶，形成包围态势。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_13",
+              "segment_number": 13,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋在前，铁面杀手紧随其后，两人呈前后纵队站立，共同向画面深处奔跑，沈清秋带着铁面杀手,冲进密道。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，低角度仰拍，展示密道入口内部空间，四周树木遮蔽光线，环境显得幽暗，密道阴暗潮湿,伸手不见五指。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，侧视机位，沈清秋伸出双手向前摸索，身体前倾，步伐谨慎，他凭着记忆,摸索着前进。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，俯视机位，镜头聚焦于地面落叶，远处背景模糊处有晃动的人影逼近，身后传来追兵的脚步声。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋面部特写，眉头紧锁，眼神焦急，脚步明显加快，沈清秋心中焦急,加快脚步。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，前方黑暗尽头出现微弱光斑，沈清秋抬头望向光亮处，终于,前方出现了光亮。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，低角度仰拍，展现密道出口连接着外部树林，光线从出口射入，形成明暗对比，那是密道的出口。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_14",
+              "segment_number": 14,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋拉着铁面杀手从密道冲出，两人均面向画面右侧奔跑，沈清秋在前，铁面杀手在后，背景为城郊树林边缘。"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，展示城郊树林外的湍急河流，河水从左向右流动，两岸树木茂密，无人物出现。"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋背对镜头，毫不犹豫地跳入河中，身体前倾，溅起水花，河流背景清晰可见。"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋在水中挣扎，身体东倒西歪，面部表情痛苦，水流冲击着他的身体，背景为流动的河水。"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，沈清秋紧紧抱住铁面杀手，两人随波逐流，铁面杀手昏迷不醒，沈清秋努力保持平衡，水流湍急。"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，河岸远处，追兵站在岸边，望着河流无能为力，两岸树木林立，追兵身影较小，表现出距离感。"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，沈清秋和铁面杀手漂流至较平静的水域，沈清秋抬头望向远方，眼神中透露出暂时安全的 relief，背景为城郊树林和河流。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_15",
+              "segment_number": 15,
+              "total_duration": 14,
+              "location": "城郊树林",
+              "characters": [
+                "赵天霸",
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。赵天霸站在画面左侧，面带冷笑看向右侧，沈清秋站在画面右侧，手持长剑，铁面杀手隐于沈清秋身后阴影中。赵天霸:“沈大侠,欢迎回来。”"
+                },
+                {
+                  "shot_number": 2,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，外景。三人位于画面中，环境开阔。镜头缓缓拉远，展现局势紧张。画外音或字幕感独白响起：“这场江湖恩怨,才刚刚开始。”"
+                },
+                {
+                  "shot_number": 3,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋站在画面右侧，目光望向左侧的赵天霸，眼神坚毅。赵天霸和铁面杀手在画面左侧注视着他。沈清秋内心独白：“他望着赵天霸,眼神坚毅。”"
+                },
+                {
+                  "shot_number": 4,
+                  "shot_type": "近景",
+                  "duration": 2,
+                  "content": "近景，平视机位，外景。聚焦沈清秋面部特写，阳光透过树叶洒在脸上。他紧握拳头，坚定地说：“无论前路多么艰险,他都不会放弃。”"
+                },
+                {
+                  "shot_number": 5,
+                  "shot_type": "中景",
+                  "duration": 2,
+                  "content": "中景，平视机位，外景。沈清秋转身面对赵天霸，手指指向对方。赵天霸后退半步。沈清秋冷声道：“他要揭开赵天霸的真面目。”"
+                },
+                {
+                  "shot_number": 6,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，外景。三人形成三角站位，气氛凝固。沈清秋高举手臂，向天空宣告：“他要为江湖讨回公道。”"
+                },
+                {
+                  "shot_number": 7,
+                  "shot_type": "全景",
+                  "duration": 2,
+                  "content": "全景，平视机位，外景。沈清秋紧握剑柄，身体微蹲，处于防守姿态，准备应对即将到来的围攻。画外音描述：“沈清秋的身影在树林中蓄势待发。”"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            },
+            {
+              "segment_id": "seg_04_16",
+              "segment_number": 16,
+              "total_duration": 5,
+              "location": "城郊树林",
+              "characters": [
+                "铁面杀手",
+                "沈清秋"
+              ],
+              "shots": [
+                {
+                  "shot_number": 1,
+                  "shot_type": "中景",
+                  "duration": 5,
+                  "content": "中景，平视机位，铁面杀手与沈清秋并肩站立于城郊树林中，面向前方。新的旅程,即将展开。"
+                }
+              ],
+              "episode_number": 4,
+              "scene_time": "日",
+              "scene_space": "外",
+              "scene_context": "第4集-第1场 日 外 城郊树林"
+            }
+          ]
+        }
+      ]
+    },
+    "reference_generation": {
+      "scenes": [
+        {
+          "id": "seg_01_01",
+          "name": "第1集-片段1",
+          "episode": 1,
+          "index": 1,
+          "description": "中景，平视机位，沈清秋背靠残佛站立，剑尖滴血。画面右侧远处，赵天霸带领两名刀客步入大殿。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_01.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_01.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_02",
+          "name": "第1集-片段2",
+          "episode": 1,
+          "index": 2,
+          "description": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧对峙。左侧刀客甲挥刀劈向沈清秋面门。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_02.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_02.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_03",
+          "name": "第1集-片段3",
+          "episode": 1,
+          "index": 3,
+          "description": "中景，平视机位，破庙大殿内。赵天霸位于画面左侧，沈清秋位于画面右侧，两人对峙。沈清秋踏步上前，剑锋划过。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_03.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_03.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_04",
+          "name": "第1集-片段4",
+          "episode": 1,
+          "index": 4,
+          "description": "中景，平视机位，沈清秋位于画面左侧，面向右侧的赵天霸，挥剑斩断袭来的长鞭。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_04.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_04.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_05",
+          "name": "第1集-片段5",
+          "episode": 1,
+          "index": 5,
+          "description": "中景，平视机位，赵天霸与沈清秋分立大殿两侧，相距数步。赵天霸从腰间拔出长剑,剑身泛寒光。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_05.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_05.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_06",
+          "name": "第1集-片段6",
+          "episode": 1,
+          "index": 6,
+          "description": "中景，平视机位，破庙大殿内，赵天霸位于画面左侧，沈清秋位于画面右侧，两人相距约两米对峙。赵天霸迅速挥剑格挡，剑尖划破沈清秋衣领。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_06.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_06.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_07",
+          "name": "第1集-片段7",
+          "episode": 1,
+          "index": 7,
+          "description": "中景，平视机位，画面左侧赵天霸侧身站立，面向右侧沈清秋，右手捏着一枚黑色药丸送入口中吞下。沈清秋站在画面右侧，身体微前倾，目光紧盯着赵天霸的动作。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_07.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_07.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_08",
+          "name": "第1集-片段8",
+          "episode": 1,
+          "index": 8,
+          "description": "中景，平视机位，赵天霸与沈清秋相对而立，赵天霸猛然发力冲击，震碎脚下石板。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_08.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_08.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_09",
+          "name": "第1集-片段9",
+          "episode": 1,
+          "index": 9,
+          "description": "中景，平视机位，室内破庙大殿。沈清秋位于画面左侧，面向右侧的赵天霸，眼神凌厉，喝道：“放手!”赵天霸位于画面右侧，正面对沈清秋，双手紧抓沈清秋手腕。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_09.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_09.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_10",
+          "name": "第1集-片段10",
+          "episode": 1,
+          "index": 10,
+          "description": "中景，平视机位，室内。沈清秋正面站立于画面左侧，神情冷峻，面向右侧的赵天霸。赵天霸位于画面右侧，身形佝偻，两人保持对峙站位。沈清秋说：“结束了。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_10.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_10.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_11",
+          "name": "第1集-片段11",
+          "episode": 1,
+          "index": 11,
+          "description": "中景，平视机位，赵天霸突然从地面爬起，站在左侧，面向右侧的沈清秋，沈清秋站在右侧，面对赵天霸。赵天霸:“沈清秋,你赢了。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_11.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_11.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_12",
+          "name": "第1集-片段12",
+          "episode": 1,
+          "index": 12,
+          "description": "中景，平视机位，画面左侧赵天霸站立，右侧沈清秋踉跄后退。赵天霸面对沈清秋说道：“刚才那一撞,传了你散功散。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_12.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_12.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_13",
+          "name": "第1集-片段13",
+          "episode": 1,
+          "index": 13,
+          "description": "中景，平视机位，沈清秋站立于画面左侧，面向右侧倒地的赵天霸，沈清秋神情决绝，说道：“休想!”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_13.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_13.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_14",
+          "name": "第1集-片段14",
+          "episode": 1,
+          "index": 14,
+          "description": "中景，平视机位，破庙大殿内，沈清秋站在赵天霸身前，面向右侧（镜头方向），神情冷峻，沈清秋:“你的秘密,我已告诉官府。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_14.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_14.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_01_15",
+          "name": "第1集-片段15",
+          "episode": 1,
+          "index": 15,
+          "description": "中景，平视机位，画面中赵天霸位于中央，身体微微前倾，面部表情扭曲，张大嘴巴发出惨叫。赵天霸:“不——!!!”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_01_15.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_01_15.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_01",
+          "name": "第2集-片段1",
+          "episode": 2,
+          "index": 1,
+          "description": "中景，平视机位，沈清秋从破庙内部走向门口，身体略微前倾，脚步虚浮地跨出庙门进入殿外区域。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_01.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_01.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_02",
+          "name": "第2集-片段2",
+          "episode": 2,
+          "index": 2,
+          "description": "中景，平视机位，从破庙大殿内部向外拍摄，画面前景可见殿内昏暗的立柱或佛像轮廓，背景透过大门看到夜色下的庭院。一队官兵骑马来到殿外树下，马蹄声隐约可闻，马匹在树旁停下。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_02.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_02.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_03",
+          "name": "第2集-片段3",
+          "episode": 2,
+          "index": 3,
+          "description": "中景，平视机位，破庙大殿内部，军官站在中央，面向左侧的赵天霸和右侧的沈清秋，三人呈三角站位。军官:“赵天霸涉嫌谋反,证据确凿。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_03.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_03.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_04",
+          "name": "第2集-片段4",
+          "episode": 2,
+          "index": 4,
+          "description": "中景，平视机位，破庙大殿门口，军官搀扶着沈清秋，两人并肩走出庙门来到殿外夜色中，走向一旁的马匹，沈清秋面色苍白但神情坚毅，军官神情紧张警惕。他借军官搀扶,走出庙门走向马匹。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_04.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_04.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_05",
+          "name": "第2集-片段5",
+          "episode": 2,
+          "index": 5,
+          "description": "中景，平视机位，室内知县衙门大堂，王知县高坐堂上位于画面右侧高位，沈清秋被带入大堂站在画面左侧低位，面色苍白，两人同框展示对峙站位。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_05.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_05.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_06",
+          "name": "第2集-片段6",
+          "episode": 2,
+          "index": 6,
+          "description": "中景，平视机位。画面中沈清秋立于左侧，赵天霸被押在右侧，王知县高坐堂上居中。沈清秋拱手说道：“为民除害,分内之事。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_06.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_06.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_07",
+          "name": "第2集-片段7",
+          "episode": 2,
+          "index": 7,
+          "description": "全景，平视机位，室内。知县衙门大堂内，王知县高坐明镜高悬匾额之下，赵天霸跪于堂下右侧，沈清秋站立于堂下左侧。赵天霸抬头大喊：王大人,我是冤枉的!",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_07.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_07.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_08",
+          "name": "第2集-片段8",
+          "episode": 2,
+          "index": 8,
+          "description": "中景，平视机位，沈清秋位于画面左侧，面向右侧的王知县与赵天霸，神情冷静，冷冷回望，毫无惧色。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_08.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_08.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_09",
+          "name": "第2集-片段9",
+          "episode": 2,
+          "index": 9,
+          "description": "中景，平视机位，画面左侧赵天霸瘫软在地绝望大哭，面朝右前方；右侧沈清秋背对镜头转身欲走，身体微侧向左；后方正中王知县端坐于太师椅上，面向前方。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_09.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_09.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_10",
+          "name": "第2集-片段10",
+          "episode": 2,
+          "index": 10,
+          "description": "中景，平视机位，画面中沈清秋背对镜头站立，面向前方王知县方向，王知县位于画面后方正中。沈清秋停下脚步,背对众人。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_10.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_10.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_11",
+          "name": "第2集-片段11",
+          "episode": 2,
+          "index": 11,
+          "description": "中景，平视机位，沈清秋站在大堂左侧，面向右侧的王知县。沈清秋拱手行礼，说道：“多谢大人关心,并无大碍。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_11.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_11.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_12",
+          "name": "第2集-片段12",
+          "episode": 2,
+          "index": 12,
+          "description": "中景，平视机位，知县衙门大堂内，赵天霸站在左侧，王知县居中坐在太师椅上，沈清秋跪在右侧地上。三人均面向前方，赵天霸神情凶狠，王知县面色阴沉，沈清秋痛苦捂胸。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_12.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_12.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_13",
+          "name": "第2集-片段13",
+          "episode": 2,
+          "index": 13,
+          "description": "全景，平视机位，知县衙门大堂内。王知县端坐于上方公案后，赵天霸跪于堂下左侧，沈清秋站立于右侧旁听席。画面展现三人相对站位，沈清秋内心独白：“而解药的线索,就在赵天霸口中。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_13.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_13.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_02_14",
+          "name": "第2集-片段14",
+          "episode": 2,
+          "index": 14,
+          "description": "中景，平视机位，知县衙门大堂内，王知县端坐于太师椅上，赵天霸立于左侧，沈清秋立于右侧后方，三人呈三角对峙站位。江湖路远,唯有步步为营。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_02_14.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_02_14.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_01",
+          "name": "第3集-片段1",
+          "episode": 3,
+          "index": 1,
+          "description": "中景，平视机位，沈清秋在林间小径疾行。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_01.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_01.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_02",
+          "name": "第3集-片段2",
+          "episode": 3,
+          "index": 2,
+          "description": "全景，平视机位，拍摄城郊树林外景环境。镜头中无人物，突出自然氛围。突然,一阵冷风掠过树梢。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_02.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_02.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_03",
+          "name": "第3集-片段3",
+          "episode": 3,
+          "index": 3,
+          "description": "中景，平视机位，外景，城郊树林中，沈清秋独自站立，身体微侧，面朝画面左侧，神情警惕。黑衣人（画外）声音响起：黑衣人:“沈大侠,别来无恙。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_03.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_03.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_04",
+          "name": "第3集-片段4",
+          "episode": 3,
+          "index": 4,
+          "description": "中景，平视机位，林间光线斑驳，画面聚焦于沈清秋，他侧身站立，面部表情冷峻，背景是模糊的树干，黑衣人轻笑一声,声音沙哑。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_04.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_04.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_05",
+          "name": "第3集-片段5",
+          "episode": 3,
+          "index": 5,
+          "description": "中景，平视机位，户外城郊树林中，沈清秋位于画面中央偏左，身体正对镜头，神情警惕。黑衣人停下脚步,摊开双手。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_05.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_05.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_06",
+          "name": "第3集-片段6",
+          "episode": 3,
+          "index": 6,
+          "description": "中景，平视机位，沈清秋站在城郊树林中，黑衣人（画外）从怀中掏出一个瓷瓶，镜头聚焦于手部动作。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_06.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_06.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_07",
+          "name": "第3集-片段7",
+          "episode": 3,
+          "index": 7,
+          "description": "中景，平视机位，室外城郊树林环境。黑衣人与沈清秋相对而立，黑衣人位于画面左侧面向右侧，沈清秋位于画面右侧面向左侧。黑衣人点头,嘴角勾起冷笑。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_07.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_07.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_08",
+          "name": "第3集-片段8",
+          "episode": 3,
+          "index": 8,
+          "description": "中景，平视机位，室外环境。黑衣人站在左侧，手指向身后深处的树林，沈清秋站在右侧面对黑衣人。黑衣人指了指身后的树林深处。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_08.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_08.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_09",
+          "name": "第3集-片段9",
+          "episode": 3,
+          "index": 9,
+          "description": "中景，平视机位，黑衣人与沈清秋位于画面中，黑衣人耸耸肩，转身引路。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_09.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_09.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_10",
+          "name": "第3集-片段10",
+          "episode": 3,
+          "index": 10,
+          "description": "中景，平视机位，镜头从树林侧面拍摄，展示潮湿的泥土和弥漫的空气，画面中无人物，仅表现环境氛围，空气中弥漫着潮湿泥土的气息。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_10.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_10.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_11",
+          "name": "第3集-片段11",
+          "episode": 3,
+          "index": 11,
+          "description": "中景，平视机位，沈清秋站立于城郊树林中，身体微侧，神情警惕，不敢大意。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_11.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_11.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_12",
+          "name": "第3集-片段12",
+          "episode": 3,
+          "index": 12,
+          "description": "中景，平视机位，沈清秋背对镜头侧身站立于树林中，他小心翼翼地挖掘着泥土。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_12.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_12.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_13",
+          "name": "第3集-片段13",
+          "episode": 3,
+          "index": 13,
+          "description": "中景，平视机位，沈清秋位于画面中央偏左，侧身站立，右手拿起一枚丹药凑近鼻端闻了闻，神情专注。他拿起其中一枚,闻了闻。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_13.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_13.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_14",
+          "name": "第3集-片段14",
+          "episode": 3,
+          "index": 14,
+          "description": "中景，平视机位，户外城郊树林环境。沈清秋站立于画面左侧，面向右侧，神情警惕。黑衣人（未列出但在场）站在对面，摇了摇头，笑容诡异。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_14.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_14.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_15",
+          "name": "第3集-片段15",
+          "episode": 3,
+          "index": 15,
+          "description": "中景，平视机位，外景城郊树林中，铁面杀手位于画面中央，沈清秋与赵天霸分立两侧。铁面杀手缓缓摘下面具，动作清晰可见。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_15.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_15.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_16",
+          "name": "第3集-片段16",
+          "episode": 3,
+          "index": 16,
+          "description": "中景，平视机位，室外城郊树林。沈清秋位于画面左侧，面向右侧的赵天霸和铁面杀手，怒极反笑，手按剑柄。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_16.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_16.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_17",
+          "name": "第3集-片段17",
+          "episode": 3,
+          "index": 17,
+          "description": "中景，平视机位，两人在画面中央激烈交锋，铁面杀手位于左侧持刀攻向右侧的沈清秋，两人身体交错，刀光闪烁，动作迅猛。两人瞬间交手,刀光剑影。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_17.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_17.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_18",
+          "name": "第3集-片段18",
+          "episode": 3,
+          "index": 18,
+          "description": "中景，平视机位，外景。画面中赵天霸位于右侧，沈清秋位于左侧，铁面杀手位于中间，三人呈三角对峙站位。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_18.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_18.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_03_19",
+          "name": "第3集-片段19",
+          "episode": 3,
+          "index": 19,
+          "description": "中景，平视机位，户外城郊树林环境。沈清秋位于画面中央偏左，身体微侧向右，面部表情痛苦且坚毅，正在拼死抵抗。沈清秋咬紧牙关,拼死抵抗。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_03_19.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_03_19.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_04_01",
+          "name": "第4集-片段1",
+          "episode": 4,
+          "index": 1,
+          "description": "中景，平视机位，外景。沈清秋位于画面左侧，身体微侧向右，双手抬起做出防御姿态，神情紧张。铁面杀手位于画面右侧，面向沈清秋，手持兵器蓄势待发。沈清秋左支右绌,险象环生。",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_04_01.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_04_01.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_04_02",
+          "name": "第4集-片段2",
+          "episode": 4,
+          "index": 2,
+          "description": "中景，平视机位，沈清秋位于画面左侧，铁面杀手位于画面右侧，两人相距数步对峙。铁面杀手冷冷说道：“是吗?那就试试看。”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_04_02.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_04_02.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_04_03",
+          "name": "第4集-片段3",
+          "episode": 4,
+          "index": 3,
+          "description": "中景，平视机位，铁面杀手与沈清秋在城郊树林中对峙，铁面杀手位于画面左侧，沈清秋位于画面右侧，铁面杀手神情惊愕，说道：“你……你服了毒?”",
+          "selected": "code/result/image\\1782080979012\\Scenes\\seg_04_03.jpg",
+          "versions": [
+            "code/result/image\\1782080979012\\Scenes\\seg_04_03.jpg"
+          ],
+          "status": "done"
+        },
+        {
+          "id": "seg_04_04",
+          "name": "第4集-片段4",
+          "episode": 4,
+          "index": 4,
+          "description": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。剑光如虹,直刺铁面杀手胸口。",
+          "selected": "",
+          "versions": [],
+          "status": "running"
+        },
+        {
+          "id": "seg_04_05",
+          "name": "第4集-片段5",
+          "episode": 4,
+          "index": 5,
+          "description": "中景，平视机位，沈清秋位于画面左侧，面向右侧的铁面杀手，沈清秋抓住机会,一剑刺出。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_06",
+          "name": "第4集-片段6",
+          "episode": 4,
+          "index": 6,
+          "description": "中景，平视机位，外景。沈清秋位于画面左侧，面向右侧的铁面杀手，剑锋指向他的喉咙。沈清秋剑锋指向他的喉咙。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_07",
+          "name": "第4集-片段7",
+          "episode": 4,
+          "index": 7,
+          "description": "中景，平视机位，铁面杀手位于画面左侧，身体微侧向右，沈清秋位于画面右侧，面向左侧。铁面杀手颤抖着说道:",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_08",
+          "name": "第4集-片段8",
+          "episode": 4,
+          "index": 8,
+          "description": "全景，平视机位，外景，林间空地。铁面杀手位于画面左侧持械戒备，沈清秋位于画面中央神情警惕，赵天霸站在画面右侧远处，周围环绕着一群黑衣人正向他们包围过来。只见一群黑衣人正包围过来。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_09",
+          "name": "第4集-片段9",
+          "episode": 4,
+          "index": 9,
+          "description": "中景，平视机位，赵天霸站在画面右侧，面带冷笑看向左侧，沈清秋站在画面左侧，手持解药瓶，铁面杀手隐于赵天霸身后阴影中。赵天霸:“沈大侠,欢迎回来。”",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_10",
+          "name": "第4集-片段10",
+          "episode": 4,
+          "index": 10,
+          "description": "中景，平视机位，室外城郊树林环境。沈清秋与铁面杀手相对而立，沈清秋位于画面左侧，铁面杀手位于画面右侧，两人保持数步距离，神情凝重，展现突围前的紧张氛围。他必须寻找突围的机会。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_11",
+          "name": "第4集-片段11",
+          "episode": 4,
+          "index": 11,
+          "description": "全景，平视机位，户外城郊树林。沈清秋位于画面左侧，面对右侧的铁面杀手和稍远处的赵天霸。沈清秋快速说道:",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_12",
+          "name": "第4集-片段12",
+          "episode": 4,
+          "index": 12,
+          "description": "中景，平视机位，外景城郊树林。赵天霸位于画面左侧，身体前倾，手指前方，神情凶狠，朝右侧的沈清秋和铁面杀手方向大喊：赵天霸:“追!绝不能让他们跑了!”",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_13",
+          "name": "第4集-片段13",
+          "episode": 4,
+          "index": 13,
+          "description": "中景，平视机位，沈清秋在前，铁面杀手紧随其后，两人呈前后纵队站立，共同向画面深处奔跑，沈清秋带着铁面杀手,冲进密道。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_14",
+          "name": "第4集-片段14",
+          "episode": 4,
+          "index": 14,
+          "description": "中景，平视机位，沈清秋拉着铁面杀手从密道冲出，两人均面向画面右侧奔跑，沈清秋在前，铁面杀手在后，背景为城郊树林边缘。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_15",
+          "name": "第4集-片段15",
+          "episode": 4,
+          "index": 15,
+          "description": "中景，平视机位，外景。赵天霸站在画面左侧，面带冷笑看向右侧，沈清秋站在画面右侧，手持长剑，铁面杀手隐于沈清秋身后阴影中。赵天霸:“沈大侠,欢迎回来。”",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        },
+        {
+          "id": "seg_04_16",
+          "name": "第4集-片段16",
+          "episode": 4,
+          "index": 16,
+          "description": "中景，平视机位，铁面杀手与沈清秋并肩站立于城郊树林中，面向前方。新的旅程,即将展开。",
+          "selected": "",
+          "versions": [],
+          "status": "pending"
+        }
+      ]
+    },
+    "video_generation": {
+      "clips": [
+        {
+          "id": "seg_01_01",
+          "name": "第1集-片段1",
+          "index": 1,
+          "description": "中景，平视机位，沈清秋背靠残佛站立，剑尖滴血。画面右侧远处，赵天霸带领两名刀客步入大殿。 中景，平视机位，赵天霸大步踏入大殿中央，两名刀客分立其左右，形成包围之势。 近景，平视机位，赵天霸:“沈大侠,断魂阵是你自创?” 近景，平视机位，沈清秋:“赵帮主好大的口气。” 全景，平视机位，赵天霸挥手示意刀客进攻。",
+          "duration": 12,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_02",
+          "name": "第1集-片段2",
+          "index": 2,
+          "description": "中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧对峙。左侧刀客甲挥刀劈向沈清秋面门。 中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。沈清秋侧身,剑光一闪。 中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。沈清秋:“第一剑,断臂。” 中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。刀客甲惨叫倒地,右臂流血。 中景，平视机位，室内环境。赵天霸位于画面左侧站立，沈清秋位于画面右侧。刀客乙颤抖着举起双刀。",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_03",
+          "name": "第1集-片段3",
+          "index": 3,
+          "description": "中景，平视机位，破庙大殿内。赵天霸位于画面左侧，沈清秋位于画面右侧，两人对峙。沈清秋踏步上前，剑锋划过。 近景，平视机位，拍摄地面及人物下半身。刀客乙双刀落地,手指被削。 近景，平视机位，聚焦赵天霸面部。赵天霸满脸惊恐，颤抖说道：赵天霸:“你……你是鬼吗?” 中景，平视机位，破庙大殿内。赵天霸拔出长鞭,狠狠甩出。 全景，平视机位，破庙大殿内。长鞭缠向沈清秋的脖颈。",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_04",
+          "name": "第1集-片段4",
+          "index": 4,
+          "description": "中景，平视机位，沈清秋位于画面左侧，面向右侧的赵天霸，挥剑斩断袭来的长鞭。 中景，平视机位，沈清秋位于画面左侧，赵天霸位于画面右侧，两人对峙，沈清秋说：“赵天霸,你的命,我要定了。” 近景，平视机位，赵天霸位于画面中央偏右，身体微侧，掏出匕首掷出。 近景，平视机位，沈清秋位于画面左侧，侧头躲避，匕首钉在身后的柱子上。 中景，平视机位，赵天霸位于画面右侧，面带冷笑看着沈清秋，说道：“江湖险恶,识时务者俊杰。”",
+          "duration": 12,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_05",
+          "name": "第1集-片段5",
+          "index": 5,
+          "description": "中景，平视机位，赵天霸与沈清秋分立大殿两侧，相距数步。赵天霸从腰间拔出长剑,剑身泛寒光。 全景，平视机位，赵天霸与沈清秋位于画面中央，两人从对峙状态迅速冲向前,剑刃相撞火花溅。 近景，平视机位，赵天霸面部特写，眼神轻蔑，说道：赵天霸:“沈大侠,你的剑法老了。” 近景，平视机位，沈清秋面部特写，神色淡然，回应道：沈清秋:“老?那是沉稳。” 中景，平视机位，沈清秋身体微侧，手腕抖动，沈清秋变招,剑走偏锋刺咽喉。",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_06",
+          "name": "第1集-片段6",
+          "index": 6,
+          "description": "中景，平视机位，破庙大殿内，赵天霸位于画面左侧，沈清秋位于画面右侧，两人相距约两米对峙。赵天霸迅速挥剑格挡，剑尖划破沈清秋衣领。 近景，平视机位，聚焦沈清秋。沈清秋面容冷静，面对赵天霸说道：“赵帮主,破绽太多。” 中景，平视机位，破庙大殿内，赵天霸位于画面中央，沈清秋退至背景处。赵天霸疯狂挥剑,招式凌乱。 全景，平视机位，破庙大殿内，赵天霸在左，沈清秋在右。沈清秋身形如燕,穿梭自如。 近景，平视机位，聚焦赵天霸。赵天霸眼神凶狠，对着沈清秋喊道：“因为我还有最后一招。”",
+          "duration": 12,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_07",
+          "name": "第1集-片段7",
+          "index": 7,
+          "description": "中景，平视机位，画面左侧赵天霸侧身站立，面向右侧沈清秋，右手捏着一枚黑色药丸送入口中吞下。沈清秋站在画面右侧，身体微前倾，目光紧盯着赵天霸的动作。 近景，平视机位，画面聚焦于沈清秋面部，他眉头紧锁，眼神中充满惊疑，嘴巴张开说道：“你吃了什么?”，背景中赵天霸的身影略微虚化。 近景，平视机位，画面聚焦于赵天方面部，他嘴角勾起一抹狰狞冷笑，直视前方说道：“血煞丹,沈大侠,怕了吗?”，眼神中透着狂热。 特写，平视机位，画面极度靠近赵天霸面部，捕捉到他气息暴涨时肌肉的剧烈颤动，双眼瞬间变为赤红色，瞳孔收缩，神情变得扭曲而凶狠。 全景，平视机位，画面展现破庙大殿全貌，赵天霸从画面左侧如离弦之箭般向右侧发起极速冲锋，带起一阵尘土，身影因高速移动而产生动态模糊，沈清秋在画面右侧迅速做出防御姿态。",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_08",
+          "name": "第1集-片段8",
+          "index": 8,
+          "description": "中景，平视机位，赵天霸与沈清秋相对而立，赵天霸猛然发力冲击，震碎脚下石板。 近景，侧视机位，赵天霸面向右侧，硬抗一剑,直扑要害。 近景，侧视机位，沈清秋面向左侧，回剑护胸,衣袖撕裂。 近景，正视机位，赵天霸面向镜头，面目狰狞，赵天霸:“你以为赢了吗?! 中景，平视机位，赵天霸与沈清秋近距离对峙，赵天霸抓住沈清秋手腕,用力捏。",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_09",
+          "name": "第1集-片段9",
+          "index": 9,
+          "description": "中景，平视机位，室内破庙大殿。沈清秋位于画面左侧，面向右侧的赵天霸，眼神凌厉，喝道：“放手!”赵天霸位于画面右侧，正面对沈清秋，双手紧抓沈清秋手腕。 中景，平视机位，室内破庙大殿。沈清秋迅速发力，肘部向后猛击赵天霸腹部。赵天霸身体前倾，面部因疼痛扭曲。 中景，平视机位，室内破庙大殿。赵天霸松开手，踉跄后退两步，随即再次怒吼着扑向沈清秋。沈清秋稳住身形，准备应对。 中景，平视机位，室内破庙大殿。两人扭打在一起，拳脚相加无章法，尘土飞扬，动作激烈混乱。 中景，平视机位，室内破庙大殿。沈清秋抽出一把短刃，精准地抵在赵天霸的喉咙处。赵天霸僵住，沈清秋眼神冷峻。",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_10",
+          "name": "第1集-片段10",
+          "index": 10,
+          "description": "中景，平视机位，室内。沈清秋正面站立于画面左侧，神情冷峻，面向右侧的赵天霸。赵天霸位于画面右侧，身形佝偻，两人保持对峙站位。沈清秋说：“结束了。” 近景，平视机位，室内。镜头聚焦于赵天霸面部特写，他双眼闪烁着诡异的红光，面部肌肉因痛苦而扭曲，身体剧烈颤抖。 近景，平视机位，室内。镜头保持对准赵天霸，他满脸惊骇与不甘，嘴唇哆嗦着说道：“不可能……” 中景，平视机位，室内。画面恢复至两人相对位置，沈清秋居高临下地看着赵天霸，语气平静而充满压迫感，说道：“血煞丹的反噬,感觉到了吗?” 全景，平视机位，室内。展示破庙大殿全貌，赵天霸双腿一软，重重跪倒在满是灰尘的地面上，双手死死抱住头部，发出痛苦的哀嚎声。沈清秋依旧站在原地，静静注视着这一切。",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_11",
+          "name": "第1集-片段11",
+          "index": 11,
+          "description": "中景，平视机位，赵天霸突然从地面爬起，站在左侧，面向右侧的沈清秋，沈清秋站在右侧，面对赵天霸。赵天霸:“沈清秋,你赢了。” 近景，平视机位，聚焦赵天霸，他身体微微前倾，面部表情扭曲，发出诡异笑声。 近景，平视机位，聚焦赵天霸，他嘴角上扬，眼神阴鸷。赵天霸:“你真以为,只有我会用药?” 近景，平视机位，聚焦沈清秋，他面色苍白，眉头紧锁，双手按住胸口，身体因气血翻涌而轻微颤抖。 近景，平视机位，聚焦沈清秋，他抬起头，眼神中带着震惊与愤怒。沈清秋:“你对我做了什么?”",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_12",
+          "name": "第1集-片段12",
+          "index": 12,
+          "description": "中景，平视机位，画面左侧赵天霸站立，右侧沈清秋踉跄后退。赵天霸面对沈清秋说道：“刚才那一撞,传了你散功散。” 近景，侧视机位，聚焦沈清秋。沈清秋面色苍白，双腿发软，身体微微晃动，表现出内力流失的状态。 近景，平视机位，对准沈清秋。沈清秋抬头看向赵天霸方向，颤抖着问道：“你……同归于尽?” 中景，平视机位，画面左侧赵天霸，右侧沈清秋。赵天霸突然发力，猛扑向沈清秋，动作迅猛。 中景，平视机位，画面左侧赵天霸被推开后退，右侧沈清秋用力抵住。沈清秋推开赵天霸，自己因惯性踉跄后退。",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_13",
+          "name": "第1集-片段13",
+          "index": 13,
+          "description": "中景，平视机位，沈清秋站立于画面左侧，面向右侧倒地的赵天霸，沈清秋神情决绝，说道：“休想!” 近景，微俯视角，赵天霸瘫软在破庙大殿地面，四肢抽搐试图挣扎但无法起身，面部表情痛苦且惊恐。 中景，低角度仰拍，沈清秋从画面右侧走向前景倒地的赵天霸，最终停在赵天霸身旁，居高临下俯视，赵天霸位于画面下方仰视沈清秋。 近景，平视机位，沈清秋面部特写，眼神冷冽，对着下方的赵天霸说道：“因为我还有一件事没做。” 全景，侧视机位，沈清秋站在赵天霸身侧，手中掏出纸条并用力扔向赵天霸脸部，纸条飘落覆盖在赵天霸脸上，两人保持原有站位。",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_14",
+          "name": "第1集-片段14",
+          "index": 14,
+          "description": "中景，平视机位，破庙大殿内，沈清秋站在赵天霸身前，面向右侧（镜头方向），神情冷峻，沈清秋:“你的秘密,我已告诉官府。” 近景，平视机位，破庙大殿内，赵天霸面部特写，脸色惨白，眼中失去高光，显得震惊和绝望。 近景，平视机位，破庙大殿内，赵天霸嘴唇颤抖，声音虚浮，赵天霸:“你……你说什么?” 中景，平视机位，破庙大殿内，沈清秋转身背对赵天霸，迈步准备离开，语气平淡，沈清秋:“江湖路远,赵帮主好自为之。” 全景，平视机位，破庙大殿内，沈清秋背影逐渐走向庙门外的黑暗深处，最终消失在夜色中。",
+          "duration": 12,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_01_15",
+          "name": "第1集-片段15",
+          "index": 15,
+          "description": "中景，平视机位，画面中赵天霸位于中央，身体微微前倾，面部表情扭曲，张大嘴巴发出惨叫。赵天霸:“不——!!!”",
+          "duration": 5,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 1
+        },
+        {
+          "id": "seg_02_01",
+          "name": "第2集-片段1",
+          "index": 1,
+          "description": "中景，平视机位，沈清秋从破庙内部走向门口，身体略微前倾，脚步虚浮地跨出庙门进入殿外区域。 近景，平视机位，沈清秋侧身靠在庙外的树干上，双手撑住树干支撑身体，面部表情痛苦，大口喘息。 近景，平视机位，沈清秋背对树干站立，双臂环抱自己，浑身因内力流失而剧烈颤抖，面色苍白冰冷。 全景，平视机位，沈清秋位于画面前景右侧靠树处，背景为幽暗的破庙大殿外环境，远处隐约可见马蹄声传来的方向，营造紧张氛围。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_02",
+          "name": "第2集-片段2",
+          "index": 2,
+          "description": "中景，平视机位，从破庙大殿内部向外拍摄，画面前景可见殿内昏暗的立柱或佛像轮廓，背景透过大门看到夜色下的庭院。一队官兵骑马来到殿外树下，马蹄声隐约可闻，马匹在树旁停下。 中景，平视机位，镜头聚焦于殿门处。领头军官翻身下马，动作利落，随即整理衣冠向殿内方向行礼，姿态恭敬但眼神警惕。 近景，平视机位，对准军官面部及上半身。军官神色严肃，开口说道：沈大侠,奉知县大人之命。 近景，平视机位，转向殿内阴影处的沈清秋。沈清秋眉头紧锁，眼神冷冽，右手紧紧握住剑柄，并未松开，身体保持戒备姿态，未对军官的话做出回应。",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_03",
+          "name": "第2集-片段3",
+          "index": 3,
+          "description": "中景，平视机位，破庙大殿内部，军官站在中央，面向左侧的赵天霸和右侧的沈清秋，三人呈三角站位。军官:“赵天霸涉嫌谋反,证据确凿。” 近景，侧视机位，拍摄位于画面右侧的沈清秋，他背对镜头微微侧身，听到话语后紧绷的身体放松下来。沈清秋闻言,紧绷身体放松。 中景，平视机位，破庙大殿内，军官转身面向沈清秋，赵天霸站在背景处。军官:“请您随我们回衙门作证。” 近景，平视机位，拍摄沈清秋，他面对军官，点头示意后身体微微晃动，勉强站稳。沈清秋点头,稳住身形。",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_04",
+          "name": "第2集-片段4",
+          "index": 4,
+          "description": "中景，平视机位，破庙大殿门口，军官搀扶着沈清秋，两人并肩走出庙门来到殿外夜色中，走向一旁的马匹，沈清秋面色苍白但神情坚毅，军官神情紧张警惕。他借军官搀扶,走出庙门走向马匹。 近景，侧拍机位，沈清秋停下脚步，回头望向破庙方向，眼神深邃冷静，背景是昏暗的破庙轮廓。回头望向破庙,目光深邃。 中景，平视机位，镜头对准沈清秋和军官，远处破庙深处隐约可见赵天霸被捆绑的身影，气氛压抑。赵天霸的惨叫声隐约传来。 全景，低角度仰拍，沈清秋在军官协助下跨上马背，随后策马转身，与军官及其他随从一同离开破庙大殿区域，马蹄声渐远。沈清秋跨上马背,与众人离去。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_05",
+          "name": "第2集-片段5",
+          "index": 5,
+          "description": "中景，平视机位，室内知县衙门大堂，王知县高坐堂上位于画面右侧高位，沈清秋被带入大堂站在画面左侧低位，面色苍白，两人同框展示对峙站位。 近景，平视机位，室内知县衙门大堂，镜头聚焦于右侧高座上的王知县，他神色凝重，身体微微前倾，目光投向左下方的沈清秋。 近景，平视机位，室内知县衙门大堂，镜头聚焦于右侧高座上的王知县，他开口说话，面部表情严肃，王知县:“沈大侠,辛苦了。” 近景，平视机位，室内知县衙门大堂，镜头切换至左侧低位的沈清秋，他双手抱拳做出拱手姿态，强撑精神抬头望向堂上，动作/台词必须保留：沈清秋拱手,强撑精神。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_06",
+          "name": "第2集-片段6",
+          "index": 6,
+          "description": "中景，平视机位。画面中沈清秋立于左侧，赵天霸被押在右侧，王知县高坐堂上居中。沈清秋拱手说道：“为民除害,分内之事。” 近景，平视机位。镜头聚焦于堂下案几，师爷的手入画，将一叠书信呈上作为证物放在桌上。 近景，平视机位。镜头切至赵天霸面部特写，他蓬头垢面，神情颓丧。师爷画外音说道：“这是从赵天霸密室搜出的。” 全景，平视机位。展现大堂全貌，赵天霸被衙役押解着跪在堂下右侧，蓬头垢面，双手被缚，沈清秋站立于堂下左侧，王知县高坐堂上居中，三人呈对峙之势。",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_07",
+          "name": "第2集-片段7",
+          "index": 7,
+          "description": "全景，平视机位，室内。知县衙门大堂内，王知县高坐明镜高悬匾额之下，赵天霸跪于堂下右侧，沈清秋站立于堂下左侧。赵天霸抬头大喊：王大人,我是冤枉的! 近景，平视机位，室内。王知县面露怒色，身体前倾俯视堂下，严厉斥责：人赃并获,还敢狡辩? 中景，平视机位，室内。赵天霸猛地抬头，目光越过王知县，死死盯着站在一旁的沈清秋，眼神充满怨恨与指控。 中景，平视机位，室内。赵天霸指着沈清秋方向，情绪激动地指控：沈清秋,你陷害我!",
+          "duration": 11,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_08",
+          "name": "第2集-片段8",
+          "index": 8,
+          "description": "中景，平视机位，沈清秋位于画面左侧，面向右侧的王知县与赵天霸，神情冷静，冷冷回望，毫无惧色。 近景，平视机位，沈清秋位于画面中央偏左，身体微侧向右，目光锐利地盯着对面，说道：“赵帮主,证据确凿。” 近景，平视机位，王知县位于画面中央，身穿官服，坐在公案后，猛地拍下惊堂木，大声呵斥。 中景，平视机位，王知县位于画面中央高座，赵天霸位于画面右侧下方，王知县手指赵天霸，大声问道：“赵天霸,你可知罪?”",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_09",
+          "name": "第2集-片段9",
+          "index": 9,
+          "description": "中景，平视机位，画面左侧赵天霸瘫软在地绝望大哭，面朝右前方；右侧沈清秋背对镜头转身欲走，身体微侧向左；后方正中王知县端坐于太师椅上，面向前方。 中景，平视机位，画面右侧沈清秋身形一晃似要跌倒，面朝左前方；左侧赵天霸瘫软在地，抬头望向沈清秋方向；后方王知县保持坐姿，目光投向沈清秋。 中景，平视机位，画面后方王知县眉头紧锁，面露惊疑，视线投向右侧；左侧赵天霸依旧瘫软在地；右侧沈清秋稳住身形，侧身回望。 中景，平视机位，画面后方王知县身体前倾，手指向沈清秋方向，说道：“沈大侠,且慢。”左侧赵天霸瘫软在地，右侧沈清秋驻足回头看向王知县。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_10",
+          "name": "第2集-片段10",
+          "index": 10,
+          "description": "中景，平视机位，画面中沈清秋背对镜头站立，面向前方王知县方向，王知县位于画面后方正中。沈清秋停下脚步,背对众人。 近景，平视机位，相机从沈清秋侧后方拍摄，可见其背影及头部微转的轮廓。沈清秋:“大人还有何吩咐?” 近景，平视机位，相机正对王知县，王知县坐在公案后，身体微微前倾，目光注视沈清秋。王知县:“看你气色不佳,可是受伤了?” 特写，平视机位，相机聚焦于沈清秋面部侧面，捕捉其眼神细微变化。沈清秋心中一惊,掩饰过去。",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_11",
+          "name": "第2集-片段11",
+          "index": 11,
+          "description": "中景，平视机位，沈清秋站在大堂左侧，面向右侧的王知县。沈清秋拱手行礼，说道：“多谢大人关心,并无大碍。” 近景，平视机位，王知县坐在太师椅上，身体微前倾，若有所思地打量沈清秋，随后挥挥手示意。 近景，平视机位，王知县放下手，语气平淡地说道：“那便好,下去休息吧。” 全景，平视机位，沈清秋转身背对王知县，快步走出大堂门口。画面显示沈清秋额头冷汗直流，神情紧张。",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_12",
+          "name": "第2集-片段12",
+          "index": 12,
+          "description": "中景，平视机位，知县衙门大堂内，赵天霸站在左侧，王知县居中坐在太师椅上，沈清秋跪在右侧地上。三人均面向前方，赵天霸神情凶狠，王知县面色阴沉，沈清秋痛苦捂胸。 近景，平视机位，聚焦沈清秋面部。沈清秋额头渗汗，眉头紧锁，眼神中流露出对死亡的恐惧与挣扎，身体微微颤抖。 特写，平视机位，聚焦沈清秋双眼。沈清秋缓缓抬起头，目光越过王知县投向大堂外的远方，眼神逐渐从痛苦转为坚定与决绝。 中景，平视机位，知县衙门大堂内，赵天霸站在左侧，王知县居中坐在太师椅上，沈清秋跪在右侧地上。沈清秋深吸一口气，挺直腰板，内心独白：为了活下去,他必须找到解药。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_13",
+          "name": "第2集-片段13",
+          "index": 13,
+          "description": "全景，平视机位，知县衙门大堂内。王知县端坐于上方公案后，赵天霸跪于堂下左侧，沈清秋站立于右侧旁听席。画面展现三人相对站位，沈清秋内心独白：“而解药的线索,就在赵天霸口中。” 中景，平视机位，聚焦于沈清秋与赵天霸的互动区域。沈清秋目光微垂，似乎在权衡利弊，赵天霸低头不语。画面呈现沈清秋的心理活动：“但他不能直接问,风险太大。” 近景，平视机位，特写沈清秋面部表情。沈清秋眼神变得坚定，嘴角微微抿起，显露出决断之色。画面伴随内心独白：“他需要一个新的计划。” 中景，平视机位，跟随沈清秋的动作。沈清秋深吸一口气，转身退至大堂后方人群边缘，背影逐渐模糊。画面描述动作：“沈清秋深吸一口气,退至后方。”",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_02_14",
+          "name": "第2集-片段14",
+          "index": 14,
+          "description": "中景，平视机位，知县衙门大堂内，王知县端坐于太师椅上，赵天霸立于左侧，沈清秋立于右侧后方，三人呈三角对峙站位。江湖路远,唯有步步为营。 近景，平视机位，聚焦沈清秋，他转身背对镜头向大堂门口走去，背影逐渐远去。他的身影逐渐消失在街角。 全景，平视机位，知县衙门大堂内，王知县与赵天霸留在原地，目光跟随沈清秋离开的方向，气氛凝重。一场新的博弈,悄然拉开序幕。",
+          "duration": 6,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 2
+        },
+        {
+          "id": "seg_03_01",
+          "name": "第3集-片段1",
+          "index": 1,
+          "description": "中景，平视机位，沈清秋在林间小径疾行。 近景，平视机位，沈清秋眉头紧锁，每走一步,都感到经脉刺痛。 中景，平视机位，他不得不停下来,调息运气。",
+          "duration": 6,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_02",
+          "name": "第3集-片段2",
+          "index": 2,
+          "description": "全景，平视机位，拍摄城郊树林外景环境。镜头中无人物，突出自然氛围。突然,一阵冷风掠过树梢。 中景，平视机位，沈清秋位于画面中央，身体朝向左侧，手握剑柄，神情警觉。 远景，平视机位，拍摄城郊树林外景。树丛后方空间开阔，展示黑影移动轨迹。树丛后,一道黑影缓缓走出。 近景，平视机位，黑衣人位于画面中心，面部细节清晰可见面具特征。黑衣人戴着面具,看不清面容。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_03",
+          "name": "第3集-片段3",
+          "index": 3,
+          "description": "中景，平视机位，外景，城郊树林中，沈清秋独自站立，身体微侧，面朝画面左侧，神情警惕。黑衣人（画外）声音响起：黑衣人:“沈大侠,别来无恙。” 近景，平视机位，外景，聚焦于沈清秋面部，他眯起眼睛，目光锐利地扫视前方，全身戒备森严，肌肉紧绷。 近景，平视机位，外景，沈清秋直视前方，眼神冰冷，开口问道：沈清秋:“阁下是谁?为何跟踪我?”",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_04",
+          "name": "第3集-片段4",
+          "index": 4,
+          "description": "中景，平视机位，林间光线斑驳，画面聚焦于沈清秋，他侧身站立，面部表情冷峻，背景是模糊的树干，黑衣人轻笑一声,声音沙哑。 近景，平视机位，镜头推进至沈清秋面部特写，捕捉其细微神情变化，背景虚化，黑衣人:“我只是来看看,沈大侠如何。” 中景，平视机位，沈清秋身体前倾，眼神锐利，动作果断，展现出不退反进的态势，沈清秋冷哼一声,不退反进。 全景，平视机位，展示沈清秋在树林中的完整身形及周围环境，沈清秋面对镜头方向，姿态强硬，沈清秋:“有话直说,别玩花样。”",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_05",
+          "name": "第3集-片段5",
+          "index": 5,
+          "description": "中景，平视机位，户外城郊树林中，沈清秋位于画面中央偏左，身体正对镜头，神情警惕。黑衣人停下脚步,摊开双手。 近景，平视机位，户外城郊树林中，镜头聚焦沈清秋面部，人物正视前方，神情警惕。 近景，平视机位，户外城郊树林中，镜头特写沈清秋面部，人物正视前方。沈清秋瞳孔微缩,心中震惊。 中景，平视机位，户外城郊树林中，沈清秋位于画面中央，身体微侧向左，眼神锐利。",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_06",
+          "name": "第3集-片段6",
+          "index": 6,
+          "description": "中景，平视机位，沈清秋站在城郊树林中，黑衣人（画外）从怀中掏出一个瓷瓶，镜头聚焦于手部动作。 近景，平视机位，特写瓷瓶口部，淡淡烟雾状药香散发，背景为模糊的树林光影。 近景，平视机位，沈清秋侧脸入画，鼻子微动，原本紧绷的神色逐渐缓和，目光投向前方。 中景，平视机位，沈清秋正对镜头方向，眼神带着疑惑与期待，开口问道：“这是……散功散的解药?”，背景为开阔的城郊树林。",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_07",
+          "name": "第3集-片段7",
+          "index": 7,
+          "description": "中景，平视机位，室外城郊树林环境。黑衣人与沈清秋相对而立，黑衣人位于画面左侧面向右侧，沈清秋位于画面右侧面向左侧。黑衣人点头,嘴角勾起冷笑。 近景，平视机位，室外城郊树林背景虚化。镜头聚焦于黑衣人，他面向画面左侧的沈清秋方向。 近景，平视机位，室外城郊树林背景虚化。镜头聚焦于沈清秋，他面向画面右侧的黑衣人方向，眉头紧锁。 近景，侧视机位，室外城郊树林背景虚化。镜头聚焦于沈清秋，他神情警惕地看向黑衣人。沈清秋:“剩下的三分之二在哪里?”",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_08",
+          "name": "第3集-片段8",
+          "index": 8,
+          "description": "中景，平视机位，室外环境。黑衣人站在左侧，手指向身后深处的树林，沈清秋站在右侧面对黑衣人。黑衣人指了指身后的树林深处。 近景，侧拍机位，室外环境。镜头聚焦黑衣人面部，神情阴冷。黑衣人:“在那棵百年老松之下。” 近景，正面机位，室外环境。镜头聚焦沈清秋面部，眼神闪烁不定，表现出内心的挣扎。沈清秋犹豫片刻,决定冒险。 中景，平视机位，室外环境。沈清秋身体前倾，目光锐利地盯着黑衣人，气势逼人。沈清秋:“若你敢耍花样,我必杀你。”",
+          "duration": 10,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_09",
+          "name": "第3集-片段9",
+          "index": 9,
+          "description": "中景，平视机位，黑衣人与沈清秋位于画面中，黑衣人耸耸肩，转身引路。 近景，侧视机位，黑衣人面向沈清秋方向，说道：“沈大侠请。” 全景，平视机位，两人一前一后，深入树林。 中景，平视机位，阳光透过树叶，斑驳陆离。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_10",
+          "name": "第3集-片段10",
+          "index": 10,
+          "description": "中景，平视机位，镜头从树林侧面拍摄，展示潮湿的泥土和弥漫的空气，画面中无人物，仅表现环境氛围，空气中弥漫着潮湿泥土的气息。 近景，侧视机位，沈清秋位于画面左侧，身体微侧向右，眼神警惕地注视着画外右侧方向，暗中观察黑衣人的举动。 全景，平视机位，镜头拉远展示树林全貌，沈清秋隐蔽在树干后，远处隐约可见黑衣人脚步轻盈地移动。 近景，平视机位，聚焦沈清秋凝重的面部特写，眉头紧锁，眼神中透露出分析判断，这绝非普通江湖人士所为。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_11",
+          "name": "第3集-片段11",
+          "index": 11,
+          "description": "中景，平视机位，沈清秋站立于城郊树林中，身体微侧，神情警惕，不敢大意。 中景，平视机位，沈清秋向前行走，最终停在一棵大树前，面向树干。 中景，平视机位，沈清秋站在树下，面对大树，做出挖掘示意动作。 近景，平视机位，沈清秋手持短刃，将刀刃插入树根旁的泥土中，身体前倾用力。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_12",
+          "name": "第3集-片段12",
+          "index": 12,
+          "description": "中景，平视机位，沈清秋背对镜头侧身站立于树林中，他小心翼翼地挖掘着泥土。 近景，俯视机位，沈清秋双手捧起泥土向两侧拨开，随着土层剥离,一个木盒出现。 近景，平视机位，沈清秋面向镜头，双手拿起木盒,打开一看。 特写，俯视机位，镜头聚焦在打开的木盒内部，里面果然放着两枚玉瓶。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_13",
+          "name": "第3集-片段13",
+          "index": 13,
+          "description": "中景，平视机位，沈清秋位于画面中央偏左，侧身站立，右手拿起一枚丹药凑近鼻端闻了闻，神情专注。他拿起其中一枚,闻了闻。 近景，平视机位，聚焦沈清秋面部特写，他微微皱眉后舒展，确认药性，眼神笃定。药香浓郁,正是解药无疑。 中景，平视机位，沈清秋站在原地，身体正对前方，头部抬起，目光锐利地望向画外黑衣人的方向。沈清秋抬头看向黑衣人。 中景，平视机位，沈清秋手持解药，身体微侧向画外，语气冷静而坚定地看着对方。沈清秋:“解药在此,你可以走了。”",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_14",
+          "name": "第3集-片段14",
+          "index": 14,
+          "description": "中景，平视机位，户外城郊树林环境。沈清秋站立于画面左侧，面向右侧，神情警惕。黑衣人（未列出但在场）站在对面，摇了摇头，笑容诡异。 近景，平视机位，户外城郊树林背景虚化。黑衣人面对镜头，说道：“沈大侠,事情没那么简单。” 近景，平视机位，户外城郊树林。沈清秋侧身站立，心中不妙，握紧剑柄。 特写，平视机位，户外城郊树林。沈清秋正视前方，问道：“你想怎样?”",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_15",
+          "name": "第3集-片段15",
+          "index": 15,
+          "description": "中景，平视机位，外景城郊树林中，铁面杀手位于画面中央，沈清秋与赵天霸分立两侧。铁面杀手缓缓摘下面具，动作清晰可见。 近景，平视机位，外景城郊树林中，铁面杀手面向镜头，沈清秋在画面前景右侧侧身观看，面部表情凝重。 中景，平视机位，外景城郊树林中，铁面杀手居中，赵天霸在其左侧，沈清秋在右侧。铁面杀手面具摘下后露出真容，三人保持站立姿态。 近景，平视机位，外景城郊树林中，铁面杀手正对镜头，面部表情冷峻。铁面杀手：“赵帮主临死前的托付。”",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_16",
+          "name": "第3集-片段16",
+          "index": 16,
+          "description": "中景，平视机位，室外城郊树林。沈清秋位于画面左侧，面向右侧的赵天霸和铁面杀手，怒极反笑，手按剑柄。 中景，平视机位，室外城郊树林。沈清秋位于画面左侧，赵天霸位于画面右侧，两人对峙。沈清秋说：“好一个赵天霸,好一个铁面。” 近景，平视机位，室外城郊树林。铁面杀手侧身站立，拔出长刀，刀光霍霍。 全景，平视机位，室外城郊树林。沈清秋、赵天霸、铁面杀手三人呈三角站位对峙。铁面杀手抱拳说道：“沈大侠,得罪了。”",
+          "duration": 9,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_17",
+          "name": "第3集-片段17",
+          "index": 17,
+          "description": "中景，平视机位，两人在画面中央激烈交锋，铁面杀手位于左侧持刀攻向右侧的沈清秋，两人身体交错，刀光闪烁，动作迅猛。两人瞬间交手,刀光剑影。 近景，平视机位，镜头聚焦于沈清秋，他面露疲态，眉头紧锁，呼吸急促，右手握刀微微颤抖，身体重心后仰，显示出内力不支的状态。沈清秋内力不足,渐渐吃力。 近景，平视机位，镜头切换至铁面杀手，他面具下的眼神冷酷无情，步伐稳健有力，挥刀动作大开大合，带着强烈的压迫感向前逼近。铁面杀手招式狠辣,步步紧逼。 全景，平视机位，画面展现两人拉开距离，沈清秋在右侧不断后退，脚步凌乱，铁面杀手在左侧步步紧逼，周围树木枝叶被剑气震落，营造出紧张的对峙氛围。沈清秋被迫节节败退。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_18",
+          "name": "第3集-片段18",
+          "index": 18,
+          "description": "中景，平视机位，外景。画面中赵天霸位于右侧，沈清秋位于左侧，铁面杀手位于中间，三人呈三角对峙站位。 近景，平视机位，外景。镜头聚焦于沈清秋，他神色凝重，眼神警惕地扫视四周，试图寻找机会突围。他必须尽快服下解药,恢复实力。 近景，平视机位，外景。镜头切换至铁面杀手，他面具下的双眼冷冽如冰，紧紧锁定沈清秋的每一个细微动作。但铁面杀手显然看穿了他的意图。 中景，平视机位，外景。铁面杀手突然向前逼近一步，伸手死死缠住沈清秋，赵天霸在右侧伺机而动。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_03_19",
+          "name": "第3集-片段19",
+          "index": 19,
+          "description": "中景，平视机位，户外城郊树林环境。沈清秋位于画面中央偏左，身体微侧向右，面部表情痛苦且坚毅，正在拼死抵抗。沈清秋咬紧牙关,拼死抵抗。 近景，平视机位，户外城郊树林环境。镜头聚焦沈清秋面部特写，他眼神凝重，目光直视前方，内心独白浮现。他知道,这一战,生死攸关。 近景，平视机位，户外城郊树林环境。沈清秋环顾四周，身体紧绷，似乎在快速搜索周围地形寻找机会。他必须在短时间内找到突破口。 近景，平视机位，户外城郊树林环境。沈清秋深吸一口气，握紧拳头，眼神中透出决绝。否则,他将命丧于此。",
+          "duration": 8,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 3
+        },
+        {
+          "id": "seg_04_01",
+          "name": "第4集-片段1",
+          "index": 1,
+          "description": "中景，平视机位，外景。沈清秋位于画面左侧，身体微侧向右，双手抬起做出防御姿态，神情紧张。铁面杀手位于画面右侧，面向沈清秋，手持兵器蓄势待发。沈清秋左支右绌,险象环生。 近景，平视机位，外景。铁面杀手位于画面中心偏右，面部表情冷酷，挥刀向左劈砍。沈清秋位于画面左侧边缘，身体后仰躲避。铁面杀手一刀劈向沈清秋肩膀。 特写，平视机位，外景。聚焦沈清秋上半身侧面。沈清秋迅速侧身闪避，衣袖被利刃划开，布料撕裂飘动。沈清秋侧身躲避,衣袖被割裂。 中景，平视机位，外景。沈清秋位于画面中央偏左，脚步凌乱地向后倒退，双手护在胸前。铁面杀手位于画面右侧背景处，保持攻击姿态。他趁机后退,拉开距离。 近景，平视机位，外景。沈清秋位于画面中心，头发略显凌乱，眼神坚定且愤怒，直视前方。沈清秋:“铁面,你逃不掉的。” 全景，平视机位，外景。沈清秋站在画面左侧远处，铁面杀手位于画面右侧前景，嘴角上扬露出轻蔑冷笑，随后迈步向前逼近，缩小两人之间的距离。铁面杀手冷笑,重新逼近。",
+          "duration": 13,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_02",
+          "name": "第4集-片段2",
+          "index": 2,
+          "description": "中景，平视机位，沈清秋位于画面左侧，铁面杀手位于画面右侧，两人相距数步对峙。铁面杀手冷冷说道：“是吗?那就试试看。” 近景，微俯视机位，镜头聚焦沈清秋面部。沈清秋侧身对着镜头，眼中闪过一丝决绝。 近景，平视机位，镜头特写沈清秋手部动作。沈清秋猛地吞下手中的毒药。 全景，平视机位，展现城郊树林全貌，沈清秋在画面中央，铁面杀手在背景处。药力瞬间爆发,涌入四肢百骸。 近景，平视机位，镜头对准沈清秋背部及侧面。沈清秋感到内力迅速恢复。 中景，平视机位，沈清秋正面朝向镜头。他深吸一口气,调整呼吸。 近景，平视机位，镜头转向铁面杀手。铁面杀手见状,脸色大变。",
+          "duration": 15,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_03",
+          "name": "第4集-片段3",
+          "index": 3,
+          "description": "中景，平视机位，铁面杀手与沈清秋在城郊树林中对峙，铁面杀手位于画面左侧，沈清秋位于画面右侧，铁面杀手神情惊愕，说道：“你……你服了毒?” 近景，平视机位，沈清秋位于画面中央偏右，嘴角上扬，眼神冷冽，右手持剑直指对面的铁面杀手，动作果断。 近景，平视机位，沈清秋位于画面中央，面带冷笑，剑尖微颤，说道：“不错,现在轮到我了。” 中景，平视机位，铁面杀手与沈清秋在城郊树林中，铁面杀手位于画面左侧，神色凝重不敢大意，随即全力挥刀进攻，动作迅猛。 全景，平视机位，城郊树林背景，铁面杀手的刀刃划破空气，带起凌厉的刀风和杀气，画面展现动态张力。 中景，平视机位，铁面杀手与沈清秋在城郊树林中近距离交锋，沈清秋位于画面右侧，不再退缩，迎着刀锋而上，剑刀相交。",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_04",
+          "name": "第4集-片段4",
+          "index": 4,
+          "description": "中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。剑光如虹,直刺铁面杀手胸口。 中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。铁面杀手横刀格挡,火星四溅。 中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。两人再次陷入僵持。 中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。沈清秋内力恢复,攻势更猛。 中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。他剑走偏锋,专攻要害。 中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。铁面杀手渐渐招架不住。 中景，平视机位，外景。沈清秋位于画面左侧面向右，铁面杀手位于画面右侧面向左。他的刀势开始凌乱,破绽频出。",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_05",
+          "name": "第4集-片段5",
+          "index": 5,
+          "description": "中景，平视机位，沈清秋位于画面左侧，面向右侧的铁面杀手，沈清秋抓住机会,一剑刺出。 近景，平视机位，铁面杀手面部特写，侧脸朝向左侧，剑尖划破铁面杀手的脸颊。 中景，平视机位，铁面杀手身体后仰，背对沈清秋后退几步，铁面杀手惊呼一声,后退几步。 近景，平视机位，铁面杀手面部表情震惊，正视前方，铁面杀手:“你……你竟然这么强。” 中景，平视机位，沈清秋向前逼近，铁面杀手向后退去，沈清秋步步紧逼,不给喘息。 近景，平视机位，沈清秋正视铁面杀手，神情冷峻，沈清秋:“赵天霸让你来的?” 近景，平视机位，铁面杀手低头沉默，身体紧绷，铁面杀手咬牙,沉默不语。",
+          "duration": 15,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_06",
+          "name": "第4集-片段6",
+          "index": 6,
+          "description": "中景，平视机位，外景。沈清秋位于画面左侧，面向右侧的铁面杀手，剑锋指向他的喉咙。沈清秋剑锋指向他的喉咙。 近景，平视机位，外景。镜头聚焦沈清秋，他面部表情冷峻，眼神凌厉地盯着画面外的铁面杀手。沈清秋:“不说,我就杀了你。” 近景，平视机位，外景。镜头聚焦铁面杀手，他面色苍白，眼神惊恐地看向沈清秋。铁面杀手眼中闪过一丝恐惧。 近景，平视机位，外景。镜头聚焦铁面杀手，他颤抖着嘴唇，声音带着哭腔。铁面杀手:“是……是他让我监视你。” 特写，平视机位，外景。镜头聚焦沈清秋的脸部，嘴角勾起一抹轻蔑的冷笑。沈清秋冷笑,剑锋再进一寸。 中景，平视机位，外景。沈清秋位于画面左侧，面向右侧的铁面杀手，剑尖抵住对方皮肤。沈清秋:“还有呢?”",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_07",
+          "name": "第4集-片段7",
+          "index": 7,
+          "description": "中景，平视机位，铁面杀手位于画面左侧，身体微侧向右，沈清秋位于画面右侧，面向左侧。铁面杀手颤抖着说道: 近景，平视机位，铁面杀手面部特写，神情痛苦且紧张，眼神游离。铁面杀手:“他还留了一手……” 近景，平视机位，沈清秋面部特写，眉头紧锁，眼神中充满疑惑，目光投向铁面杀手。沈清秋皱眉,心中疑惑更甚。 近景，平视机位，沈清秋面部特写，嘴唇微动，语气急促且带有质问意味。沈清秋:“什么意思?” 中景，平视机位，铁面杀手位于画面左侧，身体转向右侧远方，抬起右手指向远处，沈清秋位于画面右侧，身体随铁面杀手视线转向。铁面杀手苦笑,指向远处。 近景，平视机位，铁面杀手侧脸特写，手指方向明确，表情无奈。铁面杀手:“你看那边。” 全景，平视机位，铁面杀手与沈清秋均位于画面中，沈清秋站在铁面杀手身旁，身体和头部完全转向铁面杀手所指的方向望去，背景为延伸的树林。沈清秋顺着手指方向望去。",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_08",
+          "name": "第4集-片段8",
+          "index": 8,
+          "description": "全景，平视机位，外景，林间空地。铁面杀手位于画面左侧持械戒备，沈清秋位于画面中央神情警惕，赵天霸站在画面右侧远处，周围环绕着一群黑衣人正向他们包围过来。只见一群黑衣人正包围过来。 中景，平视机位，外景。镜头聚焦于赵天霸，他站在黑衣人前方，为首之人,正是赵天霸本人。 中景，平视机位，外景。展示赵天霸的状态，他站在黑衣人前方，神态从容自信，并未受伤。 近景，平视机位，外景。赵天霸面带阴狠笑容，原来这一切都是赵天霸的阴谋。 近景，平视机位，外景。沈清秋面部特写，眼神中充满震惊，沈清秋心中一震,难以置信。 中景，平视机位，外景。沈清秋面对赵天霸，手指指向对方，沈清秋:“赵天霸,你还没死?” 中景，平视机位，外景。赵天霸仰头大笑，赵天霸哈哈大笑,声音阴森。",
+          "duration": 15,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_09",
+          "name": "第4集-片段9",
+          "index": 9,
+          "description": "中景，平视机位，赵天霸站在画面右侧，面带冷笑看向左侧，沈清秋站在画面左侧，手持解药瓶，铁面杀手隐于赵天霸身后阴影中。赵天霸:“沈大侠,欢迎回来。” 近景，平视机位，沈清秋侧身面对镜头，右手紧紧握住剑柄，眼神警惕地扫视周围树林。沈清秋握紧剑柄,警惕四周。 近景，平视机位，沈清秋面部特写，眉头紧锁，眼神中流露出意识到局势不妙的凝重神情。他意识到自己陷入了更大的陷阱。 中景，平视机位，赵天霸站在画面中央，整理衣袖，神态轻松自信，身后铁面杀手持刀而立。赵天霸不仅没死,还早有准备。 全景，平视机位，树林四周埋伏着多名杀手，形成包围圈，沈清秋被围在中心，孤立无援。他利用沈清秋解毒的机会,布下天罗地网。 近景，平视机位，沈清秋闭上眼睛深吸一口气，随后睁开眼，目光变得锐利冷静。沈清秋深吸一口气,冷静分析。 中景，平视机位，沈清秋环顾四周密集的敌人，身体微微下沉，做出防御姿态，眼神坚定。对方人数众多,硬拼必输。",
+          "duration": 15,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_10",
+          "name": "第4集-片段10",
+          "index": 10,
+          "description": "中景，平视机位，室外城郊树林环境。沈清秋与铁面杀手相对而立，沈清秋位于画面左侧，铁面杀手位于画面右侧，两人保持数步距离，神情凝重，展现突围前的紧张氛围。他必须寻找突围的机会。 近景，平视机位，室外城郊树林。镜头聚焦于沈清秋面部，他侧头看向画面右侧的铁面杀手，眼神冰冷锐利，面部肌肉紧绷，毫无怜悯之色。他看向铁面杀手,眼神冰冷。 近景，平视机位，室外城郊树林。镜头切换至沈清秋正面特写，他嘴唇微动，语气低沉而充满试探，目光紧锁对方反应。沈清秋:“你,想活命吗?” 近景，平视机位，室外城郊树林。镜头对准铁面杀手面部，他听到问话后立刻点头，额头渗出冷汗，眼中流露出强烈的恐惧与求生欲望，身体微微前倾以示顺从。铁面杀手点头,眼中满是求生欲。 近景，平视机位，室外城郊树林。铁面杀手声音颤抖，带着哭腔乞求，双手不自觉地做出卑微姿态，眼神中满是绝望后的希冀。铁面杀手:“想……求你放过我。” 中景，平视机位，室外城郊树林。沈清秋突然挥动手腕，剑锋划出一道寒光直指铁面杀手胸口，动作迅猛果断，打破刚才的对峙平衡，气氛瞬间凝固。沈清秋剑锋一转,指向铁面杀手。 全景，平视机位，室外城郊树林。铁面杀手看到剑尖指向自己，脸色骤变，瞳孔放大，惊慌失措地连连向后退去，脚下踩断枯枝，试图拉开安全距离。铁面杀手大惊,连忙后退。",
+          "duration": 15,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_11",
+          "name": "第4集-片段11",
+          "index": 11,
+          "description": "全景，平视机位，户外城郊树林。沈清秋位于画面左侧，面对右侧的铁面杀手和稍远处的赵天霸。沈清秋快速说道: 中景，平视机位，户外城郊树林。沈清秋占据画面主体，表情冷峻，面向镜头方向。沈清秋:“带路,否则死。” 近景，平视机位，户外城郊树林。铁面杀手面部特写，神情无奈且警惕。铁面杀手别无选择,只能听从。 中景，平视机位，户外城郊树林。铁面杀手侧身，伸出右手手指指向画面深处的树林背景。他指着树林深处的密道。 近景，平视机位，户外城郊树林。铁面杀手面部特写，眼神看向指的方向，口型配合台词。铁面杀手:“那边……有条密道。” 中景，平视机位，户外城郊树林。沈清秋抓住铁面杀手的手臂，两人身体前倾准备移动。沈清秋点头,拉着铁面杀手就跑。 近景，平视机位，户外城郊树林。赵天霸站在画面后方，面部怒容，拳头紧握。赵天霸见状,大怒。",
+          "duration": 15,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_12",
+          "name": "第4集-片段12",
+          "index": 12,
+          "description": "中景，平视机位，外景城郊树林。赵天霸位于画面左侧，身体前倾，手指前方，神情凶狠，朝右侧的沈清秋和铁面杀手方向大喊：赵天霸:“追!绝不能让他们跑了!” 全景，平视机位，外景城郊树林。赵天霸转身带领手下黑衣人向画面深处奔跑，背景中可见多名黑衣人在树林间穿梭追赶，形成包围态势。",
+          "duration": 5,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_13",
+          "name": "第4集-片段13",
+          "index": 13,
+          "description": "中景，平视机位，沈清秋在前，铁面杀手紧随其后，两人呈前后纵队站立，共同向画面深处奔跑，沈清秋带着铁面杀手,冲进密道。 全景，低角度仰拍，展示密道入口内部空间，四周树木遮蔽光线，环境显得幽暗，密道阴暗潮湿,伸手不见五指。 近景，侧视机位，沈清秋伸出双手向前摸索，身体前倾，步伐谨慎，他凭着记忆,摸索着前进。 中景，俯视机位，镜头聚焦于地面落叶，远处背景模糊处有晃动的人影逼近，身后传来追兵的脚步声。 近景，平视机位，沈清秋面部特写，眉头紧锁，眼神焦急，脚步明显加快，沈清秋心中焦急,加快脚步。 中景，平视机位，前方黑暗尽头出现微弱光斑，沈清秋抬头望向光亮处，终于,前方出现了光亮。 全景，低角度仰拍，展现密道出口连接着外部树林，光线从出口射入，形成明暗对比，那是密道的出口。",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_14",
+          "name": "第4集-片段14",
+          "index": 14,
+          "description": "中景，平视机位，沈清秋拉着铁面杀手从密道冲出，两人均面向画面右侧奔跑，沈清秋在前，铁面杀手在后，背景为城郊树林边缘。 全景，平视机位，展示城郊树林外的湍急河流，河水从左向右流动，两岸树木茂密，无人物出现。 近景，平视机位，沈清秋背对镜头，毫不犹豫地跳入河中，身体前倾，溅起水花，河流背景清晰可见。 中景，平视机位，沈清秋在水中挣扎，身体东倒西歪，面部表情痛苦，水流冲击着他的身体，背景为流动的河水。 近景，平视机位，沈清秋紧紧抱住铁面杀手，两人随波逐流，铁面杀手昏迷不醒，沈清秋努力保持平衡，水流湍急。 全景，平视机位，河岸远处，追兵站在岸边，望着河流无能为力，两岸树木林立，追兵身影较小，表现出距离感。 中景，平视机位，沈清秋和铁面杀手漂流至较平静的水域，沈清秋抬头望向远方，眼神中透露出暂时安全的 relief，背景为城郊树林和河流。",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_15",
+          "name": "第4集-片段15",
+          "index": 15,
+          "description": "中景，平视机位，外景。赵天霸站在画面左侧，面带冷笑看向右侧，沈清秋站在画面右侧，手持长剑，铁面杀手隐于沈清秋身后阴影中。赵天霸:“沈大侠,欢迎回来。” 全景，平视机位，外景。三人位于画面中，环境开阔。镜头缓缓拉远，展现局势紧张。画外音或字幕感独白响起：“这场江湖恩怨,才刚刚开始。” 中景，平视机位，外景。沈清秋站在画面右侧，目光望向左侧的赵天霸，眼神坚毅。赵天霸和铁面杀手在画面左侧注视着他。沈清秋内心独白：“他望着赵天霸,眼神坚毅。” 近景，平视机位，外景。聚焦沈清秋面部特写，阳光透过树叶洒在脸上。他紧握拳头，坚定地说：“无论前路多么艰险,他都不会放弃。” 中景，平视机位，外景。沈清秋转身面对赵天霸，手指指向对方。赵天霸后退半步。沈清秋冷声道：“他要揭开赵天霸的真面目。” 全景，平视机位，外景。三人形成三角站位，气氛凝固。沈清秋高举手臂，向天空宣告：“他要为江湖讨回公道。” 全景，平视机位，外景。沈清秋紧握剑柄，身体微蹲，处于防守姿态，准备应对即将到来的围攻。画外音描述：“沈清秋的身影在树林中蓄势待发。”",
+          "duration": 14,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        },
+        {
+          "id": "seg_04_16",
+          "name": "第4集-片段16",
+          "index": 16,
+          "description": "中景，平视机位，铁面杀手与沈清秋并肩站立于城郊树林中，面向前方。新的旅程,即将展开。",
+          "duration": 5,
+          "selected": "",
+          "versions": [],
+          "status": "pending",
+          "episode": 4
+        }
+      ],
+      "version": 1
+    }
+  },
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1782081279.9245362
+    },
+    "character_design": {
+      "phase": "character_design",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1782081770.586999
+    },
+    "storyboard": {
+      "phase": "storyboard",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1782081978.3375454
+    },
+    "reference_generation": {
+      "phase": "参考图",
+      "step": "完成: seg_04_03",
+      "message": "参考图: 完成: seg_04_03",
+      "percent": 77,
+      "updated_at": 1782092481.7005463
+    }
+  },
+  "error": null,
+  "updated_at": 1782092481.700556,
+  "meta": {
+    "idea": "制作一段节奏紧凑的古风武侠打斗场面",
+    "user_textbox_input": "制作一段节奏紧凑的古风武侠打斗场面",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
