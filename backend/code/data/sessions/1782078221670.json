@@ -1,0 +1,130 @@
+{
+  "session_id": "1782078221670",
+  "created_at": 1782078221.670807,
+  "current_stage": "script_generation",
+  "status": {
+    "script_generation": "completed",
+    "character_design": "pending",
+    "storyboard": "pending",
+    "reference_generation": "pending",
+    "video_generation": "pending",
+    "post_production": "pending",
+    "init": "completed"
+  },
+  "artifacts": {
+    "script_generation": {
+      "project_id": "proj_1782078221670",
+      "session_id": "1782078221670",
+      "version": 1,
+      "created_at": "2026-06-21T21:47:48.588840+00:00",
+      "meta": {
+        "generation_model": "agnes-2.0-flash",
+        "generation_prompt": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+        "original_text": "## 第1集\n<action>警报声尖锐刺耳,红光闪烁</action>\n林远(惊恐):屏幕显示怪兽能量指数突破临界值!\n<action>地面剧烈震动,灰尘落下</action>\n赵刚(冷酷):慌什么?那是我们制造的兵器。\n<action>巨兽尾巴扫过走廊,玻璃粉碎</action>\n赵刚(按住林远):别动,连接神经接口。\n<action>林远挣扎,被电流击中惨叫</action>\n林远(痛苦):放开我!它会失控!\n<action>赵刚冷笑:只有你能重启它。</action>\n<action>巨兽撞开大门,黑雾涌入</action>\n赵刚(推林远向前):去!控制它!\n<action>林远踉跄前行,目光惊恐</action>\n<action>巨兽无视林远,扑向赵刚</action>\n赵刚(惨叫):啊!!!\n<action>林远看向出口,眼神复杂</action>\n林远(自语):不管是谁,都得付出代价。\n<action>林远冲出大门,消失在夜色中</action>\n<action>远处传来野兽的低沉咆哮</action>\n林远(喘息):不能停,必须找到真相。\n<action>手机震动,收到匿名短信</action>\n林远(阅读):想去见它吗?来废弃港口。\n<action>林远抬头,望向远方灯塔</action>\n林远(决定):这是唯一的线索。\n<action>林远加速奔跑,身影融入黑暗</action>\n<action>镜头切换至港口,海浪拍岸</action>\n<action>远处黑影缓缓浮现</action>\n## 第2集\n<action>海浪拍打岸边,月光惨白</action>\n老陈(沙哑):我是看门的。\n<action>远处海面浮现巨大黑影</action>\n老陈:它一直在等它的对手。\n<action>另一侧海面升起绿色光芒</action>\n林远(惊呼):哥斯拉!\n<action>哥斯拉背鳍亮起蓝光</action>\n老陈:不,它们在找你。\n<action>林远愣住,风卷起衣角</action>\n老陈(逼近):因为你身上有钥匙。\n老陈(指心口):你的血。\n<action>哥斯拉蓄力,光芒暴涨</action>\n林远(恐惧):原子吐息要发射了!\n<action>林远转头,看到满载毒药的船</action>\n老陈:是赵刚放的。\n<action>哥斯拉光束转向林远</action>\n林远(闭眼):再见了...\n<action>林远睁眼,光束擦身而过</action>\n老陈(喊):醒醒!\n<action>林远转身,却被绳索缠住脚踝</action>\n老陈(拔枪):那就让他尝尝子弹。\n<action>金刚一拳砸向追兵车辆</action>\n老陈:因为它闻到了同类的气息。\n<action>哥斯拉走近,低头嗅林远</action>\n老陈:它在叫你主人。\n<action>地面裂开,神秘符文显现</action>\n老陈:通往地心的路。\n<action>林远纵身一跃,身影消失</action>\n老陈(微笑):祝你好运,孩子。\n<action>水下气泡翻涌,林远下沉</action>\n<action>下方出现微弱的光芒</action>\n<action>林远抓住光柱,向上漂浮</action>\n<action>冲破水面,进入地下洞穴</action>\n<action>空气中弥漫着硫磺味</action>\n## 第3集\n<action>林远落地,尘土飞扬</action>\n林远(咳嗽):这里...好热。\n<action>四周墙壁发出幽蓝光芒</action>\n远古AI(机械音):欢迎,继承者。\n<action>黑暗中亮起无数双眼睛</action>\n远古AI:别怕,它们是朋友。\n<action>巨型蜥蜴状生物走出阴影</action>\n林远(拔刀):来吧!\n<action>蜥蜴生物发出嘶吼</action>\n远古AI:不要攻击,要沟通。\n<action>林远(吼叫):我拒绝暴力!</action>\n<action>蜥蜴生物突然扑来</action>\n林远(闪避):好快!\n<action>林远站稳,举起双手</action>\n林远:但我也不会让你伤害无辜!\n<action>蜥蜴生物停下,喷火</action>\n远古AI:那是考验,不是攻击。\n<action>林远咬牙,盯着蜥蜴</action>\n林远(坚定):我看得到你。\n远古AI:看到什么?\n林远:孤独。\n<action>蜥蜴生物眼神软化</action>\n林远(轻声):你也想回家吗?\n<action>蜥蜴生物低头,让林远抚摸</action>\n远古AI:现在,接受试炼。\n<action>周围景象扭曲,变成幻境</action>\n远古AI:你的过去。\n<action>幻象中出现赵刚的笑脸</action>\n远古AI:恨意会让你迷失。\n<action>幻象变成林远父母的背影</action>\n林远(流泪):爸妈...\n<action>林远擦干眼泪,站直身体</action>\n远古AI:感受它,然后超越它。\n<action>幻境崩塌,回到现实洞穴</action>\n远古AI:你战胜了心魔。\n<action>镜子出现在面前,映出林远</action>\n远古AI:内心的黑暗面。\n<action>镜中人影走出,变成黑林远</action>\n黑林远(冷笑):终于见面了。\n<action>林远冲向黑林远,拥抱它</action>\n林远(坚定):我不放手。\n<action>黑林远消散,融入林远体内</action>\n远古AI:你完整了。\n<action>洞穴顶部打开,露出星空</action>\n林远:我得回去。\n<action>几只小怪兽围在林远身边</action>\n林远(微笑):你们愿意跟我走吗?\n<action>林远带着怪兽群走向出口</action>\n远古AI:去验证它。\n<action>阳光刺眼,林远眯起眼</action>\n林远(大喊):赵刚!我回来了!\n<action>林远握紧拳头,眼神锐利</action>\n林远:不,游戏才刚刚开始。\n## 第4集\n<action>林远站在广场中央,周围是怪兽</action>\n赵刚(开车冲来):你居然活着!\n<action>市民尖叫,四处逃散</action>\n林远:他们不是你的实验品。\n赵刚(狂笑):他们是耗材!\n<action>金刚和哥斯拉从两侧出现</action>\n林远:它们不是畜生,是邻居。\n赵刚(开枪):去死吧!\n<action>子弹被哥斯拉鳞片弹开</action>\n<action>林远挥手,小怪兽群包围赵刚</action>\n赵刚(后退):别过来!\n<action>金刚走近,捡起赵刚的枪</action>\n林远:他不需要武器。\n赵刚(跪地):饶命!\n<action>林远伸出手,拉赵刚起来</action>\n林远:不,我要审判你。\n<action>林远拿出手机,开启直播</action>\n林远:各位观众,看看这个人。\n<action>直播间人数飙升,弹幕滚动</action>\n赵刚(绝望):你们都被骗了!\n<action>林远展示赵刚的秘密文件</action>\n林远:基因改造,非法实验,屠杀无辜。\n<action>哥斯拉喷出火焰,烧焦文件</action>\n林远:我有记忆。\n<action>林远触碰赵刚额头,读取记忆</action>\n林远(冷漠):我看到了你的罪行。\n<action>警察包围广场,手铐声响起</action>\n警察:赵刚,你被捕了!\n<action>赵刚被带走,回头瞪视</action>\n赵刚:你会后悔的!\n<action>怪兽群开始消散,变回动物形态</action>\n林远(抚摸小怪兽):回家吧。\n<action>金刚和哥斯拉向林远点头</action>\n林远:谢谢你们的信任。\n<action>天空放晴,彩虹出现</action>\n林远(深呼吸):自由的味道。\n<action>林远走向远方,背影孤独</action>\n远古AI(画外音):不,新篇章开始了。\n<action>镜头拉远,城市恢复平静</action>\n林远:你好,未来。"
+      },
+      "title": "深渊回响:林远的觉醒",
+      "logline": "科学家林远因实验事故被迫逃亡,在海港邂逅神秘长者后进入地下洞穴接受远古AI试炼,最终率领怪兽回归城市,通过直播揭露反派赵刚的罪行并重塑人与自然的关系。",
+      "genre": [
+        "科幻",
+        "动作",
+        "冒险"
+      ],
+      "mood": "紧张悬疑转为宏大庄严,最终归于平静与希望",
+      "characters": [
+        {
+          "name": "林远",
+          "description": "男性,青年,黑色短发,身穿深灰色连帽卫衣与黑色长裤,体型中等偏瘦,面容清秀,五官端正,皮肤白皙,衣着整洁无破损。",
+          "species": "人类",
+          "character_id": "char_aa220d"
+        },
+        {
+          "name": "赵刚",
+          "description": "男性,中年,银灰色短发梳理整齐,身穿黑色高领紧身战术服,体型健壮魁梧,面部轮廓硬朗,皮肤略显粗糙,衣着整洁。",
+          "species": "人类",
+          "character_id": "char_63e0ad"
+        },
+        {
+          "name": "老陈",
+          "description": "男性,老年,满头白发修剪极短,身穿深蓝色旧式工装外套与深色长裤,体型瘦削佝偻,面部皱纹较多,皮肤黝黑,衣着整洁。",
+          "species": "人类",
+          "character_id": "char_e2e9f6"
+        }
+      ],
+      "settings": [
+        {
+          "name": "实验室走廊",
+          "description": "室内空间,明亮的人工冷白光照明,墙壁为白色金属面板,地面铺设灰色防滑地砖,设有银色金属扶手与嵌入式红色警报灯,整洁现代。",
+          "setting_id": "set_38c0a6"
+        },
+        {
+          "name": "废弃港口码头",
+          "description": "室外海边空间,明亮的月光照明,地面为平整的水泥铺装,边缘设有锈迹斑斑但结构稳固的黑色金属护栏,背景可见静止的集装箱与远处灯塔,环境空旷整洁。",
+          "setting_id": "set_f1cee6"
+        },
+        {
+          "name": "地下远古洞穴",
+          "description": "室内洞穴空间,幽蓝色的矿物荧光照明,地面为平整的天然岩石平台,四周岩壁镶嵌着发光晶体,空气通透,无杂物堆积,显得神秘而洁净。",
+          "setting_id": "set_061423"
+        },
+        {
+          "name": "城市中心广场",
+          "description": "室外开阔空间,明亮的自然日光照明,地面铺设米色花岗岩地砖,四周环绕着现代玻璃幕墙建筑,视野开阔,无垃圾或障碍物,整洁有序。",
+          "setting_id": "set_c90867"
+        }
+      ],
+      "episodes": [
+        {
+          "episode_number": 1,
+          "act_title": "觉醒与逃亡",
+          "content": "## 第1集\n<action>警报声尖锐刺耳,红光闪烁</action>\n林远(惊恐):屏幕显示怪兽能量指数突破临界值!\n<action>地面剧烈震动,灰尘落下</action>\n赵刚(冷酷):慌什么?那是我们制造的兵器。\n<action>巨兽尾巴扫过走廊,玻璃粉碎</action>\n赵刚(按住林远):别动,连接神经接口。\n<action>林远挣扎,被电流击中惨叫</action>\n林远(痛苦):放开我!它会失控!\n<action>赵刚冷笑:只有你能重启它。</action>\n<action>巨兽撞开大门,黑雾涌入</action>\n赵刚(推林远向前):去!控制它!\n<action>林远踉跄前行,目光惊恐</action>\n<action>巨兽无视林远,扑向赵刚</action>\n赵刚(惨叫):啊!!!\n<action>林远看向出口,眼神复杂</action>\n林远(自语):不管是谁,都得付出代价。\n<action>林远冲出大门,消失在夜色中</action>\n<action>远处传来野兽的低沉咆哮</action>\n林远(喘息):不能停,必须找到真相。\n<action>手机震动,收到匿名短信</action>\n林远(阅读):想去见它吗?来废弃港口。\n<action>林远抬头,望向远方灯塔</action>\n林远(决定):这是唯一的线索。\n<action>林远加速奔跑,身影融入黑暗</action>\n<action>镜头切换至港口,海浪拍岸</action>\n<action>远处黑影缓缓浮现</action>"
+        },
+        {
+          "episode_number": 2,
+          "act_title": "深海之门",
+          "content": "## 第2集\n<action>海浪拍打岸边,月光惨白</action>\n老陈(沙哑):我是看门的。\n<action>远处海面浮现巨大黑影</action>\n老陈:它一直在等它的对手。\n<action>另一侧海面升起绿色光芒</action>\n林远(惊呼):哥斯拉!\n<action>哥斯拉背鳍亮起蓝光</action>\n老陈:不,它们在找你。\n<action>林远愣住,风卷起衣角</action>\n老陈(逼近):因为你身上有钥匙。\n老陈(指心口):你的血。\n<action>哥斯拉蓄力,光芒暴涨</action>\n林远(恐惧):原子吐息要发射了!\n<action>林远转头,看到满载毒药的船</action>\n老陈:是赵刚放的。\n<action>哥斯拉光束转向林远</action>\n林远(闭眼):再见了...\n<action>林远睁眼,光束擦身而过</action>\n老陈(喊):醒醒!\n<action>林远转身,却被绳索缠住脚踝</action>\n老陈(拔枪):那就让他尝尝子弹。\n<action>金刚一拳砸向追兵车辆</action>\n老陈:因为它闻到了同类的气息。\n<action>哥斯拉走近,低头嗅林远</action>\n老陈:它在叫你主人。\n<action>地面裂开,神秘符文显现</action>\n老陈:通往地心的路。\n<action>林远纵身一跃,身影消失</action>\n老陈(微笑):祝你好运,孩子。\n<action>水下气泡翻涌,林远下沉</action>\n<action>下方出现微弱的光芒</action>\n<action>林远抓住光柱,向上漂浮</action>\n<action>冲破水面,进入地下洞穴</action>\n<action>空气中弥漫着硫磺味</action>"
+        },
+        {
+          "episode_number": 3,
+          "act_title": "试炼与新生",
+          "content": "## 第3集\n<action>林远落地,尘土飞扬</action>\n林远(咳嗽):这里...好热。\n<action>四周墙壁发出幽蓝光芒</action>\n远古AI(机械音):欢迎,继承者。\n<action>黑暗中亮起无数双眼睛</action>\n远古AI:别怕,它们是朋友。\n<action>巨型蜥蜴状生物走出阴影</action>\n林远(拔刀):来吧!\n<action>蜥蜴生物发出嘶吼</action>\n远古AI:不要攻击,要沟通。\n<action>林远(吼叫):我拒绝暴力!</action>\n<action>蜥蜴生物突然扑来</action>\n林远(闪避):好快!\n<action>林远站稳,举起双手</action>\n林远:但我也不会让你伤害无辜!\n<action>蜥蜴生物停下,喷火</action>\n远古AI:那是考验,不是攻击。\n<action>林远咬牙,盯着蜥蜴</action>\n林远(坚定):我看得到你。\n远古AI:看到什么?\n林远:孤独。\n<action>蜥蜴生物眼神软化</action>\n林远(轻声):你也想回家吗?\n<action>蜥蜴生物低头,让林远抚摸</action>\n远古AI:现在,接受试炼。\n<action>周围景象扭曲,变成幻境</action>\n远古AI:你的过去。\n<action>幻象中出现赵刚的笑脸</action>\n远古AI:恨意会让你迷失。\n<action>幻象变成林远父母的背影</action>\n林远(流泪):爸妈...\n<action>林远擦干眼泪,站直身体</action>\n远古AI:感受它,然后超越它。\n<action>幻境崩塌,回到现实洞穴</action>\n远古AI:你战胜了心魔。\n<action>镜子出现在面前,映出林远</action>\n远古AI:内心的黑暗面。\n<action>镜中人影走出,变成黑林远</action>\n黑林远(冷笑):终于见面了。\n<action>林远冲向黑林远,拥抱它</action>\n林远(坚定):我不放手。\n<action>黑林远消散,融入林远体内</action>\n远古AI:你完整了。\n<action>洞穴顶部打开,露出星空</action>\n林远:我得回去。\n<action>几只小怪兽围在林远身边</action>\n林远(微笑):你们愿意跟我走吗?\n<action>林远带着怪兽群走向出口</action>\n远古AI:去验证它。\n<action>阳光刺眼,林远眯起眼</action>\n林远(大喊):赵刚!我回来了!\n<action>林远握紧拳头,眼神锐利</action>\n林远:不,游戏才刚刚开始。"
+        },
+        {
+          "episode_number": 4,
+          "act_title": "审判与黎明",
+          "content": "## 第4集\n<action>林远站在广场中央,周围是怪兽</action>\n赵刚(开车冲来):你居然活着!\n<action>市民尖叫,四处逃散</action>\n林远:他们不是你的实验品。\n赵刚(狂笑):他们是耗材!\n<action>金刚和哥斯拉从两侧出现</action>\n林远:它们不是畜生,是邻居。\n赵刚(开枪):去死吧!\n<action>子弹被哥斯拉鳞片弹开</action>\n<action>林远挥手,小怪兽群包围赵刚</action>\n赵刚(后退):别过来!\n<action>金刚走近,捡起赵刚的枪</action>\n林远:他不需要武器。\n赵刚(跪地):饶命!\n<action>林远伸出手,拉赵刚起来</action>\n林远:不,我要审判你。\n<action>林远拿出手机,开启直播</action>\n林远:各位观众,看看这个人。\n<action>直播间人数飙升,弹幕滚动</action>\n赵刚(绝望):你们都被骗了!\n<action>林远展示赵刚的秘密文件</action>\n林远:基因改造,非法实验,屠杀无辜。\n<action>哥斯拉喷出火焰,烧焦文件</action>\n林远:我有记忆。\n<action>林远触碰赵刚额头,读取记忆</action>\n林远(冷漠):我看到了你的罪行。\n<action>警察包围广场,手铐声响起</action>\n警察:赵刚,你被捕了!\n<action>赵刚被带走,回头瞪视</action>\n赵刚:你会后悔的!\n<action>怪兽群开始消散,变回动物形态</action>\n林远(抚摸小怪兽):回家吧。\n<action>金刚和哥斯拉向林远点头</action>\n林远:谢谢你们的信任。\n<action>天空放晴,彩虹出现</action>\n林远(深呼吸):自由的味道。\n<action>林远走向远方,背影孤独</action>\n远古AI(画外音):不,新篇章开始了。\n<action>镜头拉远,城市恢复平静</action>\n林远:你好,未来。"
+        }
+      ]
+    }
+  },
+  "stage_progress": {
+    "script_generation": {
+      "phase": "script_generation",
+      "step": "已完成",
+      "message": "已完成",
+      "percent": 100,
+      "updated_at": 1782078669.6045136
+    }
+  },
+  "error": null,
+  "updated_at": 1782078669.60451,
+  "meta": {
+    "idea": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+    "user_textbox_input": "以哥斯拉大战金刚主题，生成一个科幻风格短片",
+    "style": "realistic",
+    "video_ratio": "16:9",
+    "video_resolution": "720P",
+    "expand_idea": true,
+    "llm_model": "agnes-2.0-flash",
+    "vlm_model": "agnes-2.0-flash",
+    "image_t2i_model": "agnes-image-2.0-flash",
+    "image_it2i_model": "agnes-image-2.0-flash",
+    "video_first_frame_model": "agnes-video-v2.0",
+    "video_start_end_model": "agnes-video-v2.0",
+    "video_reference_model": "agnes-video-v2.0",
+    "video_generation_mode": "first_frame",
+    "video_model": "agnes-video-v2.0",
+    "enable_concurrency": true,
+    "web_search": false,
+    "episodes": 4
+  }
+}
